@@ -1,3 +1,4 @@
 /data
 /.venv
 /outputs
+.DS_Store
