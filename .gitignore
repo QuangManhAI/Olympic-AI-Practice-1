@@ -7,3 +7,13 @@
 *.zip
 *.pdf
 practice-1/outputs/model/train_data.pt
+models/qwen3-0.6B/model.safetensors
+models/t5-base/tf_model.h5
+.gitignore
+models/t5-base/rust_model.ot
+.gitignore
+models/t5-base/model.safetensors
+models/t5-base/spiece.model
+models/t5-base/flax_model.msgpack
+.gitignore
+models/t5-base/pytorch_model.bin
