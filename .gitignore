@@ -17,3 +17,5 @@ models/t5-base/spiece.model
 models/t5-base/flax_model.msgpack
 .gitignore
 models/t5-base/pytorch_model.bin
+*.npy
+*.csv

@@ -1,4 +1,12 @@
-pandas
-tqdm
 torch
 torchvision
+torchaudio
+timm
+transformers
+peft
+accelerate
+scikit-learn
+pandas
+numpy
+tqdm
+Pillow
