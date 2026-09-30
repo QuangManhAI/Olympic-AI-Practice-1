@@ -5,6 +5,8 @@ Kho lưu trữ chứa toàn bộ mã nguồn, tài liệu và kết quả dự �
 1. **Luyện tập 1 (`practice-1/`)**: Dự đoán & Phân loại cấp bão (Storm Intensity Classification - CV).
 2. **Tác vụ 1 (`tacvu1_absa/`)**: Khai phá ý kiến đa miền - Trích xuất bộ ba khía cạnh, danh mục, cảm xúc (MEMD-ABSA / ACSTE - NLP).
 3. **Tác vụ 2 (`tacvu2_trashnet/`)**: Phân loại rác thải 6 lớp (TrashNet Classification - CV).
+4. **Tác vụ 3 (`tacvu3_deepFake/`)**: Phát hiện mạo danh / Deepfake khuôn mặt theo cặp (Pairwise Classification - CV).
+5. **Tác vụ 4 (`tacvu4_table_extraction/`)**: Trích xuất bảng từ ảnh tài liệu tiếng Việt sang Markdown (Table Structure Recognition + OCR).
 
 ---
 
@@ -47,11 +49,17 @@ Olympic-AI-Practice-1/
 │   ├── submissions/                     # submission.csv, submission.zip
 │   └── README.md
 │
-├── data/                                # Dữ liệu dùng chung (Raw Data)
-│   ├── TACVU1/                          # Dữ liệu train, public_test, private_test cho Tác vụ 1
-│   └── TACVU2/                          # Dữ liệu train, public_test, private_test cho Tác vụ 2
+├── tacvu3_deepFake/                     # BÀI THI 4 (Ca 1 - Tác vụ 1): Deepfake Face Detection (CV)
+│   └── ca1/TACVU1/
+│       ├── baseline_TACVU1_dense_net.ipynb # Pipeline DenseNet-121 (Private score 94.00%)
+│       └── data/                        # train, public_test, private_test
 │
-├── models/                              # Pretrained weights (qwen3-0.6B, t5-base)
+├── tacvu4_table_extraction/             # BÀI THI 5 (Ca 1 - Tác vụ 2): Trích xuất bảng sang Markdown
+│   ├── baseline_TACVU2.ipynb            # Notebook baseline độc lập
+│   └── data/                            # training_set, public_test, private_test
+│
+├── data/                                # Dữ liệu dùng chung (Raw Data)
+├── models/                              # Pretrained weights (qwen3-0.6B, t5-base, table_microsoft)
 ├── outputs/                             # Checkpoints sinh ra khi chạy huấn luyện
 ├── requirements.txt                     # Danh sách thư viện Python cần thiết
 └── README.md                            # Tài liệu tổng quan (file này)

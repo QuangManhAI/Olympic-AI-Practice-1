@@ -19,3 +19,8 @@ models/t5-base/flax_model.msgpack
 models/t5-base/pytorch_model.bin
 *.npy
 *.csv
+models/table_microsoft/model.safetensors
+tacvu4_table_extraction/data/
+**/private_test/
+**/private_test.zip
+tacvu4_table_extraction/runs/model_a/grid_crnn.pt
