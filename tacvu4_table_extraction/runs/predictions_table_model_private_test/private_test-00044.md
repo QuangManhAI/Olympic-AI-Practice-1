@@ -1,33 +1,33 @@
-| **Construction** | **Stark** | **Conside** | **BÁO CÁ** | **KHAI THÁC TUYẾN** | **BẢNG 1** | **Conside** | **Conside** | **Conside** |
+|  |  |  | **BẢO CÁO** | **KHAI THÁC TUYÊN** | **BẢNG 1** |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] | [[H]] |
-| Tuyến | Số chuyến | Hành khách | Đúng giờ<br>031000000020 | Doanh thu | Ghi chú | Tỷ trọng (%) | Mã tham chiếu | Kỳ trước |
-| Hà Nội ? Hải Phòng | 36 | 20 | 9,7% | 21.680 | những chuyến | 28,8% | 054031 | 204 |
-| Và Năng ? Huế | 3 | 296 | 04,7% | 9.432 | Contransitionalists<br>Phiếu chính giờ | 2,4% | 152848 | 308 |
-| HCM ? Cần Thơ | 16 | 196 | 05,6% | Contraction | Contransitionalists<br>Phiếu chính giờ | 3,1% | 155981 | 276 |
-| Tha Trang ? Đà Lạt | 19 | 41 | 06,4% | 14.114 | Contransitionalists<br>Phiếu chính giờ | 21,4% | 058041 | 128 |
-| Hà Nội ? Hải Phòng | 32 | 344 | 06,2% | 35.200 | Contransitionalists<br>Phiếu chính giờ | 8,8% | 151232 | 806 |
-| Đồng | 10 | 080 | 04,7% | 78.200 | Bình thường | 4,2% | 150854 | 220 |
-| [[V]] | 14 | 848 | 03,3% | 06.976 | những chuyến | 3,1% | 150928 | 616 |
-| Tha Trang ? Đà Lạt | 23 | 67 | 8,5% | 08.049 | Bình thường | Contract | 155702 | 717 |
-| Nội ? Hải Phòng | 2 | 16 | 5,4% | 05.440<br>Đã đối chiếu | 0310000000099<br>Phiếu chính giờ | 6,1% | 150909 | 13 |
-| Và Nắng ? Huế | 1 | 64 | 3,1% | 1.216 | 03101001001990<br>Phiếu chính giờ | 8,3% | 153971 | 130 |
-| HCM ? Cần Thơ | 15 | 375 | 2,5% | 09.000 | căng chuyến | 6,2% | 150875 | 729 |
-| Tha Trang ? Đà Lạt | 15 | 90 | 3,2% | 65.330 | liều chinh giờ | 3,1% | 032140 | 265 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] | [[H]] |
+| **Tuyến** | **Số chuyến** | **Hành khách** | **Đúng giờ** | **Doanh thu** | **Ghi chú** | **Tỷ trọng (%)** | **Mã tham chiếu** | **Kỳ trước** |
+| Hà Nội ? Hải Phòng | 36 | 720 | 89,7% | 121.680 | Tăng chuyến | 28,8% | HS4031 | 9.204 |
+| Đà Năng ? Huế | 8 | 296 | 94,7% | 49.432 | Điều chỉnh giờ | 12,4% | HS2848 | 2.308 |
+| TP.HCM-Cần Thơ | 16 | 496 | 95,6% |  | Điều chỉnh giờ | 3,1% | HS5981 | 2.276 |
+| Nha Trang ? Đà Lạt | 19 | 741 | 96,4% | 114.114 | Điều chỉnh giờ | 21,4% | HS8041 | 4.128 |
+| Hà Nội ? Hải Phòng | 32 | 1.344 | 96,2% | 235.200 | Điều chỉnh giờ | 18,8% | HS1232 | 4.806 |
+| Lâm Đồng | 40 | 1.080 | 94,7% | 178.200 | Bình thường | 14,2% | HSO854 | 2.220 |
+| [[V]] | 44 | 1.848 | 93,3% | 206.976 | Tăng chuyến | 3,1% | HSO928 | 5.616 |
+| Nha Trang ? Đà Lạt | 23 | 667 | 88,5% | 98.049 | Bình thường |  | HS5702 | 5.717 |
+| Hà Nội ? Hải Phòng | 22 | 616 | 95,4% | 55.440<br>Đã đối chiếu | Điều chỉnh giờ | 16,1% | HSO909 | 613 |
+| Đà Nắng ? Huế | 11 | 264 | 83,1% | 51.216 | Điều chỉnh giờ | 18,3% | HS3971 | 430 |
+| TP.HCM ? Cần Thơ | 15 | 375 | 82,5% | 69.000 | Tăng chuyến | 16,2% | HSO875 | 7.729 |
+| **Nha Trang ? Đà Lạt** | **45** | **990** | **83,2%** | **165.330** | **Điều chỉnh giờ** | **8,1%** | **HS2140** | **7.265** |
 
-| **Construction** | **Construction** | **HÁT LƯỢNG MẠNG** | **DỊCH VỤ VIỄN THỔ** | **BẢNG 2** | **Construction** | **Construction** |
+|  |  | **CHÁT LƯỢNG MẠNG V** | **VÀ DỊCH VỤ VIÊN THÔNG** | **- BẢNG 2** |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chuna<br>Contractionalized | [[H]] | [[H]] | Thành thị thị thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Khu vực | Thuê bao | Lưu lượng | Tỷ lệ rớt cuộc | Phản ánh | Đơn vị tính | Ngày cập nhật |
-| BTS-01 | 627 | 04.849 | 5% | Contraction | sơ | 05/2026 |
-| BTS-02 | Contraction | 4.467 | 4% | 1 | sơ | 04/2026 |
-| LƯU VỰC VEN BIỂN | 1787 | 058 | 0% | 03 | sơ | 04/2026 |
-| LẦU VỰC ĐÔ THỊ | 0.926 | 7464 | 4% | 5 | 03100000099 | 08/2026 |
-| thu vực miền núi | 597 | 197 | 1% | đối chiếu | sơ | 02/2026 |
-| BTS-01 | 7.487 | 4.719 | 6% | 5 | Wh | 03/2026 |
-| BTS-02 | 6.715 | 6.377 | 5% | 2 | 03100000099 | 05/2026 |
-| Ảnh Hòa | 131 | 6.902 | 4% | 9 | so | 02/2026 |
-| [[V]] | 1.106 | 371 | 3% | 8 | so | 01/2026 |
-| LU VỰC MIỀN NÚI | 13.219 | 3.416 | 2% | 4 | concontractionalists<br>ĐIỆU DÒNG | 06/2026 |
-| BTS-01 | 9.504 | Contraction | 2% | Contraction | Wh | 07/2026 |
-| BTS-02 | 4.825 | 126 | 6% | 4 | 001 | 05/2026 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Khu vực** | **Thuê bao** | **Lưu lượng** | **Tỷ lệ rớt cuộc** | **Phản ánh** | **Đơn vị tính** | **Ngày cập nhật** |
+| Cụm BTS-01 | 7.627 | 74.849 | 3,5% | 6 | hồ sơ | 06/05/2026 |
+| Cụm BTS-02 |  | 14.467 | 3,4% | 61 | hồ sơ | 14/04/2026 |
+| Khu vực ven biển | 8.787 | 1.058 | 1,0% | 93 | hồ sơ | 20/04/2026 |
+| Khu vực đô thị | 20.926 | 77.464 | 3,4% | 15 | tấn | 06/08/2026 |
+| Khu vực miền núi | 5.597 | 57.197 | 2,1% | 30<br>Đã đối chiếu | hồ sơ | 18/02/2026 |
+| Cụm BTS-01 | 17.487 | 74.719 | 0,6% | 95 | kWh | 24/03/2026 |
+| Cụm BTS-02 | 36.715 | 36.377 | 1,5% | 62 | tấn | 26/05/2026 |
+| Khánh Hòa | 52.131 | 96.902 | 1,4% | 79 | hồ sơ | 06/02/2026 |
+| [[V]] | 51.106 | 5.371 | 0,3% | 78 | hồ sơ | 20/01/2026 |
+| Khu vực miền núi | 33.219 | 43.416 | 2,2% | 74 | triệu đồng | 20/06/2026 |
+| Cụm BTS-01 | 29.504 |  | 0,2% | 7 | kWh | 03/07/2026 |
+| **Cụm BTS-02** | **14.825** | **47.126** | **3,6%** | **54** | **lượt** | **11/05/2026** |

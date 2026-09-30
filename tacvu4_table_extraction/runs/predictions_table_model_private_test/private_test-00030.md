@@ -1,25 +1,25 @@
-| **Construction** | **Contraction** | **BÁO CÁO** | **DOANH THU THE** | **KHU VỰC BẢNG** | **Contraction** | **Contraction** | **Contraction** |
+| **BÁO CÁO DOANH THU THEO KHU VỰC — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | SỐ LIỆU BÁO CÁO | [[H]] | [[H]] | [[H]] |
-| Khu vực | Kế hoạch | Thực hiện | Chênh lệch | Tỷ lệ | Lũy kế | Tỷ trọng (%) | Kỳ trước |
-| 031001000000199<br>Bac | 730 | 270 | 40 | 19,8% | 388 | 0% | 883 |
-| Trung | 580 | 110 | 30 | 33,5% | 518 | 1,1% | 616 |
-| Nam | 490 | 650 | 60 | 03,6% | 996 | States | đối chiếu |
-| Nguyên | 560 | 260 | 00 | 19,7% | 037 | 1,4% | 901 |
-| ông bằng sông Cửu Long | 270 | 150 | 80 | 20,6% | 647 | 8,7% | 665 |
-| 0360000000039<br>Bac | 710 | Contraction | 00 | 16,2% | 357 | 7,3% | 67 |
-| Nguyên | 710 | 570 | 60 | 23,2% | 880 | 7,1% | 14 |
-| [[V]] | 640 | 180 | 160 | 0,1% | 343 | 4,7% | 813 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Khu vực** | **Kế hoạch** | **Thực hiện** | **Chênh lệch** | **Tỷ lệ** | **Lũy kế** | **Tỷ trọng (%)** | **Kỳ trước** |
+| Miền Bắc | 2.730 | 3.270 | 540 | 119,8% | 4.388 | 1,0% | 4.883 |
+| Miền Trung | 1.580 | 2.110 | 530 | 133,5% | 8.518 | 11,1% | 5.616 |
+| Miền Nam | 4.490 | 4.650 | 160 | 103,6% | 1.996 |  | 3.911<br>Đã đối chiếu |
+| Tây Nguyên | 3.560 | 4.260 | 700 | 119,7% | 8.037 | 31,4% | 6.901 |
+| Đồng bằng sông cửu Long | 4.270 | 5.150 | 880 | 120,6% | 2.647 | 18,7% | 7.665 |
+| Miền Bắc | 3.710 |  | 600 | 116,2% | 2.357 | 27,3% | 867 |
+| Tây Nguyên | 3.710 | 4.570 | 860 | 123,2% | 4.880 | 37,1% | 9.714 |
+| [[V]] | **4.640** | **4.180** | **460** | **90,1%** | **6.343** | **24,7%** | **9.813** |
 
-| **Construction** | **BẢN** | **TỔNG HỢP NHẬP** | **XUẤT ? TỒN ? BẢNG** | **Contraction** | **Contraction** | **Contraction** |
+| **BẢNG TỔNG HỢP NHẬP — XUẤT — TỒN — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thành Thông tin chuna<br>Contractionalized | [[H]] | [[H]] | SỐ LIỆU BÁO CÁO | [[H]] | [[H]] | [[H]] |
-| Mã hàng | Tên hàng | ĐVT | Tồn đầu | Nhập | Xuất | Tồn cuối |
-| 05 | Ấy in A4 | Ram | 14 | Contraction | 0 | 7 |
-| 749 | trước máy in | Ram | 27 | Contraction | 82 | 4 |
-| 086 | TÂY QUÉT TÀI LIỆU | tam | 20000000 | 3 | đối chiếu | 6 |
-| Trong bằng sông Cứu Long | làm việc | Ram | 12 | Contraction | Contraction | 08 |
-| [[V]] | Thế xoay | Nộp | 4 | 2 | 17800000099 | 9 |
-| 03000000009 | CONTERMONITIONALISTS<br>cừng di đọng | Ram | 1 | 03 | 17800000099 | 7 |
-| 223 | phát Wi-Fi | BỘ | 46 | 03 | 2 | 67 |
-| 050 | LẤY CHIẾU | Bộ | 6 | 0 | 5 | 1 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Mã hàng** | **Tên hàng** | **DVT** | **Tồn đầu** | **Nhập** | **Xuất** | **Tồn cuối** |
+| VT805 | Giấy in A4 | Ram | 144 |  | 80 | 67 |
+| VT749 | Mực máy in | Ram | 127 |  | 182 | 64 |
+| VT986 | Máy quét tài liệu | Ram | 72 | 63 | 40<br>Đã đối chiếu | 95 |
+| Đồng bằng sông cửu Long | Bàn làm việc | Ram | 112 | 1 | 5 | 108 |
+| [[V]] | Ghế xoay | Hộp | 34 | 32 | 27 | 39 |
+| VT841 | Ổ cứng di động | Ram | 21 | 103 | 67 | 57 |
+| VT223 | Bộ phát Wi-Fi | Bộ | 146 | 103 | 82 | 167 |
+| **VT050** | **Máy chiếu** | **Bộ** | **66** | **50** | **85** | **31** |

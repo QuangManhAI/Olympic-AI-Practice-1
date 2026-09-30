@@ -1,27 +1,27 @@
-| **Construction** | **Contraction** | **BÁO CÁO** | **HOẠT ĐỘNG BÁN LE** | **BẢNG 1** | **Construction** | **Contraction** |
+| **BÁO CÁO HOẠT ĐỘNG BÁN LÊ** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Điểm bán | Lượt khách | Số đơn | Giá trị bán | Hoàn trả | Ghi chú bồ sung | Xếp loại |
-| Phòng | 406 | 636 | 357.880 | 2% | nhông phát sinh | Contraction |
-| [[V]] | 21 | 08 | 208 | 1% | miscontractionalized<br>va doi chieu | BELLIES |
-| Liêu thị trung tâm | 085 | 90 | 60.230 | 4% | nhông phát sinh | Cần rà soát |
-| Liêm bán phía Bắc | 365 | 247 | 50.407 | %ối chiếu | nưa đủ chứng từ | States |
-| Nềm bán phía Nam | 081 | 59 | 09.309 | 2% | tiều chỉnh kỳ sau | Contraction |
-| 030000000 | 762 | 686 | 0386.836 | 1% | nưa đủ chứng từ | Cần rà soát |
-| 02 | 187 | 231 | 070.880 | 5% | nưa đủ chứng từ | Contraction |
-| Liêu thị trung tâm | 737 | 947 | 286.967 | Contraction | nhông phát sinh | Cần rà soát |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Điểm bán** | **Lượt khách** | **Số đơn** | **Giá trị bán** | **Hoàn trả** | **Ghi chú bổ sung** | **Xếp loại** |
+| Hải Phòng | 2406 | 1636 | 1.357.880 | 5,2% | Không phát sinh | A |
+| [[V]] | 621 | 208 | 26.208 | 6,1% | Đã đối chiếu | B |
+| Siêu thị trung tâm | 1085 | 690 | 460.230 | 5,4% | Không phát sinh | Cần rà soát |
+| Điểm bán phía bắc | 4365 | 1247 | 350.407 | 3,0%<br>Đã đối chiếu | Chưa đủ chứng từ |  |
+| Điểm bán phía Nam | 1081 | 459 | 69.309 | 1,2% | Điều chỉnh kỳ sau | c |
+| Cửa hàng 01 | 2762 | 1686 | 886.836 | 0,1% | Chưa đủ chứng từ | Cần rà soát |
+| Cửa hàng 02 | 3187 | 2231 | 1.070.880 | 0,5% | Chưa đủ chứng từ | c |
+| **Siêu thị trung tâm** | **4737** | **1947** | **1.286.967** |  | **Không phát sinh** | **Cần rà soát** |
 
-| **Construction** | **Contraction** | **CHÁT LƯỢNG MA** | **NG VÀ DỊCH VỤ VI** | **THÔNG BẢNG 2** | [[H]] | **Construction** |
+| **CHẤT LƯỢNG MẠNG VÀ DỊCH VỤ VIỄN THÔNG — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Khu vực | Thuê bao | Lưu lượng | Tỷ lệ rớt cuộc | Phản ánh | Ghi chú bồ sung | Ngày cập nhật |
-| UM BTS-01 | 4.790 | 3.348 | ,5% | 0 | nhông phát sinh | 08/2026 |
-| UM BTS-02 | 1.434 | 04.410 | 6% | 0 | nhông phát sinh | 04/2026 |
-| chu vực ven biển | 092 | 5.794 | 2% | 3 | nhông phát sinh | 11/2026 |
-| chu vực đô thị | 107 | 8.572 | 8% | đối chiếu | nưa đủ chứng từ | 11/2026 |
-| chu vực miền núi | 3.242 | 974 | ,3% | 0 | nưa đủ chứng từ | 06/2026 |
-| UM BTS-01 | 1.574 | 738 | 2% | 4 | nưa đủ chứng từ | 02/2026 |
-| UM BTS-02 | 6.590 | Contraction | ,5% | 5 | 0310010000001990<br>va doi chieu | 02/2026 |
-| chu vực ven biển | 1.067 | 2.374 | 9% | 2 | ông phát sinh | 09/2026 |
-| Nguyên | 2.853 | 0.961 | 4% | 8 | ông phát sinh | 04/2026 |
-| [[V]] | Contraction | 4.567 | 7% | 1 | điều chinh kỳ sau | 02/2026 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Khu vực** | **Thuê bao** | **Lưu lượng** | **Tỷ lệ rớt cuộc** | **Phản ánh** | **Ghi chú bổ sung** | **Ngày cập nhật** |
+| Cụm BTS-01 | 54.790 | 73.348 | 2,5% | 10 | Không phát sinh | 21/08/2026 |
+| Cụm BTS-02 | 41.434 | 94.410 | 0,6% | 10 | Không phát sinh | 06/04/2026 |
+| Khu vực ven biển | 5.092 | 85.794 | 2,2% | 73 | Không phát sinh | 13/11/2026 |
+| Khu vực đô thị | 4.107 | 98.572 | 0,8% | đỗ đối chiếu | Chưa đủ chứng từ | 25/11/2026 |
+| Khu vực miền núi | 43.242 | 7.974 | 2,3% | 40 | Chưa đủ chứng từ | 21/06/2026 |
+| Cụm BTS-01 | 21.574 | 9.738 | 3,2% | 34 | Chưa đủ chứng từ | 23/02/2026 |
+| Cụm BTS-02 | 26.590 |  | 1,5% | 55 | Đã đối chiếu | 09/02/2026 |
+| Khu vực ven biển | 41.067 | 62.374 | 0,9% | 22 | Không phát sinh | 23/09/2026 |
+| Tây Nguyên | 42.853 | 80.961 | 3,4% | 48 | Không phát sinh | 20/04/2026 |
+| [[V]] |  | **34.567** | **2,7%** | **21** | **Điều chỉnh kỳ sau** | **23/02/2026** |

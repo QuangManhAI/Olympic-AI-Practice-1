@@ -1,10 +1,10 @@
-| **Đơn vị** | **Lớp** | **Thí sinh** | **Đạt** | **Tỷ lệ đạt** |
+| **Đơn vị** | **Lớp** | **Thí sinh** | **Đạt** | **Tỷ lệ dạt** |
 | --- | --- | --- | --- | --- |
-| PT Nguyễn Trãi | 2A | 6 | 5 | 2% |
-| PT Lê Quý Đôn | 2B | 0301000009 | 6 | 5,7% |
-| PT Trần Phú | 00100000000199<br>0301000000099 | 8 | 078000000199 | 1,1% |
-| PT Phan Bội Châu | 2D | 6 | 6 | 00,0% |
-| PT Chu Văn An | DECONTRACTIONALISTS<br>2E | 03 | 6 | 8,8% |
-| PT Nguyễn Trãi | 2A | 07800000019 | 6 | 5,3% |
-| PT Lê Quý Đôn | 2B | 6 | 6 | 3,3% |
-| PT Trần Phú | 2c | 0910000000 | 6 | 2,3% |
+| THPT Nguyễn Trãi | 12A | 36 | 35 | 97,2% |
+| THPT Lê Quý Đôn | 12B | 30 | 26 | 86,7% |
+| THPT Trần Phú | 12C | 38 | 27 | 71,1% |
+| THPT Phan Bội Châu | 12D | 36 | 36 | 100,0% |
+| THPT Chu Văn An | 12E | 33 | 26 | 78,8% |
+| THPT Nguyễn Trãi | 12A | 27 | 26 | 96,3% |
+| THPT Lê Quý Đôn | 12B | 46 | 36 | 78,3% |
+| **THPT Trần Phú** | **12C** | **39** | **36** | **92,3%** |

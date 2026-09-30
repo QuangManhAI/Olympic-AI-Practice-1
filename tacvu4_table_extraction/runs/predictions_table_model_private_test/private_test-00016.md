@@ -1,9 +1,9 @@
 | **Khoa** | **Lượt khám** | **Nhập viện** | **Chuyển tuyến** | **Thời gian chờ** |
 | --- | --- | --- | --- | --- |
-| Nội tổng hợp | 13 | 1 | 03100000099 | phút |
-| ngoại | 031 | 03100000099 | Contractions | phút |
-| 030000000098 | 13 | 8 | Contractions | phút |
-| 038000000099 | 03000000000 | 2010 | Contractions | phút |
-| 038000000099 | 08 | 6 | Contractions | phút |
-| Mũi Họng | 031000000099 | 03100000099 | 03100000099 | phút |
-| hội tổng hợp | 21 | 2010 | Contractions | phút |
+| Nội tổng hợp | 113 | 11 | 10 | 74 phút |
+| Ngoại | 281 | 49 | 1 | 59 phút |
+| Nhi | 343 | 18 | 6 | 67 phút |
+| Sản | 466 | 82 | 8 | 23 phút |
+| Mắt | 498 | 66 | 2 | 54 phút |
+| Tai Mũi Họng | 99 | 19 | 10 | 19 phút |
+| **Nội tổng hợp** | **221** | **12** | **0** | **39 phút** |

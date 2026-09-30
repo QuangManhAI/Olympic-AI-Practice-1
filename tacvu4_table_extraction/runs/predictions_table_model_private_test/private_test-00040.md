@@ -1,16 +1,16 @@
-| **Construction** | **Consides** | **BÁO CÁ** | **KHAI THÁC TUYẾN** | **BẢNG 1** | **Construction** | **Construction** |
+|  |  | **BÁO CÁO** | **KHAI THÁC TUYÊN** | **BẢNG 1** |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Contractionalized<br>036100000099 | Số chuyến | Hành khách | Đúng giờ | Doanh thu | Ghi chú | Mã tham chiếu |
-| Và Nội ? Hải Phòng | 0 | 80 | 7,8% | 4.480 | căng chuyến | 187686 |
-| Và Năng ? Huế | 8 | 064 | 3,0% | 60.664 | Contransitionalists<br>Nếu chính giờ | 150267 |
-| HCM ? Cần Thơ | 0 | 030 | 7,1% | 82.280 | căng chuyến | 187428 |
-| Tha Trang ? Đà Lạt | 4 | 0301000000199<br>12 | 4,1% | 6.368 | Bình thường | Contraction |
-| Và Nội ? Hải Phòng | 0 | 160 | 4.4% | 01.840 | căng chuyến | 053020 |
-| Và Năng ? Huế | 5 | 890 | 4,0% | 89.170 | Contransitionalists<br>Nếu chính giờ | 038417 |
-| HCM ? Cần Thơ | 09 | Contransitionalists<br>25 | 1,9% | 18.175 | Contransitionalists<br>Nếu chính giờ | 038462 |
-| Tha Trang ? Đà Lạt | đối chiếu | 054 | 6,8% | 13.962 | 031001000000199<br>Tiêu chính giờ | 036738 |
-| Và Nội ? Hải Phòng | 37 | 443 | 4,0% | 47.186 | Bình thường | 036193 |
-| Năng ? Huế | 2 | 64 | 9,2% | 09.600 | căng chuyến | 036343 |
-| Thánh Hòa | STATES | Contraction | 2,4% | 1.504 | Bình thường | 034736 |
-| [[V]] | 1 | 61 | 8,3% | 09.498 | căng chuyến | 037067 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Tuyến** | **Số chuyến** | **Hành khách** | **Đúng giờ** | **Doanh thu** | **Ghi chú** | **Mã tham chiếu** |
+| Hà Nội ? Hải Phòng | 20 | 380 | 87,8% | 74.480 | Tăng chuyến | HS7686 |
+| Đà Năng ? Huế | 38 | 1.064 | 83,0% | 160.664 | Điều chỉnh giờ | HSO267 |
+| TP.HCM-Cần Thơ | 30 | 930 | 97,1% | 182.280 | Tăng chuyến | HS7428 |
+| Nha Trang ? Đà Lạt | 14 | 252 | 94,1% | 46.368 | Bình thường |  |
+| Hà Nội ? Hải Phòng | 40 | 1.160 | 84,4% | 201.840 | Tăng chuyến | HS3020 |
+| Đà Năng ? Huế | 45 | 1.890 | 94,0% | 289.170 | Điều chỉnh giờ | HS8417 |
+| TP.HCM-Cần Thơ | 29 | 725 | 91,9% | 118.175 | Điều chỉnh giờ | HS8462 |
+| Nha Trang ? Đà Lạt | 34 đối chiếu | 1.054 | 86,8% | 213.962 | Điều chỉnh giờ | HS6738 |
+| Hà Nội ? Hải Phòng | 37 | 1.443 | 84,0% | 147.186 | Bình thường | HS6193 |
+| Đà Nẫng ? Huế | 12 | 264 | 89,2% | 39.600 | Tăng chuyến | HS6343 |
+| Khánh Hòa | 8 |  | 82,4% | 31.504 | Bình thường | HS4736 |
+| [[V]] | **31** | **961** | **88,3%** | **209.498** | **Tăng chuyến** | **HS7067** |

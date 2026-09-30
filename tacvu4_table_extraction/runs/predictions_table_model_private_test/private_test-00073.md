@@ -1,20 +1,20 @@
-| **Construction** | **Contraction** | **KẾT QUẢ** | **QUAN TRẮC CHẤT** | **ĐƯỢNG MÔI TRƯỜNG BẢNG 1** | [[H]] | **Consides** | **Construction** |
+| **KẾT QUẢ QUAN TRẮC CHẤT LƯỢNG MÔI TRƯỜNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Điểm quan trắc | PH | COD | BOD5 | Mức đánh giá | Kế hoạch năm | Tỷ trọng (%) | Mã tham chiếu |
-| ÔÔÔng Hồng | 17 | 7 | 33 | Trần theo dõi | 289 | 0,3% | 036801 |
-| Ông Hương | 67 | 5 | 4 | Ốt | 843 | 4% | 035805 |
-| Xuân Hương | 91 | đối chiếu | Stark | phấp nhận | 303 | 7,3% | 039103 |
-| Long Thành | 67 | 2 | 5 | phấp nhận | 52 | 5,9% | 035380 |
-| Tra biển Đà Năng | 85 | 4 | 18 | 00101001000<br>CONTRACTIONALISTS | 739 | 9% | 032528 |
-| ÔÔÔÔÔÔÔNG Hồng Hồng | 03 | 1 | 3 | trần theo dõi | 299 | 0,7% | 033235 |
-| Ông Hương | 02 | 0 | Contraction | phấp nhận | 805 | 9% | 036300 |
-| Xã Xuân Hương | ,34 | 09 | 32 | phấp nhận | 343 | 0,2% | 032853 |
-| Long Thành | 49 | 3 | 5 | trần theo dõi | 194 | 3,4% | 035494 |
-| Tra biển Đà Năng | 77 | 2 | 5 | 00101001000<br>CONTRACTIONALISTS | 812 | Contraction | 053491 |
-| ÔÔÔÔÔÔÔNG Hồng Hồng | 38 | 24 | 9 | Ốt | 336 | 5,8% | 1635 |
-| Ông Hương | 77 | 6 | 8 | phấp nhận | 103 | 0,3% | 1769 |
-| Contractional | 84 | 09 | Contraction | 00101001000<br>CONTRACTIONALISTS | 907 | 0,9% | 039379 |
-| Long Thành | 66 | 0 | 5 | phấp nhận | 159 | 4,3% | 035424 |
-| Đồng | 75 | 1 | 0 | phấp nhận | 846 | 2,5% | 038571 |
-| [[V]] | 39 | 5 | 31 | phấp nhận | 351 | 8,7% | 037546 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Điểm quan trắc** | **pH** | **COD** | **BODS** | **Mức đánh giá** | **Kế hoạch năm** | **Tỷ trọng (%)** | **Mã tham chiếu** |
+| Sông Hồng | 7,17 | 57 | 33 | Cần theo dõi | 1.289 | 30,3% | HS6801 |
+| Sông Hương | 6,67 | 45 | 14 | Tốt | 2.843 | 3,4% | HS5805 |
+| Hồ Xuân Hương | 7,91 | 73 đối chiếu | 9 | Chấp nhận | 7.303 | 17,3% | HS9103 |
+| KCN Long Thành | 7,67 | 62 | 25 | Chấp nhận | 752 | 15,9% | HS5380 |
+| Cửa biển Đà Nắng | 6,85 | 84 | 48 | Vượt ngưõng | 8.739 | 6,9% | HS2528 |
+| Sông Hồng | 6,03 | 61 | 33 | Cần theo dõi | 2.299 | 10,7% | HS3235 |
+| Sông Hương | 7,02 | 70 | 9 | Chấp nhận | 3.805 | 4,9% | HS6300 |
+| Hồ Xuân Hương | 7,34 | 39 | 32 | Chấp nhận | 4.343 | 20,2% | HS2853 |
+| KCN Long Thành | 6,49 | 73 | 25 | Cần theo dõi | 7.194 | 23,4% | HS5494 |
+| Cửa biển Đà Nắng | 7,77 | 52 | 45 | Vượt ngưõng | 1.812 |  | HS3491 |
+| Sông Hồng | 7,38 | 24 | 19 | Tốt | 3.336 | 15,8% | HS1635 |
+| Sông Hương | 6,77 | 26 | 38 | Chấp nhận | 2.103 | 10,3% | HS1769 |
+|  | 5,84 | 39 | 7 | Vượt ngưõng | 6.907 | 20,9% | HS9379 |
+| KCN Long Thành | 6,66 | 80 | 45 | Chấp nhận | 4.159 | 34,3% | HS5424 |
+| Lâm Đồng | 6,75 | 21 | 20 | Chấp nhận | 8.846 | 32,5% | HS8571 |
+| [[V]] | **7,39** | **15** | **31** | **Chấp nhận** | **4.351** | **18,7%** | **HS7546** |

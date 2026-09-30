@@ -1,16 +1,16 @@
-| **Construction** | **Conside** | **Contract** | **HIỆU QUẢ V** | **AN HÀNH KHO VÀ LÊ** | **LOGISTICS ? BẢI** | **G1** | **Conside** | **Construction** |
+| **HIỆU QUẢ VẬN HÀNH KHO VÀ LOGISTICS — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] | [[H]] |
-| Kho/điểm | Đơn xử lý | Đúng hạn | Tồn cuối | Chi phí | Kỳ trước | Ngày cập nhật | Kế hoạch năm | Ghi chú bồ sung |
-| Pho Hà Nội | 155 | 3,4% | 2 | 95.440 | 68 | 12/12/2026 | 089 | Điều chỉnh kỳ sau |
-| Pho Đà Năng | 203 | 06,4% | 4 | 53.571 | 593 | 07/2026 | COFFERENTIALISM<br>055 | 03101001000000300<br>va doi chieu |
-| Pho Bình Dương | 5058 | 1,3% | 85 | 048.378 | 097 | 03/06/2026 | 966 | nhưa đủ chứng từ |
-| Pho Cần Thơ | States | 2,8% | 195 | 0.1111 | 69 | 02/2026 | 726 | nhưa đủ chứng từ |
-| pho trung chuyển | 779 | 7,1% | 75 | 83.033 | 232 | 09/02/2026 | 789 | nhưa đủ chứng từ |
-| Nam | 108 | 34,2% | 309 | 39.672 | 481 | 12/11/2026 | 003 | phông phát sinh |
-| [[V]] | 2413 | 31,4% | 06 | 20.650 | 182 | 09/03/2026 | 896 | 03101001000000300<br>va doi chieu |
-| ho Bình Dương | 295 | 31.5%<br>Đã đối chiếu | 80 | 06.160 | 447 | 06/08/2026 | 007 | điều chình kỳ sau |
-| Pho Cần Thơ | 1550 | 9,6% | 324 | 72.900 | 884 | 08/2026 | 858 | 03110010000000200<br>va doi chieu |
-| pho trung chuyển | 217 | 1,9% | 0 | 1.689 | 534 | 12/11/2026 | 833 | Điều chỉnh kỳ sau |
-| Pho Hà Nội | DEFERENTIALISTS<br>06655 | 9,2% | 362 | 93.300 | 043 | 08/04/2026 | 057 | Điều chỉnh kỳ sau |
-| Pho Đà Nẫng | 3236 | 3,2% | 640 | 58.564 | 037 | Contraction | 11 | phưa đủ chứng từ |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] | [[H]] |
+| **Kho/điểm** | **Đơn xử lý** | **Đúng hạn** | **Tồn cuối** | **Chi phí** | **Kỳ trước** | **Ngày cập nhật** | **Kế hoạch năm** | **Ghi chú bổ sung** |
+| Kho Hà Nội | 6155 | 83,4% | 62 | 295.440 | 668 | 22/12/2026 | 6.089 | Điều chỉnh kỳ sau |
+| Kho Đà Năng | 6203 | 96,4% | 64 | 353.571 | 8.593 | 06/07/2026 | 1.655 | Đã đối chiếu |
+| Kho Bình Dương | 6058 | 91,3% | 685 | 248.378 | 8.097 | 03/06/2026 | 7.966 | Chưa đủ chứng từ |
+| Kho Cần Thơ |  | 82,8% | 495 | 20.111 | 369 | 11/02/2026 | 8.726 | Chưa đủ chứng từ |
+| Kho trung chuyển | 6779 | 87,1% | 775 | 183.033 | 4.232 | 19/02/2026 | 3.789 | Chưa đủ chứng từ |
+| Miền Nam | 4108 | 84,2% | 309 | 139.672 | 8.481 | 22/11/2026 | 4.003 | Không phát sinh |
+| [[V]] | 2413 | 81,4% | 96 | 120.650 | 9.182 | 19/03/2026 | 5.896 | Đã đối chiếu |
+| Kho Bình Dương | 4295 | 81,5%<br>Đã đối chiếu | 580 | 206.160 | 6.447 | 16/08/2026 | 8.007 | Điều chỉnh kỳ sau |
+| Kho Cần Thơ | 4550 | 79,6% | 324 | 172.900 | 6.884 | 15/08/2026 | 4.858 | Đã đối chiếu |
+| Kho trung chuyển | 4217 | 81,9% | 70 | 71.689 | 5.534 | 22/11/2026 | 9.833 | Điều chỉnh kỳ sau |
+| Kho Hà Nội | 6555 | 89,2% | 362 | 393.300 | 4.043 | 18/04/2026 | 8.057 | Điều chỉnh kỳ sau |
+| **Kho Đà Nắng** | **3236** | **83,2%** | **640** | **158.564** | **8.037** |  | **711** | **Chưa đủ chứng từ** |

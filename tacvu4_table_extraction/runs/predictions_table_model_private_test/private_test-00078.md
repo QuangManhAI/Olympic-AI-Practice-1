@@ -1,19 +1,19 @@
-| **Construction** | **Consides** | **TÓNG HỢP** | **ÂN SỰ THEO Đ** | **VỊ ? BẢNG 1** | **Construction** | **Construction** |
+|  |  | **TÔNG HỢP N** | **HÂN SỰ THEO ĐÓ** | **VỊ ? BẢNG 1** |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Phòng ban | Định biên | Hiện có | Concerted<br>Tuyen mơi | Thiếu/thừa | Ngày cập nhật | Kế hoạch năm |
-| Contractional | 1 | 4 | Contraction | 3 | 08/2026 | 266 |
-| toán | 09 | 7000000009 | Contraction | 2 | 12/2026 | 558 |
-| trần hành | 2 | 5 | Contraction | 1790000001 | 01/2026 | 1998 |
-| ông nahê<br>Contractionalists | 1 | 3 | Contraction | 2 | 03/2026 | 937 |
-| BÀNH CHÍNH | 4 | 8 | Contraction | 4 | 04/2026 | 172 |
-| Ông bằng sông Cửu Long | 4 | Contraction | Contraction | 1790000001 | 06/2026 | 015 |
-| [[V]] | 4 | 4 | Contraction | 0 | 07/2026 | 532 |
-| toán | 0 | 8 | Contraction | 2 | 05/2026 | 432 |
-| trần hành | 8 | 4 | Contraction | 4 | 04/2026 | 119 |
-| ông nahê<br>Contractionalists | 4 | 5 | Contraction | 1 | 04/2026 | 160 |
-| BÀNH CHÍNH | 07 | 4 | Contraction | 3 | 09/2026 | 54 |
-| năm sóc khách hàng | 0 | 4 | Contraction | 4 | 11/2026 | 93 |
-| Bình doanh | 1 | 4 | Contraction | 3 | 07/2026 | 132 |
-| toán | 5 | đối chiếu | Contraction | 1 | 08/2026 | 426 |
-| Contractionalists | 1 | 1 | Contraction | 0 | 03/2026 | 320 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyến mới** | **Thiếu/thừa** | **Ngày cập nhật** | **Kế hoạch năm** |
+|  | 11 | 14 | 0 | %3 | 25/08/2026 | 2.266 |
+| Kế toán | 39 | 37 | 2 | 2 | 22/12/2026 | 9.558 |
+| Vận hành | 42 | 35 | 7 | 7 | 28/01/2026 | 3.998 |
+| Công nghệ | 21 | 23 | 0 | 42 | 03/03/2026 | 3.937 |
+| Hành chính | 24 | 28 | 0 | %4 | 10/04/2026 | 5.172 |
+| Đồng bằng sông cửu Long | 14 | 7 | 7 | 7 | 12/06/2026 | 6.015 |
+| [[V]] | 14 | 14 | 0 | %0 | 02/07/2026 | 1.532 |
+| Kế toán | 40 | 38 | 2 | 2 | 14/05/2026 | 3.432 |
+| Vận hành | 38 | 34 | 4 | 4 | 11/04/2026 | 2.119 |
+| Công nghệ | 34 | 35 | 0 | 41 | 15/04/2026 | 4.160 |
+| Hành chính | 27 | 24 | 3 | 3 | 13/09/2026 | 454 |
+| Chăm sóc khách hàng | 10 | 14 | 0 | %4 | 11/11/2026 | 693 |
+| Kinh doanh | 41 | 44 | 0 | %3 | 27/07/2026 | 8.132 |
+| Kế toán | 35 | 36 đối chiếu | 0 | 41 | 04/08/2026 | 8.426 |
+|  | **21** | **21** | **0** | **%0** | **26/03/2026** | **8.320** |

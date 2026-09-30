@@ -1,8 +1,8 @@
-| **Phòng ban** | **Định biên** | **Hiện có** | **CONTRACTIONALIZED**<br>**luyen mơi** | **Thiếu/thừa** |
+| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyến mới** | **Thiếu/thừa** |
 | --- | --- | --- | --- | --- |
-| Bình doanh | 03100000001 | 03100100199 | Contractions | 1 |
-| toán | 031000000099 | 03100000001 | Contractions | STATES |
-| HÀNH | 1 | 3001000000 | Contractions | STATES |
-| ng nghê thị trong thị thuận<br>STATES | 03100000099 | 3001000000 | Contractions | STATES |
-| BỆNH CHÍNH | 4 | Contractions | Contractions | STATES |
-| ăm sóc khách hàng | 2010 | 1 | Contractions | Contractions |
+| Kinh doanh | 37 | 38 | 0 | 41 |
+| Kế toán | 30 | 27 | 3 | 3 |
+| Vận hành | 41 | 33 | 8 | 8 |
+| Công nghệ | 16 | 13 | 3 | 3 |
+| Hành chính | 14 | 6 | 8 | 8 |
+| **Chăm sóc khách hàng** | **12** | **11** | **1** | **1** |

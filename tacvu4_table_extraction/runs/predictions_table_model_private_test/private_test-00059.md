@@ -1,20 +1,20 @@
-| **Contraction** | **Contraction** | **T** | **NH HÌNH SẢN XUẤT THỊ** | **ÔNG NGHIỆP BẢNG 1** | **Contraction** | **Contraction** | **Contraction** |
+| **TỈNH HÌNH SẢN XUẤT NÔNG NGHIỆP — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Địa bàn | Cây trồng | Diện tích (ha) | Sản lượng (tấn) | Ghi chú | Mã tham chiếu | Tỷ trọng (%) | Kỳ này |
-| Contractions<br>Trần Thờ | úa | đối chiếu | 805 | Heo dõi sâu bệnh | 052382 | 2,9% | 847 |
-| [[V]] | LÀ PHÊ | 33 | 097 | Theo dõi sâu bệnh | 052089 | 9% | 225 |
-| Nẫng | thanh long | 66 | 794 | Theo dõi sâu bệnh | 035812 | 2,2% | 073 |
-| Phánh Hòa | lồ tiêu | 10 | 830 | Theo dõi sâu bệnh | 032561 | 4,7% | 538 |
-| ÔÔng Nai | 00101001 | 66 | 862 | Theo dõi sâu bệnh | 0394 | ,3% | 345 |
-| 031100010000199<br>Trần Thờ | Rau màu | 46 | 222 | Cũng nhẹ | 034299 | 0,3% | 210 |
-| 0310010010000199<br>Nam Đồng | ÚA | 03 | 212 | hạt kế hoạch | 037496 | 2,2% | 961 |
-| Nội | LÀ PHÊ | 20 | 00 | Cũng nhẹ | 039939 | 5% | 982 |
-| Phòng | thanh long | 83 | 49 | ĐỊNH | 038465 | 0,5% | 56 |
-| Nẫng | lồ tiêu | 13 | 317 | hạt kế hoạch | 0366641 | 1,7% | 765 |
-| Phánh Hòa | 00101001 | 17 | 502 | Cũng nhẹ | 032070 | 2,1% | 251 |
-| ÔÔng Nai | Rau màu | 11 | 688 | ĐỊNH | 038865 | 3,7% | 879 |
-| 031100010000199<br>Trần Thờ | ÚA | 05 | 25 | Cũng nhẹ | 037225 | 9,8% | 200 |
-| 0310010010000199<br>Nam Đồng | LÀ PHÊ | 76 | 504 | hạt kế hoạch | 032261 | 4,4% | 341 |
-| Contractions | thanh long | Contraction | 862 | Cũng nhẹ | 036421 | 9,6% | 995 |
-| Phòng | HỒ TIÊU | 92 | 752 | ĐỊNH | 034911 | 0,7% | 876 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Địa bàn** | **Cây trồng** | **Diện tích (ha)** | **Sản lượng (tấn)** | **Ghi chú** | **Mã tham chiếu** | **Tỷ trọng (%)** | **Kỳ này** |
+| Cần Thơ | Lúa | 761<br>Đã đối chiếu | 3.805 | Theo dõi sâu bệnh | HS2382 | 12,9% | 8.847 |
+| [[V]] | Cà phê | 233 | 2.097 | Theo dõi sâu bệnh | HS2089 | 5,9% | 6.225 |
+| Đà Nắng | Thanh long | 866 | 7.794 | Theo dõi sâu bệnh | HS5812 | 22,2% | 1.073 |
+| Khánh Hòa | Hồ tiêu | 610 | 1.830 | Theo dõi sâu bệnh | HS2561 | 24,7% | 1.538 |
+| Đồng Nai | Xoài | 266 | 1.862 | Theo dõi sâu bệnh | HSO394 | 5,3% | 6.345 |
+| Cần Thơ | Rau màu | 746 | 5.222 | Tăng nhẹ | HS4299 | 20,3% | 6.210 |
+| Lâm Đồng | Lúa | 303 | 1.212 | Đạt kế hoạch | HS7496 | 32,2% | 5.961 |
+| Hà Nội | Cà phê | 120 | 600 | Tăng nhẹ | HS9939 | 4,5% | 6.982 |
+| Hải Phòng | Thanh long | 183 | 549 | Ổn định | HS8465 | 30,5% | 956 |
+| Đà Nắng | Hồ tiêu | 813 | 7.317 | Đạt kế hoạch | HS6641 | 21,7% | 4.765 |
+| Khánh Hòa | Xoài | 417 | 2.502 | Tăng nhẹ | HS2070 | 22,1% | 3.251 |
+| Đồng Nai | Rau màu | 711 | 5.688 | Ổn định | HS8865 | 13,7% | 9.879 |
+| Cần Thơ | Lúa | 105 | 525 | Tăng nhẹ | HS7225 | 19,8% | 8.200 |
+| Lâm Đồng | Cà phê | 876 | 3.504 | Đạt kế hoạch | HS2261 | 34,4% | 5.341 |
+|  | Thanh long |  | 1.862 | Tăng nhẹ | HS6421 | 19,6% | 7.995 |
+| **Hải Phòng** | **Hồ tiêu** | **292** | **1.752** | **Ổn định** | **HS4911** | **30,7%** | **6.876** |

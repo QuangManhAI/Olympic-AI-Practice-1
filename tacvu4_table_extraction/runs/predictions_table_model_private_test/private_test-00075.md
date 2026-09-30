@@ -1,28 +1,28 @@
-| **Construction** | **State** | **KẾT QUẢ KHẢO SÁT C** | [[H]] | **T LƯỢNG BẢNG 1** | **Contraction** | **Contraction** | **State** |
+| **KẾT QUÁ KHẢO SÁT CHẤT LƯỢNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thị thuận thị thuận thuận thuận thuận thuận thuận thuận | [[H]] | [[H]] | [[H]] |
-| Đơn vị | Lớp | Thí sinh | Đạt | Tỷ lệ đạt | Đơn vị tính | Kế hoạch năm | Xếp loại |
-| UPT Nguyễn Trãi | 2A | 09 | 03100000099 | 6,6% | 030100000000201<br>Niệu dong | 80 | Contraction |
-| NỘI | 2B | 07 | 24 | 03,9% | 030100000000201<br>Niệu dong | 756 | BELLIES |
-| [[V]] | 20 | 4 | 5 | 9,5% | 030100000000201<br>Niệu dong | 245 | Contraction |
-| UPT Phan Bội Châu | 2D | 2 | 2 | 00,0% | 03100000099 | 80 | Contraction |
-| UPT Chu Văn An | Contraction | 3 | 3 | 00,0% | sơ | 149 | Contraction |
-| PT Nguyễn Trãi | 2A | 2 | 0 | 001.4%<br>đối chiếu | sơ | 084 | Conters |
-| LÊ QUÝ ĐÔN | 2B | 6 | 7 | 5,4% | Contraction | 659 | Contraction |
-| UPT Trần Phú | 20 | 5 | 1 | 1,1% | sơ | 900 | 300000000 |
-| UPT Phan Bội Châu | 2D | 3 | 031990000099 | 1,8% | 0301001001990<br>Điệu dong | 675 | Cần rà soát |
-| UPT Chu Văn An | overcomplication<br>ZE | 3 | 1 | 2,1% | 001 | 033 | Contraction |
-| PT Nguyễn Trãi | 2A | 7 | 1 | 13,8% | Wh | 619 | ANTICIAL |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Đơn vị** | **Lớp** | **Thí sinh** | **Đạt** | **Tỷ lệ đạt** | **Đơn vị tính** | **Kế hoạch năm** | **Xếp loại** |
+| THPT Nguyễn Trãi | 12A | 29 | 28 | 96,6% | triệu đồng | 680 | A |
+| HÀ NỘI | 12B | 27 | 24 | 88,9% | triệu đồng | 6.756 | B |
+| [[V]] | 12C | 44 | 35 | 79,5% | triệu đồng | 7.245 | c |
+| THPT Phan Bội Châu | 12D | 42 | 42 | 100,0% | tấn | 880 | A |
+| THPT Chu Văn An |  | 33 | 33 | 100,0% | hồ sơ | 1.149 | c |
+| THPT Nguyễn Trãi | 12A | 42 | 30 | 71,4%<br>Đã đối chiếu | hồ sơ | 6.084 | A |
+| THPT Lê Quý Đôn | 12B | 26 | 17 | 65,4% |  | 1.659 | c |
+| THPT Trần Phú | 12C | 45 | 41 | 91,1% | hồ sơ | 3.900 | B |
+| THPT Phan Bội Châu | 12D | 33 | 28 | 84,8% | triệu đồng | 7.675 | Cần rà soát |
+| THPT Chu Văn An | 12E | 43 | 31 | 72,1% | lượt | 5.033 | A |
+| **THPT Nguyễn Trãi** | **12A** | **37** | **31** | **83,8%** | **kWh** | **6.619** | **A** |
 
-| **Contraction** | **State** | **Comb** | **ÁO CÁO DOANH** | **SIU THEO KHU VỰC BẢNG 2** | [[H]] | **Contraction** | **Stark** | **Contraction** |
+| **BÁO CÁO DOANH THU THEO KHU VỰC — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] | [[H]] |
-| Khu vực | Kế hoạch | Thực hiện | Chênh lệch | Tỷ lệ | Mã tham chiếu | Đơn vị tính | Xếp loại | Kế hoạch năm |
-| 0361000199000098<br>Iên Bac | 120 | 660 | 460 | 8,3% | 183501 | Wh | ALLICATE | 198 |
-| 0310010019900009<br>Lien Trung | 750 | 400 | 350 | 0,0% | 054366 | sơ | Contraction | 651 |
-| Contractional<br>NGUYỄN BẮC | 180 | 050 | 70 | 73,7% | 058322 | sơ | Contraction | 672 |
-| [[V]] | 680 | 960 | 280 | 16,7% | 053800 | 036000000099<br>Triệu dong | Contraction | 606 |
-| Tồng bằng sông Cửu Lon | 600 | 380 | 220 | 6,2% | 058755 | Wh | Contraction | 828 |
-| 0361000199000098<br>Iên Bac | 820 | 450 | 370 | 02,3% | 155235 | Contraction | ALLICATE | 739 |
-| Contraction | 370 | 340 | 30 | 17,8% | 55586 | 001<br>Đã đối chiếu | Stat | 250 |
-| Liền Nam | 020 | 070 | 60 | 01,2% | 039287 | hồ sơ | construction | 149 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] | [[H]] |
+| **Khu vực** | **Kế hoạch** | **Thực hiện** | **Chênh lệch** | **Tỷ lệ** | **Mã tham chiếu** | **Đơn vị tính** | **Xếp loại** | **Kế hoạch năm** |
+| Miền Bắc | 2.120 | 1.660 | 460 | 78,3% | HS3501 | kWh | A | 7.198 |
+| Miền Trung | 1.750 | 1.400 | 350 | 80,0% | HS4366 | hồ sơ | c | 9.651 |
+| Miền Bắc | 1.180 | 2.050 | 870 | 173,7% | HS8322 | hồ sơ | c | 7.672 |
+| [[V]] | 1.680 | 1.960 | 280 | 116,7% | HS3800 | triệu đồng | c | 2.606 |
+| Đồng bằng sông Cửu Long | 1.600 | 1.380 | 220 | 86,2% | HS8755 | kWh | c | 6.828 |
+| Miền Bắc | 4.820 | 4.450 | 370 | 92,3% | HS5235 |  | A | 1.739 |
+|  | 1.370 | 1.340 | 30 | 97,8% | HS5586 | lượt<br>Đã đối chiếu | c | 3.250 |
+| **Miền Nam** | **4.020** | **4.070** | **50** | **101,2%** | **HS9287** | **hồ sơ** | **c** | **2.149** |

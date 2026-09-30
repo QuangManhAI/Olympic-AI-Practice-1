@@ -1,27 +1,27 @@
-| **Construction** | **Contraction** | **KẾT QU** | **Ả KHẢO SÁT CHỦ** | **BÁT LƯỢNG BẢNG 1** | **Contraction** | **Contraction** | **Contraction** |
+| **KẾT QUẢ KHẢO SÁT CHẤT LƯỢNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Trong thị thị thu báo cáo | [[H]] | [[H]] | [[H]] |
-| Đơn vị | Lớp | Thí sinh | Đạt | Tỷ lệ đạt | Lũy kế | Tỷ trọng (%) | Mã tham chiếu |
-| PT Nguyễn Trãi | đối chiếu | 6 | 1 | 9,1% | 471 | 8,1% | 1485 |
-| LÊ QUÝ ĐÔN | 2B | 3 | 2 | 6,7% | 470 | 6,4% | 0551 |
-| PT Trần Phú | 20 | 4 | 6 | 1,8% | 889 | 0,8% | 037383 |
-| PT Phan Bội Châu | 2D | 2 | 03910000099 | 7,5% | 905 | 7% | 033748 |
-| UPT Chu Văn An | overcomplication<br>ZE | 2 | 03910000099 | 7,5% | 75 | 0,7% | 038198 |
-| UPT Nguyễn Trãi | 2A | 6 | 0 | 6,9% | 827 | Contractionalized<br>Contractions | 0950 |
-| Nai | Contractionalized<br>Contractions | 031990000099 | 07 | 6,4% | 521 | 6,3% | 052637 |
-| [[V]] | 20 | 9 | 3 | 9,3% | 353 | ,3% | 038967 |
-| PT Phan Bội Châu | 2D | 6 | 4 | 3,8% | 749 | 7% | 037141 |
-| PT Chu Văn An | 2E | 9 | 6 | 9,7% | 066 | 0,3% | 033444 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Đơn vị** | **Lớp** | **Thí sinh** | **Đạt** | **Tỷ lệ đạt** | **Lũy kế** | **Tỷ trọng (%)** | **Mã tham chiếu** |
+| THPT Nguyễn Trãi | 12A<br>Đã đối chiếu | 46 | 41 | 89,1% | 6.471 | 18,1% | HS1485 |
+| THPT Lê Quý Đôn | 12B | 33 | 22 | 66,7% | 1.470 | 16,4% | HSO551 |
+| THPT Trần Phú | 12c | 44 | 36 | 81,8% | 5.889 | 20,8% | HS7383 |
+| THPT Phan Bội Châu | 12D | 32 | 28 | 87,5% | 6.905 | 1,7% | HS3748 |
+| THPT Chu Văn An | 12E | 32 | 28 | 87,5% | 375 | 10,7% | HS8198 |
+| THPT Nguyễn Trãi | 12A | 26 | 20 | 76,9% | 5.827 |  | HSO950 |
+| Đồng Nai |  | 28 | 27 | 96,4% | 7.521 | 26,3% | HS2637 |
+| [[V]] | 12c | 29 | 23 | 79,3% | 9.353 | 1,3% | HS8967 |
+| THPT Phan Bội Châu | 12D | 26 | 14 | 53,8% | 2.749 | 7,7% | HS7141 |
+| **THPT Chu Văn An** | **12E** | **29** | **26** | **89,7%** | **7.066** | **10,3%** | **HS3444** |
 
-| **Construction** | **Construction** | **TỔNG HỢP VẬN HÀNH** | **PHỆ THỐNG ĐIỆN BẢNG 2** | [[H]] | **Construction** | **Contraction** |
+| **TỔNG HỢP VẬN HÀNH HỆ THỐNG ĐIỆN — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chuna<br>Contractionalized | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Trạm | Sản lượng | Tồn thất | Công suất đinh | Sự cố | Mã tham chiếu | Lũy kế |
-| Đạm 110kV Bắc | 1.245 | 4% | 96 | Contractionalized<br>Contractions | 05995 | 103 |
-| Nam 220KV Trung | 183 | 8% | 03000000000 | Contractionalized<br>Contractions | 038251 | 21 |
-| Contractionalized<br>0301000000019 | 046 | 4% | 62 | Contraction | 038932 | 307 |
-| Tâm Tây Đô | 0988 | 2% | 03000000000 | Contraction | 87750 | 128 |
-| Lạm Cao Nguyên | 037 | 9% | 26 | Contraction | 034215 | 4 |
-| Năng | 2.685 | 0% | 11 | Contraction | 036838 | 666 |
-| [[V]] | 089 | 5% | 19 | Contraction | S4565 | Contractionalized<br>Contractions |
-| Nam Sông | 955 | 3% | 45 | Đã đối chiếu | 87817 | 848 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Trạm** | **Sản lượng** | **Tổn thất** | **Công suất đinh** | **Sự cố** | **Mã tham chiếu** | **Lũy kế** |
+| Trạm 110kV Bắc | 11.245 | 5,4% | 296 | 6 | HS5995 | 2.103 |
+| Trạm 220kV Trung | 2.183 | 7,8% | 368 | 2 | HS8251 | 221 |
+|  | 5.046 | 4,4% | 662 | 4 | HS8932 | 2.307 |
+| Trạm Tây Đô | 8.988 | 3,2% | 468 | 4 | HS7750 | 3.128 |
+| Trạm Cao Nguyên | 16.037 | 7,9% | 226 | 5 | HS4215 | 44 |
+| Đà Nắng | 12.685 | 7,0% | 611 | 4 | HS6838 | 1.666 |
+| [[V]] | 10.089 | 7,5% | 519 | 5 | HS4565 |  |
+| **Trạm Nam Sông** | **16.955** | **7,3%** | **845** | **Đã đối chiếu** | **HS7817** | **8.848** |

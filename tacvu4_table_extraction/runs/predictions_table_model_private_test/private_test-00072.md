@@ -1,25 +1,25 @@
-| **Construction** | **Construction** | **BẢNG TỔNG HỌC** | **NHẬP - XUẤT** | **TÒN ? BẢNG 1** | **Contraction** | **Contraction** | **Contraction** |
+| **BẢNG TỔNG HỢP NHẬP — XUẤT — TỒN — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Mã hàng | Tên hàng | ĐVT | Tồn đầu | Nhập | Xuất | Tồn cuối | Kế hoạch năm |
-| 03913 | ấy in A4 | Cái | 1 | 2 | 5 | 8 | 17 |
-| 1575 | tực máy in | Hộp | 7 | 1 | 24 | 34 | 890 |
-| 1111 | CÁY QUÉT TÀI LIỆU | Ram | 43 | Contraction | 2 | 13 | 493 |
-| 1464 | làm việc | Bộ | 5 | 6 | 8 | 3 | 059 |
-| Nam | Thế xoay | Hộp | 6 | 7 | Contraction | 16 | 596 |
-| [[V]] | Contractionalized<br>cừng di đọng | Contraction | 7 | Contraction | 2 | Contraction | 05 |
-| 18 | Phát Wi-Fi | Cái | 1 | 2 | Contraction | 0 | 1898 |
-| 1999<br>đối chiếu | Cáy chiếu | Ram | 1 | 1 | 2 | Conters | 103 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Mã hàng** | **Tên hàng** | **ĐVT** | **Tồn đầu** | **Nhập** | **Xuất** | **Tồn cuối** | **Kế hoạch năm** |
+| VT913 | Giấy in A4 | Cái | 41 | 12 | 15 | 38 | 417 |
+| VT575 | Mực máy in | Hộp | 77 | 81 | 24 | 134 | 1.890 |
+| VT111 | Máy quét tài liệu | Ram | 143 | 2 | 32 | 113 | 5.493 |
+| VT464 | Bàn làm việc | Bộ | 85 | 56 | 68 | 73 | 5.059 |
+| Miền Nam | Ghế xoay | Hộp | 76 | 47 | 7 | 116 | 8.596 |
+| [[V]] | Ổ cứng di động |  | 77 | 1 | 72 | 6 | 105 |
+| VT618 | Bộ phát Wi-Fi | Cái | 31 | 72 |  | 30 | 7.898 |
+| **VT999<br>Đã đối chiếu** | **Máy chiếu** | **Ram** | **61** | **11** | **72** | **0** | **2.103** |
 
-| **Construction** | **Construction** | **THEO Dõi K** | **ĐẠCH MUA SẤM ? BẢNG 2** | [[H]] | **Contraction** | **Construction** |
+| **THEO DÕI KẾ HOẠCH MUA SÂM — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chuna<br>Contractionalized | [[H]] | [[H]] | Thành thị thị thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Gói thầu | Nhà cung cấp | Giá dự toán | Giá trúng | Trạng thái | Lũy kế | Ngày cập nhật |
-| 141 | Ông ty Minh An | 340 | 270 | ang thực hiện | Contractionalized<br>Contractions | 10/2026 |
-| 039100000099 | ÔÔng ty Đông Á | 300 | 160 | Bang thực hiện | Đối chiếu | 09/2026 |
-| 173 | Thập tác xã Thành Công | 230 | 040 | duyệt | 47 | 03/2026 |
-| 147 | Ông ty Việt Phát | 30 | 30 | duyệt | 089 | 03/2026 |
-| T26 | Ông ty Nam Việt | 380 | 160 | ang thực hiện | 691 | 12/2026 |
-| Mội | ong ty minh an | 60 | 00 | ang thực hiện | 512 | 06/2026 |
-| [[V]] | Ông ty Đông Á | 800 | 1710 | ang thực hiện | 439 | Contractions |
-| 102 | Tiếp tác xã Thành Công | 270 | 120 | thờ nghiệm thu | 102 | 10/2026 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Gói thầu** | **Nhà cung cấp** | **Giá dự toán** | **Giá trúng** | **Trạng thái** | **Lũy kế** | **Ngày cập nhật** |
+| GT41 | Công ty Minh An | 2.340 | 2.270 | Đang thực hiện |  | 10/10/2026 |
+| GT89 | Công ty Đông Á | 1.300 | 1.160 | Đang thực hiện | 868<br>Đã đối chiếu | 13/09/2026 |
+| GT73 | Hợp tác xã Thành Công | 1.230 | 1.040 | Đã duyệt | 847 | 01/03/2026 |
+| GT47 | Công ty Việt Phát | 930 | 830 | Đã duyệt | 1.989 | 12/03/2026 |
+| GT26 | Công ty Nam Việt | 1.380 | 1.160 | Đang thực hiện | 2.691 | 04/12/2026 |
+| HÀ NỘI | Công ty Minh An | 260 | 100 | Đang thực hiện | 4.512 | 25/06/2026 |
+| [[V]] | Công ty Đông Á | 1.800 | 1.710 | Đang thực hiện | 7.439 |  |
+| **GT02** | **Hợp tác xã Thành Công** | **2.270** | **2.120** | **Chờ nghiệm thu** | **4.102** | **01/10/2026** |

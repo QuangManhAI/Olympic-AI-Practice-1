@@ -1,18 +1,18 @@
-| **Construction** | **THEO DỖI TIẾN ĐỘI** | [[H]] | **U TƯ XÂY DỰNG - BẢNG 1** | [[H]] | **Contraction** | **Construction** |
+| **THEO DÕI TIẾN ĐỘ ĐẦU TƯ XÂY DỰNG** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Dự án | Giá trị hợp đồng | Giải ngân | Tiến độ | Vướng mắc | Tỷ trọng (%) | Đơn vị tính |
-| Đâu Đông Thành | 6.910 | 6.904 | 2,8% | Contraction | 9,4% | photomotomically<br>Đã đối chiếu |
-| TRƯỜNG VÀNH ĐAI | Contractionalized<br>Contractions | armanized<br>35 | 1,6% | hông | 2,3% | Wh |
-| Trường liên cấp | 2.430 | 365 | 9,3% | Mặt bằng | 3,5% | Wh |
-| hà máy nước | 010 | 934 | 8,3% | hông | 08,0% | sơ |
-| chu tái định cư | 240 | 294 | 0,8% | Vật liệu | 4,8% | 03800000099 |
-| 030100000001<br>Trung | 910 | 710 | 7,1% | Mặt bằng | 6,3% | sơ |
-| [[V]] | 770 | 059 | 1,3% | Phủ tục | 0,5% | 030100000000201<br>liệu dong |
-| Trường liên cấp | 660 | 504 | 1,9% | Phủ tục | ,3% | 001 |
-| hà máy nước | 3.490 | 807 | 0,5% | hông | 7% | 001 |
-| chu tái định cư | 500 | 818 | 4,2% | hông | 8,3% | 030100000000201<br>liệu dong |
-| Đầu Đông Thành | 4.410 | 715 | 1,9% | Phủ tục | 1,0% | sơ |
-| TRƯỜNG VÀNH ĐAI | 4.490 | 364 | 3,9% | Mặt bằng | 2% | 001 |
-| Trường liên cấp | 5.410 | 7.912 | 0,5% | Mặt bằng | 7,8% | 03800000099 |
-| hà máy nước | 7.370 | 0.176 | 8,6% | Không | 0,2% | 1 - 1 Thà 1 Thị Thị Thanh Thứ Thanh Thị Thứ Thanh<br>TRIỆU DONG |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Dự án** | **Giá trị hợp đồng** | **Giải ngân** | **Tiến độ** | **Vướng mắc** | **Tỷ trọng (%)** | **Đơn vị tính** |
+| Cầu Đông Thành | 26.910 | 16.904 | 62,8% |  | 29,4% | lượt<br>Đã đối chiếu |
+| Đường vành đai |  | 635 | 11,6% | Không | 12,3% | kWh |
+| Trường liên cấp | 12.430 | 7.365 | 59,3% | Mặt bằng | 13,5% | kWh |
+| Nhà máy nước | 16.010 | 2.934 | 18,3% | Không | 28,0% | hồ sơ |
+| Khu tái định cư | 3.240 | 2.294 | 70,8% | Vật liệu | 24,8% | tấn |
+| Miền Trung | 6.910 | 6.710 | 97,1% | Mặt bằng | 36,3% | hồ sơ |
+| [[V]] | 9.770 | 3.059 | 31,3% | Thủ tục | 30,5% | triệu đồng |
+| Trường liên cấp | 7.660 | 5.504 | 71,9% | Thủ tục | 5,3% | lượt |
+| Nhà máy nước | 23.490 | 4.807 | 20,5% | Không | 2,7% | lượt |
+| Khu tái định cư | 7.500 | 4.818 | 64,2% | Không | 18,3% | triệu đồng |
+| Cầu Đông Thành | 14.410 | 1.715 | 11,9% | Thủ tục | 31,0% | hồ sơ |
+| Đường vành đai | 14.490 | 6.364 | 43,9% | Mặt bằng | 3,2% | lượt |
+| Trường liên cấp | 25.410 | 17.912 | 70,5% | Mặt bằng | 17,8% | tấn |
+| **Nhà máy nước** | **17.370** | **10.176** | **58,6%** | **Không** | **20,2%** | **triệu đồng** |

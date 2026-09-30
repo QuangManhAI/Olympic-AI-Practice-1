@@ -1,10 +1,10 @@
-| **Mã hàng** | **Tên hàng** | **ĐVT** | **Tồn đầu** | **Nhập** | **Xuất** | **031000000039**<br>**0310000001** |
+| **Mã hàng** | **Tên hàng** | **DVT** | **Tồn dầu** | **Nhập** | **Xuất** | **Tồn cuối** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1174 | tấy in A4 | Ram | OVERCOMPLICATION<br>25 | Contraction | 24 | Contraction |
-| T568 | tực máy in | Bộ | 43 | STATES | 8 | 8 |
-| T069 | CÁY QUÉT TÀI LIỆU | Cái | 2 | 03 | 0 | 15 |
-| T337 | làm việc | Hộp | 3 | 16 | 39 | Contraction |
-| 1844 | thế xoay | Cái | CONTRACTIONALISTS<br>35 | 5 | 5 | OVERCOMPLICATION<br>65 |
-| T265 | Commonstructionalists<br>cừng di đọng | Bộ | 21 | 1 | 9 | contractionalized<br>33 |
-| T353 | Đô phát Wi-Fi | Cái | 9 | 09 | 1 | 7 |
-| T909 | Cáy chiếu | Bộ | 0 | 4 | 07 | 07 |
+| VT174 | Giấy in A4 | Ram | 125 | 2 | 124 | 3 |
+| VT568 | Mực máy in | Bộ | 143 | 3 | 78 | 68 |
+| VT069 | Máy quét tài liệu | Cái | 32 | 103 | 20 | 115 |
+| VT337 | Bàn làm việc | Hộp | 23 | 116 | 139 | 0 |
+| VT844 | Ghế xoay | Cái | 135 | 45 | 15 | 165 |
+| VT265 | Ổ cứng di động | Bộ | 121 | 31 | 19 | 133 |
+| VT353 | Bộ phát Wi-Fi | Cái | 29 | 29 | 31 | 27 |
+| **VT909** | **Máy chiếu** | **Bộ** | **80** | **54** | **27** | **107** |

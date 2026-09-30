@@ -1,18 +1,18 @@
-| **Contraction** | **Contract** | **THE** | **ĐỖI TIẾN ĐỘ ĐÁ** | **TƯ XÂY DỰNG** | **BẢNG 1** | **Contraction** | **State** |
+| **THEO DÕI TIẾN ĐỘ ĐẦU TƯ XÂY DỰNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành thị thị thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Dự án | Giá trị hợp đồng | Giải ngân | Tiến độ | Vướng mắc | Ngày cập nhật | Ghi chú bồ sung | Kỳ trước |
-| Đầu Đông Thành | 9.170 | 7.844 | 31,2% | Không | 07/2026 | nưa đủ chứng từ | 918 |
-| TRƯỜNG VÀNH ĐAI | 0.180 | 030 | 0,1% | Không | 09/09/2026 | nhông phát sinh | 055 |
-| Đường liên cấp | 038.420 | 7.648 | 2,1% | Phù tục | 08/2026 | Điều chỉnh kỳ sau | 797 |
-| nhà máy nước | 870 | 588 | 34,9% | Mặt bằng | 06/2026 | Điều chỉnh kỳ sau | 412 |
-| chu tái định cư | 580 | 371 | 6,8% | Không | 0/12/2026 | misrestrationalized<br>va doi chieu | 091 |
-| Đầu Đông Thành<br>đối chiếu | 9.370 | 679 | 4,2% | PHÔNG | 17/06/2026 | tiều chỉnh kỳ sau | 498 |
-| TRƯỜNG VÀNH ĐAI | 5.790 | 967 | 23,1% | Mặt bằng | 05/01/2026 | nưa đủ chứng từ | 569 |
-| Đường liên cấp | 9.570 | 6.806 | 5,9% | Không | 03/2026 | nưa đủ chứng từ | 312 |
-| nhà máy nước | 970 | 725 | 1,8% | Mặt bằng | 04/10/2026 | nông phát sinh | 935 |
-| chu tái định cư | 2.810 | 1.280 | 9,5% | Mặt bằng | 08/2026 | misantimistrations<br>va doi chieu | Contraction |
-| Lầu Đông Thành | 1.560 | 251 | 2,7% | Mặt bằng | 09/2026 | nưa đủ chứng từ | 008 |
-| TRƯỜNG VÀNH ĐAI | 800 | 771 | 2,9% | Không | 12/11/2026 | Điều chỉnh kỳ sau | 505 |
-| Contractionalists<br>03610000199 | 8.770 | Contraction | 6,4% | phù tục | 04/2026 | nông phát sinh | 1783 |
-| [[V]] | 6.490 | 1.868 | 2,0% | Vật liệu | 08/2026 | đối chiếu | 987 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Dự án** | **Giá trị hợp đồng** | **Giải ngân** | **Tiến độ** | **Vướng mắc** | **Ngày cập nhật** | **Ghi chú bổ sung** | **Kỳ trước** |
+| Cầu Đông Thành | 29.170 | 17.844 | 61,2% | Không | 04/07/2026 | Chưa đủ chứng từ | 5.918 |
+| Đường vành đai | 10.180 | 1.030 | 10,1% | Không | 09/09/2026 | Không phát sinh | 9.055 |
+| Trường liên cấp | 28.420 | 17.648 | 62,1% | Thủ tục | 12/08/2026 | Điều chỉnh kỳ sau | 9.797 |
+| Nhà máy nước | 1.870 | 1.588 | 84,9% | Mặt bằng | 03/06/2026 | Điều chỉnh kỳ sau | 6.412 |
+| Khu tái định cư | 1.580 | 1.371 | 86,8% | Không | 10/12/2026 | Đã đối chiếu | 2.091 |
+| Cầu Đông Thành<br>Đã đối chiếu | 19.370 | 4.679 | 24,2% | Không | 07/06/2026 | Điều chỉnh kỳ sau | 5.498 |
+| Đường vành đai | 25.790 | 5.967 | 23,1% | Mặt bằng | 15/01/2026 | Chưa đủ chứng từ | 8.569 |
+| Trường liên cấp | 19.570 | 16.806 | 85,9% | Không | 08/03/2026 | Chưa đủ chứng từ | 6.312 |
+| Nhà máy nước | 2.970 | 2.725 | 91,8% | Mặt bằng | 04/10/2026 | Không phát sinh | 8.935 |
+| Khu tái định cư | 22.810 | 11.280 | 49,5% | Mặt bằng | 27/08/2026 | Đã đối chiếu |  |
+| Cầu Đông Thành | 11.560 | 7.251 | 62,7% | Mặt bằng | 24/09/2026 | Chưa đủ chứng từ | 3.008 |
+| Đường vành đai | 8.800 | 3.771 | 42,9% | Không | 22/11/2026 | Điều chỉnh kỳ sau | 2.505 |
+| Miền Trung | 18.770 |  | 46,4% | Thủ tục | 08/04/2026 | Không phát sinh | 4.783 |
+| [[V]] | **16.490** | **11.868** | **72,0%** | **Vật liệu** | **23/08/2026** | **Đã đối chiếu** | **7.987** |

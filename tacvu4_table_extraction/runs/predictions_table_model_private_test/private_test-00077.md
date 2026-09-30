@@ -1,22 +1,22 @@
-| **Construction** | **Conside** | **Contraction** | **TÌNH HÌNH Đ** | **KHAI THÁC VÀ BỎN** | **THƯỜNG ? BẢNG 1** | [[H]] | **Construction** | **Contraction** |
+| **TÌNH HÌNH KHAI THÁC VÀ BỒI THƯỜNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chuna<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] | [[H]] |
-| Nghiệp vụ | Hợp đồng | Phí bảo hiểm | Bồi thường | Tỷ lệ | Xếp loại | Kỳ trước | Ghi chú bồ sung | Ngày cập nhật |
-| tức khỏe | 15 | 365 | 327 | 6,1% | 3 | 325 | Điều chỉnh kỳ sau | 12/11/2026 |
-| e cơ giới | 25 | 475 | 66 | 0,7% | 3 | 697 | Điều chỉnh kỳ sau | 07/2026 |
-| Contractions | 199 | 491 | 74 | 0,6% | Anticial | 3.952 | 0361000000000201<br>va doi chieu | 07/2026 |
-| hàng hóa | 339 | 017 | 17 | 1,5% | Cần rà soát | 706 | nhông phát sinh | 01/2026 |
-| Tai nạn con người | đối chiếu | 666 | 593 | 9,9% | Cần rà soát | 139 | tiều chỉnh kỳ sau | 02/2026 |
-| tức khỏe | 28 | 104 | 436 | 9,4% | Contraction | 590 | 0361000100000980<br>và đôi chiêu | 06/2026 |
-| e cơ giới | 247 | 964 | 8 | 0% | 3 | 66 | nông phát sinh | 15/11/2026 |
-| vài sản | 343 | 4.331 | 179 | 4,0% | 3 | 1.966 | nhưa đủ chứng từ | 02/2026 |
-| hàng hóa | 24 | 668 | 145 | 8,5% | Anticial | .764 | nhưa đủ chứng từ | 04/2026 |
-| tai nạn con người | contractionalists<br>062 | 372 | 19 | ,5% | Anticial | .699 | nông phát sinh | 06/2026 |
-| Thánh Hòa | 353 | 530 | 192 | 3,8% | Cần rà soát | 685 | 0361000100000980<br>và đôi chiêu | 12/2026 |
-| [[V]] | 238 | 904 | 317 | 9,2% | Cần rà soát | 552 | nông phát sinh | 04/2026 |
-| vài sản | 201 | 02 | 97 | 9,0% | Anticial | Contractionalized<br>Contraction | 0361000100000980<br>và đôi chiêu | 04/2026 |
-| hàng hóa | 365 | 570 | 905 | 4,2% | Cần rà soát | 76 | nhưa đủ chứng từ | 10/2026 |
-| tai nạn con người | 030000000000 | 0.080 | 380 | 3,7% | Contraction | 926 | nông phát sinh | 01/2026 |
-| tức khỏe | 46 | 460 | 9 | ,3% | Contraction | 163 | Điều chỉnh kỳ sau | 1/12/2026 |
-| e cơ giới | Proportionalists<br>056 | 1.152 | 563 | 8,9% | 3 | 201 | nông phát sinh | 06/06/2026 |
-| VÀI SẢN | 145 | 225 | 73 | 0,2% | ALLICATE | 3.359 | thưa đủ chứng từ | 05/05/2026 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] | [[H]] |
+| **Nghiệp vụ** | **Hợp đồng** | **Phí bảo hiểm** | **Bồi thường** | **Tỷ lệ** | **Xếp loại** | **Kỳ trước** | **Ghi chú bổ sung** | **Ngày cập nhật** |
+| Sức khỏe | 215 | 2.365 | 1.327 | 56,1% | B | 1.325 | Điều chỉnh kỳ sau | 12/11/2026 |
+| Xe cơ giới | 225 | 2.475 | 266 | 10,7% | B | 6.697 | Điều chỉnh kỳ sau | 10/07/2026 |
+|  | 499 | 4.491 | 474 | 10,6% | A | 3.952 | Đã đối chiếu | 14/07/2026 |
+| Hàng hóa | 339 | 1.017 | 117 | 11,5% | Cần rà soát | 8.706 | Không phát sinh | 22/01/2026 |
+| Tai nạn con người | 619<br>Đã đối chiếu | 8.666 | 2.593 | 29,9% | Cần rà soát | 5.139 | Điều chỉnh kỳ sau | 22/02/2026 |
+| Sức khỏe | 228 | 4.104 | 2.436 | 59,4% | c | 5.590 | Đã đối chiếu | 08/06/2026 |
+| Xe cơ giới | 247 | 2.964 | 58 | 2,0% | B | 266 | Không phát sinh | 25/11/2026 |
+| Tài sản | 843 | 14.331 | 9.179 | 64,0% | B | 4.966 | Chưa đủ chứng từ | 21/02/2026 |
+| Hàng hóa | 524 | 3.668 | 2.145 | 58,5% | A | 1.764 | Chưa đủ chứng từ | 01/04/2026 |
+| Tai nạn con người | 562 | 3.372 | 119 | 3,5% | A | 4.699 | Không phát sinh | 24/06/2026 |
+| Khánh Hòa | 353 | 3.530 | 1.192 | 33,8% | Cần rà soát | 1.685 | Đã đối chiếu | 13/12/2026 |
+| [[V]] | 238 | 1.904 | 1.317 | 69,2% | Cần rà soát | 2.552 | Không phát sinh | 04/04/2026 |
+| Tài sản | 201 | 402 | 197 | 49,0% | A |  | Đã đối chiếu | 07/04/2026 |
+| Hàng hóa | 365 | 6.570 | 2.905 | 44,2% | Cần rà soát | 676 | Chưa đủ chứng từ | 15/10/2026 |
+| Tai nạn con người | 840 | 10.080 | 1.380 | 13,7% | c | 3.926 | Không phát sinh | 26/01/2026 |
+| Sức khỏe | 146 | 1.460 | 19 | 1,3% | c | 4.163 | Điều chỉnh kỳ sau | 01/12/2026 |
+| Xe cơ giới | 656 | 11.152 | 6.563 | 58,9% | B | 8.201 | Không phát sinh | 26/06/2026 |
+| **Tài sản** | **445** | **2.225** | **673** | **30,2%** | **A** | **3.359** | **Chưa đủ chứng từ** | **05/05/2026** |

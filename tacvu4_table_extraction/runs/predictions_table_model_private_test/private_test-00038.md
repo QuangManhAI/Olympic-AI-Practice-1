@@ -1,29 +1,29 @@
-| **Contractions** | **Contraction** | **KẾT QUẢ KHẢO** | **ÁT CHẤT LƯỢNG** | **BẢNG 1** | **Contraction** | **Contraction** |
+| **KẾT QUẢ KHẢO SÁT CHẤT LƯỢNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Đơn vị | Lớp | Thi sinh | Đạt | Tỷ lệ đạt | Kỳ này | Lũy kế |
-| PT Nguyễn Trãi | 2A | 3 | 5 | 1,4% | 649 | 142 |
-| PT Lê Quý Đôn | 2B | 5 | 8 | 0,0% | 43 | 535 |
-| PT Trần Phú | 20 | 1 | 8 | 0,3% | 002 | 313 |
-| PT Phan Bội Châu | 2D | 2 | 2 | Contractions | 38 | 293 |
-| PT Chu Văn An | OPERCOMMENTATION<br>ZE | 8 | 4 | 5,7% | 1794 | 823 |
-| PT Nguyễn Trãi | 2A | 5 | 2 | 03,0% | 205 | 212 |
-| Nam | 2B | 7 | 2 | 9,4% | Contraction | 749 |
-| [[V]] | 20 | 7 | 09 | 0,4% | 253 | 975 |
-| PT Phan Bội Châu | 2D | 7 | 7 | 03,0% | 829 | 917 |
-| PT Chu Văn An | 2E | 0 | 0 | 00,0%<br>đói chiếu | 03 | 204 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Đơn vị** | **Lớp** | **Thí sinh** | **Đạt** | **Tỷ lệ đạt** | **Kỳ này** | **Lũy kế** |
+| THPT Nguyễn Trãi | 12A | 43 | 35 | 81,4% | 3.649 | 3.142 |
+| THPT Lê Quý Đôn | 12B | 35 | 28 | 80,0% | 343 | 9.535 |
+| THPT Trần Phú | 12C | 31 | 28 | 90,3% | 1.002 | 5.313 |
+| THPT Phan Bội Châu | 12D | 32 | 32 |  | 738 | 6.293 |
+| THPT Chu Văn An | 12E | 28 | 24 | 85,7% | 7.794 | 3.823 |
+| THPT Nguyễn Trãi | 12A | 25 | 22 | 88,0% | 6.205 | 4.212 |
+| Miền Nam | 12B | 47 | 42 | 89,4% |  | 8.749 |
+| [[V]] | 12C | 27 | 19 | 70,4% | 6.253 | 6.975 |
+| THPT Phan Bội Châu | 12D | 27 | 17 | 63,0% | 3.829 | 2.917 |
+| **THPT Chu Văn An** | **12E** | **40** | **40** | **100,0%<br>Đã đổi chiếu** | **193** | **8.204** |
 
-| **Contraction** | **Conters** | **GIẢI QUYẾT CHẾ ĐỘ E** | [[H]] | **ĐO HIẾM XÃ HỘI BẢN** | **G2** | **Contraction** | **Contraction** |
+| **GIẢI QUYẾT CHẾ ĐỘ BẢO HIẾM XÃ HỘI — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Nhóm chế độ | Hồ sơ nhận | Đã giải quyết | Trễ hạn | Chi trả | Lũy kế | Kỳ trước | Ngày cập nhật |
-| ÔÔng Nai | 038 | 54 | 6 | 1.102 | 168 | 054 | 04/2026 |
-| [[V]] | 49 | 36 | 08 | 832 | 191 | Presensiveness<br>065 | 02/2026 |
-| m đau | 377 | 342 | 6 | 04.052 | 501 | 494 | Contractions |
-| hai sản | 879 | 860 | Contraction | 03.020 | 906 | 009 | 05/2026 |
-| tại nạn lao động | 308 | 188 | 2 | 03.068 | 313 | 908 | 05/2026 |
-| ru tri | Contraction | 56 | 7 | 848 | 598 | 994 | 08/2026 |
-| hất nghiệp | 35 | 41 | đối chiếu | 1.856 | 781 | 206 | 03/2026 |
-| m đau | 676 | 573 | 3 | 1.157 | 151 | 281 | 12/2026 |
-| hai sản | 56 | 51 | Contraction | 118 | 099 | 277 | 05/2026 |
-| tại nạn lao động | 161 | 069 | 3 | 6.552 | 833 | 704 | 06/2026 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Nhóm chế độ** | **Hồ sơ nhận** | **Đã giải quyết** | **Trễ hạn** | **Chi trả** | **Lũy kế** | **Kỳ trước** | **Ngày cập nhật** |
+| Đồng Nai | 938 | 854 | 26 | 11.102 | 2.168 | 3.054 | 24/04/2026 |
+| [[V]] | 849 | 736 | 98 | 8.832 | 8.191 | 2.555 | 23/02/2026 |
+| Ốm đau | 2377 | 2342 | 16 | 14.052 | 6.501 | 8.494 |  |
+| Thai sản | 1879 | 1860 | 3 | 13.020 | 7.906 | 4.009 | 12/05/2026 |
+| Tai nạn lao động | 1308 | 1188 | 42 | 13.068 | 4.313 | 6.908 | 18/05/2026 |
+| Hưu trí |  | 356 | 17 | 2.848 | 2.598 | 5.994 | 22/08/2026 |
+| Thất nghiệp | 835 | 741 | 54 đối chiếu | 11.856 | 4.781 | 1.206 | 19/03/2026 |
+| Ốm đau | 1676 | 1573 | 73 | 14.157 | 4.151 | 1.281 | 12/12/2026 |
+| Thai sản | 956 | 951 | 6 | 17.118 | 7.099 | 8.277 | 03/05/2026 |
+| **Tai nạn lao động** | **2161** | **2069** | **33** | **16.552** | **4.833** | **4.704** | **17/06/2026** |

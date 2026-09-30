@@ -1,22 +1,22 @@
-| **Contraction** | **Construction** | **Contraction** | **THEO Dõi KẾ** | **HOẠCH MUA SÁM - BẢ** | **NG1** | **Conside** | **Conside** | **Contraction** |
+| **THEO DÕI KẾ HOẠCH MUA SẮM — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] | [[H]] |
-| Gói thầu | Nhà cung cấp | Giá dự toán | Giá trúng | Trạng thái | Tỷ trọng (%) | Lũy kế | Kế hoạch năm | Ngày cập nhật |
-| T32 | Công ty Minh An | 760 | .740 | phờ nghiệm thu | 26,8% | 643 | 310 | Contraction |
-| 166 | Công ty Đông Á | 60 | 00 | phờ nghiệm thu | 31,1% | 58 | 587 | 07/2026 |
-| 19782 | Hợp tác xã Thành Công | 140 | 120 | phờ nghiệm thu | 25,3% | CONTRACTIONALISTS<br>65 | 770 | 14/10/2026 |
-| 10 | Công ty Việt Phát | 450 | 350 | duyệt | ,3% | 829 | 1.890 | 04/07/2026 |
-| 169 | Công ty Nam Việt | 20 | 50 | phờ nghiệm thu | 9,8% | 919 | 461 | 04/2026 |
-| 19 | Công ty Minh An | 170 | 170 | phờ nghiệm thu | 4% | 538 | 3.301 | 01/2026 |
-| 14 | Công ty Đông Á | 720 | 680 | phờ nghiệm thu | 2,0% | 769 | 3.524 | 09/10/2026 |
-| 17 | Hợp tác xã Thành Công | 280 | 180 | duyệt | 8,5% | 670 | 303 | 08/2026 |
-| T56 | Công ty Việt Phát | 30 | 390 | duyệt | 27,8% | 691 | 669 | 08/2026 |
-| ĐÀ NĂNG | Công ty Nam Việt | 50 | 00 | duyệt | 26,4% | 041 | 290 | 07/2026 |
-| [[V]] | Công ty Minh An | 410 | 370 | ang thực hiện | 37,8% | 748 | 920 | 18/10/2026 |
-| 195 | Công ty Đông Á | 250 | 110 | duyệt | 22,8% | 217 | 822 | 07/01/2026 |
-| 174 | Hợp tác xã Thành Công | 950 | .790 | ang thực hiện | 8,1% | 966 | 259 | 12/2026 |
-| 13 | Công ty Việt Phát | 160 | 130 | duyệt | 24,6% | 886 | 165 | 03/2026 |
-| 114 | Ông ty Nam Việt | 080<br>Đã đối chiếu | 020 | hờ nghiệm thu | 0,8% | 489 | 307 | 2/06/2026 |
-| 197 | Công ty Minh An | 130 | 970 | duyệt | 24,5% | 666 | 959 | 08/08/2026 |
-| 15 | Ông ty Đông Á | 150 | 140 | ang thực hiện | Contract | 044 | 631 | 09/10/2026 |
-| 161 | Hợp tác xã Thành Công | 340 | 280 | ang thực hiện | 30,0% | 058 | 211 | 04/2026 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] | [[H]] |
+| **Gói thầu** | **Nhà cung cấp** | **Giá dự toán** | **Giá trúng** | **Trạng thái** | **Tỷ trọng (%)** | **Lũy kế** | **Kế hoạch năm** | **Ngày cập nhật** |
+| GT32 | Công ty Minh An | 1.760 | 1.740 | Chờ nghiệm thu | 26,8% | 6.643 | 9.310 |  |
+| GT66 | Công ty Đông Á | 160 | 100 | Chờ nghiệm thu | 31,1% | 158 | 1.587 | 11/07/2026 |
+| GT82 | Hợp tác xã Thành Công | 1.140 | 1.120 | Chờ nghiệm thu | 25,3% | 765 | 7.770 | 04/10/2026 |
+| GT10 | Công ty Việt Phát | 2.450 | 2.350 | Đã duyệt | 1,3% | 7.829 | 4.890 | 04/07/2026 |
+| GT69 | Công ty Nam Việt | 220 | 150 | Chờ nghiệm thu | 19,8% | 5.919 | 8.461 | 25/04/2026 |
+| GT49 | Công ty Minh An | 2.170 | 2.170 | Chờ nghiệm thu | 2,4% | 5.538 | 6.301 | 02/01/2026 |
+| GT14 | Công ty Đông Á | 1.720 | 1.680 | Chờ nghiệm thu | 12,0% | 9.769 | 3.524 | 19/10/2026 |
+| GT17 | Hợp tác xã Thành Công | 2.280 | 2.180 | Đã duyệt | 18,5% | 2.670 | 2.303 | 26/08/2026 |
+| GT56 | Công ty Việt Phát | 430 | 390 | Đã duyệt | 27,8% | 7.691 | 7.669 | 22/08/2026 |
+| Đà Nắng | Công ty Nam Việt | 650 | 500 | Đã duyệt | 26,4% | 8.041 | 9.290 | 16/07/2026 |
+| [[V]] | Công ty Minh An | 1.410 | 1.370 | Đang thực hiện | 37,8% | 9.748 | 1.920 | 08/10/2026 |
+| GT95 | Công ty Đông Á | 2.250 | 2.110 | Đã duyệt | 22,8% | 2.217 | 8.822 | 27/01/2026 |
+| GT74 | Hợp tác xã Thành Công | 1.950 | 1.790 | Đang thực hiện | 18,1% | 7.966 | 5.259 | 25/12/2026 |
+| GT13 | Công ty Việt Phát | 1.160 | 1.130 | Đã duyệt | 24,6% | 3.886 | 7.165 | 06/03/2026 |
+| GT14 | Công ty Nam Việt | 2.080<br>Đã đối chiếu | 2.020 | Chờ nghiệm thu | 10,8% | 4.489 | 8.307 | 12/06/2026 |
+| GT97 | Công ty Minh An | 2.130 | 1.970 | Đã duyệt | 24,5% | 4.666 | 5.959 | 18/08/2026 |
+| GT15 | Công ty Đông Á | 2.150 | 2.140 | Đang thực hiện |  | 3.044 | 6.631 | 19/10/2026 |
+| **GT61** | **Hợp tác xã Thành Công** | **1.340** | **1.280** | **Đang thực hiện** | **30,0%** | **4.058** | **5.211** | **05/04/2026** |

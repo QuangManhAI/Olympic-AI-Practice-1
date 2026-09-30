@@ -1,7 +1,7 @@
-| **Phòng ban** | **Định biên** | **Hiện có** | **03010000000200**<br>**Tuyen mơi** | **Thiếu/thừa** |
+| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyến mới** | **Thiếu/thừa** |
 | --- | --- | --- | --- | --- |
-| Bình doanh | 3001000000 | 03100000099 | Contractions | 3001000000 |
-| toán | 4 | 03100000099 | Contractions | Contractions |
-| HÀNH | 03100000019 | 03100000099 | Contractions | Contractions |
-| ong nghê thị trong thị thuật<br>STATES | 03100000099 | 031000000199 | Contractions | 4 |
-| Bình chính | Contractions | Contractions | Contractions | Contractions |
+| Kinh doanh | 33 | 36 | 0 | 43 |
+| Kế toán | 44 | 36 | 8 | 8 |
+| Vận hành | 32 | 26 | 6 | 6 |
+| Công nghệ | 25 | 29 | 0 | 44 |
+| **Hành chính** | **8** | **1** | **7** | **7** |

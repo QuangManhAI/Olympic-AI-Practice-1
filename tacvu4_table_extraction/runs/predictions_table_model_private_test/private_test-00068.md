@@ -1,18 +1,18 @@
-| **Construction** | **Contraction** | **TỔNG HỢP NHA** | **SỰ THEO ĐƠN VI** | **BẢNG 1** | **Construction** | **Construction** |
+| **TỔNG HỢP NHÂN SỰ THEO ĐƠN VỊ — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Phòng ban | Định biên | Hiện có | 0301000000201<br>luyen mơi | Thiếu/thừa | Tỷ trọng (%) | Kỳ trước |
-| Bình doanh | 9 | 5 | Contraction | 4 | 08,9% | 312 |
-| toán | 8 | Contraction | Contraction | 0 | 13,7% | 182 |
-| BẢN HÀNH | 5 | 2 | Contraction | 3 | 5,9% | 026 |
-| ông nghê<br>Contractionalists | 5 | 8 | Contraction | 3 | 9,3% | 675 |
-| Nguyên | 1 | 6 | Contraction | 5 | 2,7% | 958 |
-| [[V]] | 3 | 09 | Contraction | 4 | 4% | 078 |
-| Bình doanh | 1 | 6 | Contraction | 5 | 1,0% | Contransitionalists<br>22 |
-| toán | Contraction | Contraction | Contraction | 1 | 0% | Contractions |
-| BẢN HÀNH | 5 | 4 | Contraction | 1 | 3% | 384 |
-| ông nghê<br>Contractionalists | 1 | 0 | Contraction | 1 | 5,3% | 654 |
-| BÀNH CHÍNH | 0 | 7 | Contraction | 3 | 6,8% | 468 |
-| năm sóc khách hàng | 9 | 3 | Contraction | 6 | 2,2% | 587 |
-| Bình doanh | 5 | 8 | Contraction | TRANSLESS | 13,3% | 345 |
-| toán | 2 | 1 | Đã đối chiếu | 1 | 0% | 461 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyến mới** | **Thiếu/thừa** | **Tỷ trọng (%)** | **Kỳ trước** |
+| Kinh doanh | 29 | 25 | 4 | 4 | 28,9% | 4.312 |
+| Kế toán | 18 |  | 0 | %0 | 13,7% | 7.182 |
+| Vận hành | 25 | 22 | 3 | 3 | 25,9% | 8.026 |
+| Công nghệ | 25 | 28 | 0 | %3 | 29,3% | 9.675 |
+| Tây Nguyên | 21 | 16 | 5 | 5 | 12,7% | 5.958 |
+| [[V]] | 33 | 29 | 4 | 4 | 7,4% | 9.078 |
+| Kinh doanh | 31 | 26 | 5 | 5 | 11,0% | 922 |
+| Kế toán | 8 | 7 | 1 | 1 | 4,0% |  |
+| Vận hành | 15 | 14 | 1 | 1 | 6,3% | 5.384 |
+| Công nghệ | 31 | 30 | 1 | 1 | 25,3% | 5.654 |
+| Hành chính | 20 | 17 | 3 | 3 | 26,8% | 2.468 |
+| Chăm sóc khách hàng | 39 | 33 | 6 | -6 | 32,2% | 4.587 |
+| Kinh doanh | 25 | 18 | 7 | -7 | 33,3% | 8.345 |
+| **Kế toán** | **32** | **31** | **bã đối chiếu** | **-1** | **4,0%** | **7.461** |

@@ -1,20 +1,20 @@
-| **Construction** | **Contraction** | **THỐNG KÊ HOẠT** | **ĐỘNG KHÁM CHỮA** | **BỆNH BẢNG 1** | **Construction** | **Contraction** |
+| **THỐNG KÊ HOẠT ĐỘNG KHÁM CHỮA BỆNH — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Khoa | Lượt khám | Nhập viện | Chuyển tuyến | Thời gian chờ | Kỳ này | Xếp loại |
-| hội tổng hợp | 63 | 4 | Contraction | phút | 11 | Contraction |
-| ngoại | 43 | Contraction | Contraction | Contractions | 322 | Contraction |
-| 03800000099 | 5 | 4 | Contraction | PHÚT | 274 | Contraction |
-| 03800000099 | 03 | 2 | Contraction | PHÚT | 101 | Contraction |
-| 038000000099<br>va doi chieu | 18 | 8 | 1 | PHÚT | 428 | States |
-| Tai Mũi Họng | 39 | 7 | Contraction | phút | 964 | Contraction |
-| hội tổng hợp | 0 | Contraction | Contraction | 4 phút | 970 | Contraction |
-| ngoại | 39 | Contraction | 2 | 5 phút | 287 | Contraction |
-| 03800000099 | 78 | 7 | Contraction | 1 phút | 579 | Contraction |
-| 038000000099 | Contractionalized<br>22 | 0 | 2 | 4 phút | 760 | Contraction |
-| Ất | 57 | 0 | Contraction | 1 phút | 974 | Contraction |
-| Tai Mũi Họng | 42 | 5 | Contraction | 4 phút | 904 | Contraction |
-| hội tổng hợp | 58 | 1 | Contraction | phút | 0789 | Contraction |
-| Nam | Forestrated<br>033 | 4 | Contraction | 2 phút | 494 | Cần rà soát |
-| [[V]] | 24 | 9 | 1 | 5 phút | 951 | Contraction |
-| 038000000099 | 77 | Contraction | Contraction | 8 phút | 602 | Cần rà soát |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Khoa** | **Lượt khám** | **Nhập viện** | **Chuyển tuyến** | **Thời gian chờ** | **Kỳ này** | **Xếp loại** |
+| Nội tổng hợp | 263 | 24 | 4 | 59 phút | 1.711 | c |
+| Ngoại | 343 | 8 | 8 |  | 3.322 | A |
+| Nhi | 95 | 14 | 8 | 56 phút | 2.274 | A |
+| Sản | 203 | 22 | 2 | 26 phút | 8.101 | A |
+| Mắt<br>Đã đối chiếu | 218 | 28 | 11 | 15 phút | 1.428 | c |
+| Tai Mũi Họng | 439 | 37 | 5 | 29 phút | 2.964 | A |
+| Nội tổng hợp | 60 | 8 | 9 | 34 phút | 8.970 | c |
+| Ngoại | 139 | 6 | 12 | 55 phút | 9.287 | A |
+| Nhi | 178 | 27 | 0 | 21 phút | 8.579 | c |
+| Sản | 322 | 60 | 12 | 14 phút | 1.760 | c |
+| Mát | 157 | 20 | 2 | 51 phút | 2.974 | c |
+| Tai Mũi Họng | 242 | 45 | 5 | 14 phút | 4.904 | A |
+| Nội tổng hợp | 358 | 21 | 1 | 39 phút | 1.789 | A |
+| Miền Nam | 353 | 24 | 8 | 12 phút | 1.494 | Cần rà soát |
+| [[V]] | 224 | 29 | 11 | 45 phút | 9.951 | c |
+| **Sản** | **377** |  | **3** | **18 phút** | **2.602** | **Cần rà soát** |

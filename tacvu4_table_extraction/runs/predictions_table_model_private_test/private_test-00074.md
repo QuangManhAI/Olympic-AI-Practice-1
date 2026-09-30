@@ -1,31 +1,31 @@
-| **Construction** | **Consides** | **TỔNG HỌ** | **NHÂN SỰ THEO** | **ĐƠN VỊ BẢNG** | **038000000099** | **Construction** |
+| **TỔNG HỢP NHÂN SỰ THEO ĐƠN VỊ BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Trong thị thị thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Phòng ban | Định biên | Hiện có | 031000000200<br>Tuyen mơi | Thiếu/thừa | Ghi chú bồ sung | Lũy kế |
-| Bình doanh | 5 | 8 | Contraction | 3 | Liêu chỉnh kỳ sau | 522 |
-| ÔÔng Nai | 9 | 5 | Contraction | 4 | Liêu chỉnh kỳ sau | 035 |
-| [[V]] | Contraction | 1 | Contraction | 3 | Liêu chỉnh kỳ sau | 177 |
-| ông nghê<br>Contractionalists | 5 | 2 | Contraction | Contraction | ông phát sinh | 34 |
-| BÀNH CHÍNH | 2 | 5 | Contraction | 3 | ông phát sinh | 423 |
-| năm sóc khách hàng | 0301000000 | 4 | Conters | 4 | nhông phát sinh<br>đối chiếu | 582 |
-| Bình doanh | 2 | 07 | Station | 5 | nưa đủ chứng từ | 680 |
-| toán | 03 | 2 | Contraction | 1 | nưa đủ chứng từ | 50 |
-| trần hành | 6 | 8 | Contraction | 2 | 03100100100001990<br>ĐÔI CHIẾU | 793 |
-| Nhông nghê<br>CONTRACTIONALISTS | 2 | 5 | Contraction | 7 | 03100100100001990<br>ĐÔI CHIẾU | 003 |
-| BÀNH CHÍNH | 4 | 1 | Contraction | 3 | nưa đủ chứng từ | 647 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyến mới** | **Thiếu/thừa** | **Ghi chú bố sung** | **Lũy kế** |
+| Kinh doanh | 35 | 38 | 0 | %3 | Điều chỉnh kỳ sau | 3.522 |
+| Đồng Nai | 19 | 15 | 4 | 4 | Điều chỉnh kỳ sau | 2.035 |
+| [[V]] |  | 11 | 0 | %3 | Điều chỉnh kỳ sau | 5.177 |
+| Công nghệ | 35 | 32 | 3 |  | Không phát sinh | 334 |
+| Hành chính | 12 | 15 | 0 | %3 | Không phát sinh | 1.423 |
+| Chăm sóc khách hàng | 38 | 34 | 4 | 4 | Không phát sinh<br>Đã đối chiếu | 6.582 |
+| Kinh doanh | 32 | 27 | 5 | 5 | Chưa đủ chứng từ | 2.680 |
+| Kế toán | 23 | 22 | 1 | -1 | Chưa đủ chứng từ | 750 |
+| Vận hành | 16 | 18 | 0 | 42 | Đã đối chiếu | 7.793 |
+| Công nghệ | 42 | 35 | 7 | -7 | Đã đối chiếu | 6.003 |
+| **Hành chính** | **34** | **31** | **3** | **3** | **Chưa dủ chứng từ** | **7.647** |
 
-| **Construction** | **Construction** | **GIẢI QUYẾT CHẾ** | **BẢO HIỂM XÃ HỘI ? BẢNG 2** | [[H]] | **Construction** | **Construction** |
+| **GIẢI QUYẾT CHẾ ĐỘ BẢO HIỂM XÃ HỘI — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Nhóm chế độ | Hồ sơ nhận | Đã giải quyết | Trễ hạn | Chi trả | Kỳ trước | Kế hoạch năm |
-| Đông | 91 | 95 | 2 | 465 | Contractions | 108 |
-| [[V]] | 71 | 31 | 9 | 927 | 190 | 831 |
-| m đau | 36 | 80 | 1 | 840 | 974 | 40 |
-| hai sản | 12 | 92 | 2 | 728 | 020 | 925 |
-| tại nạn lao động | 722 | 613 | 5 | 065 | 164 | 17 |
-| ru trí | 91 | Contransitionalists<br>22 | 8 | 954 | 378 | 194 |
-| hất nghiệp | 12 | 74 | 7 | 370 | 996 | 71 |
-| m đau | 281 | 169 | 4 | 4.704 | 310 | 928 |
-| hai sản | 068 | 046<br>Đã đối chiếu | 2 | 2.552 | 792 | 197 |
-| Contractional | 411 | 410 | Contraction | 230 | 553 | 264 |
-| Trí | 091 | 034 | 6 | 6.612 | 628 | 979 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Nhóm chế độ** | **Hồ sơ nhận** | **Đã giải quyết** | **Trễ hạn** | **Chi trả** | **Kỳ trước** | **Kế hoạch năm** |
+| Lâm Đồng | 591 | 495 | 62 | 3.465 |  | 3.108 |
+| [[V]] | 271 | 231 | 39 | 3.927 | 5.190 | 7.831 |
+| Ốm đau | 536 | 480 | 41 | 3.840 | 4.974 | 240 |
+| Thai sản | 312 | 192 | 72 | 1.728 | 4.020 | 5.925 |
+| Tai nạn lao động | 1722 | 1613 | 25 | 8.065 | 4.164 | 6.717 |
+| Hưu trí | 491 | 422 | 38 | 2.954 | 4.378 | 6.194 |
+| Thất nghiệp | 512 | 474 | 17 | 2.370 | 2.996 | 571 |
+| Ốm đau | 2281 | 2169 | 64 | 34.704 | 1.310 | 3.928 |
+| Thai sản | 1068 | 1046<br>Đã đối chiếu | 22 | 12.552 | 7.792 | 2.197 |
+|  | 1411 | 1410 | 5 | 4.230 | 3.553 | 2.264 |
+| **Hưu trí** | **2091** | **2034** | **56** | **36.612** | **4.628** | **8.979** |

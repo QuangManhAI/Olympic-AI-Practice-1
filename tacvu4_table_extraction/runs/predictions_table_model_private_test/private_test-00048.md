@@ -1,19 +1,19 @@
-| **Construction** | **BẢNG TỔNG HỢP NHẬT** | [[H]] | **XUẤT ? TÒN BẢN** | **G1** | **Contraction** | **Contraction** |
+| **BẢNG TỔNG HỢP NHẬP — XUẤT — TỒN — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | SỐ LIỆU BÁO CÁO | [[H]] | [[H]] | [[H]] |
-| Mã hàng | Tên hàng | ĐVT | Tồn đầu | Nhập | Xuất | 031000000032<br>Lon cuoi |
-| 1663 | ấy in A4 | Hộp | 2 | 5 | 3 | 04 |
-| 1974 | trực máy in | Ram | 6 | 4 | 7000000009 | 3 |
-| 1986 | táy quét tài liệu | Cái | 43 | 0 | 18 | 5 |
-| 148 | làm việc | Cái | 70 | 09 | 5 | 34 |
-| 1669 | HẾ XOAY | Ram | 30 | 14 | 5 | 89 |
-| 232 | Contractionalized<br>cừng di đọng | Bộ | 70 | 4 | 3 | Contraction |
-| 1940 | Phát Wi-Fi | Bộ | 03 | 8 | 07 | 4 |
-| Contractions | Cáy chiếu | Hộp | 7 | 0 | 26 | Contraction |
-| 1706<br>đối chiếu | ấy in A4 | BỘ | 9 | 3 | 1 | 1 |
-| Năng | trực máy in | Nộp | armanized<br>35 | Contraction | 8 | 5 |
-| [[V]] | táy quét tài liệu | Ram | 9 | 11 | 7000000009 | 3 |
-| T351 | làm việc | Nộp | 9 | Contraction | 2 | 1 |
-| 1689 | HẾ XOAY | Nộp | 6 | 3 | 07 | 2 |
-| 1879 | Contractionalized<br>cừng di đọng | Bộ | 42 | 1 | 8 | DECONTRACTION<br>35 |
-| 1889 | Độ phát Wi-Fi | lộp | 7 | 8 | Contraction | 7 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Mã hàng** | **Tên hàng** | **DVT** | **Tồn dầu** | **Nhập** | **Xuất** | **Tồn cuối** |
+| VT663 | Giấy in A4 | Hộp | 52 | 85 | 33 | 104 |
+| VT974 | Mực máy in | Ram | 56 | 54 | 87 | 23 |
+| VT986 | Máy quét tài liệu | Cái | 143 | 60 | 118 | 85 |
+| VT148 | Bàn làm việc | Cái | 170 | 79 | 15 | 234 |
+| VT669 | Ghế xoay | Ram | 130 | 114 | 55 | 189 |
+| VT232 | Ổ cứng di động | Bộ | 170 | 44 | 23 |  |
+| VT940 | Bộ phát Wi-Fi | Bộ | 103 | 38 | 107 | 34 |
+|  | Máy chiếu | Hộp | 87 | 40 | 126 | 1 |
+| VT706<br>Đã đối chiếu | Giấy in A4 | Bộ | 59 | 73 | 91 | 41 |
+| Đà Nắng | Mực máy in | Hộp | 135 | 8 | 48 | 95 |
+| [[V]] | Máy quét tài liệu | Ram | 39 | 111 | 87 | 63 |
+| VT351 | Bàn làm việc | Hộp | 49 | 4 | 12 | 41 |
+| VT689 | Ghế xoay | Hộp | 76 | 53 | 107 | 22 |
+| VT879 | Ổ cứng di động | Bộ | 142 | 31 | 38 | 135 |
+| **VT889** | **Bộ phát Wi-Fi** | **Hộp** | **57** | **48** | **8** | **97** |

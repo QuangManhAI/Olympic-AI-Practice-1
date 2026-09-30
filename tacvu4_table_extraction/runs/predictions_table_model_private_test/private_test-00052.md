@@ -1,29 +1,29 @@
-| **Construction** | **Contraction** | **TỔNG HỢP VẬN** | **BỆNH HỆ THỐNG ĐIỆN BẢNG 1** | [[H]] | **Contraction** | **Construction** |
+| **TỔNG HỢP VẬN HÀNH HỆ THỐNG ĐIỆN — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | Thành thị thị thu báo cáo | [[H]] | [[H]] | [[H]] |
-| Trạm | Sản lượng | Tồn thất | Công suất đinh | Sự cố | Tỷ trọng (%) | Ngày cập nhật |
-| Nam 110kV Bắc | 14.297 | ,3% | 95 | Contraction | 17,6% | 06/2026 |
-| Nam 220KV Trung | 374 | Contraction | 12 | Contraction | 17,7% | 04/2026 |
-| Nam Sông | 04.610 | 6% | 03 | Contraction | 0,6% | 06/2026 |
-| Đạm Tây Đô | 075 | 8% | 33 | Contraction | 0,9% | 10/2026 |
-| Lạm Cao Nguyên | 5.645 | 8% | 45 | Contraction | 7,9% | 04/2026 |
-| Nam 110kV Bắc | Contraction | 8% | 19 | Contraction | 5,6% | 05/2026 |
-| Nam 220KV Trung | 2.617 | 1% | 17 | Contraction | 0,5% | 08/2026 |
-| Nam Sông | 889 | 7% | 20 | Contraction | 05,0% | 12/2026 |
-| Tây Đô | 0.391 | 8% | 21<br>va doi chieu | Started | 7,5% | 02/2026 |
-| Nguyên | 6.477 | 4% | 38 | Contraction | 7,2% | 10/2026 |
-| [[V]] | 439 | 5% | 030000000000 | Contraction | 9,3% | 09/2026 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Trạm** | **Sản lượng** | **Tổn thất** | **Công suất đinh** | **Sự cố** | **Tỷ trọng (%)** | **Ngày cập nhật** |
+| Trạm 110kV Bắc | 14.297 | 1,3% | 795 | 0 | 27,6% | 27/06/2026 |
+| Trạm 220kV Trung | 6.374 |  | 312 | 5 | 17,7% | 20/04/2026 |
+| Trạm Nam Sông | 14.610 | 6,6% | 603 | 5 | 10,6% | 08/06/2026 |
+| Trạm Tây Đô | 8.075 | 3,8% | 933 | 7 | 30,9% | 23/10/2026 |
+| Trạm Cao Nguyên | 15.645 | 6,8% | 845 | 7 | 17,9% | 26/04/2026 |
+| Trạm 110kV Bắc |  | 1,8% | 619 | 2 | 15,6% | 13/05/2026 |
+| Trạm 220kV Trung | 12.617 | 7,1% | 717 | 2 | 10,5% | 14/08/2026 |
+| Trạm Nam Sông | 15.889 | 4,7% | 820 | 0 | 15,0% | 01/12/2026 |
+| Trạm Tây Đô | 10.391 | 4,8% | 321<br>Đã đối chiếu | 2 | 37,5% | 22/02/2026 |
+| Tây Nguyên | 16.477 | 1,4% | 638 | 2 | 37,2% | 19/10/2026 |
+| [[V]] | **5.439** | **4,5%** | **788** | **4** | **29,3%** | **12/09/2026** |
 
-| **Construction** | **Contraction** | **BÁO CÁO DOANH THU** | [[H]] | **THEO KHU VỰC BẢNG** | **2** | **Contraction** | **Contraction** |
+| **BÁO CÁO DOANH THU THEO KHU VỰC — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Khu vực | Kế hoạch | Thực hiện | Chênh lệch | Tỷ lệ | Đơn vị tính | Tỷ trọng (%) | Ngày cập nhật |
-| 03110010019900032<br>Bac | 670 | 050 | 80 | 22,8% | Wh | 6,9% | 10/10/2026 |
-| 03110010019900032<br>0310000000999 | 390 | 540 | 50 | 06,3% | 0301000000099<br>Triệu dong | 5,7% | 02/2026 |
-| Nam | 540 | 100 | 60 | 36,4% | 0301000000099<br>Triệu dong | 7,0% | Contractionalized<br>Contractional |
-| Nguyên | 110 | 260 | 50 | 03,6% | Contractionalized<br>Contractions | 0% | 07/2026 |
-| ông bằng sông Cửu Long | 250 | 300 | 0 | 01.5%<br>vã đối chiếu | 001019900199 | 9,1% | 104/2026 |
-| 0361000000099<br>Bac | 180 | 770 | 90 | 14,1% | NGUYỄN THỊ THỊ | 2,1% | 03/2026 |
-| Contractional<br>03600000099 | 090 | 630 | 160 | 08,0% | NGUYỄN THỊ THỊ | 4,4% | 09/2026 |
-| [[V]] | 200 | 820 | 20 | 51,7% | HỌT | 6% | 05/2026 |
-| Nguyên | 990 | 110 | 20 | 04,0% | hồ sơ | 4% | 04/2026 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Khu vực** | **Kế hoạch** | **Thực hiện** | **Chênh lệch** | **Tỷ lệ** | **Đơn vị tính** | **Tỷ trọng (%)** | **Ngày cập nhật** |
+| Miền Bắc | 1.670 | 2.050 | 380 | 122,8% | kWh | 36,9% | 10/10/2026 |
+| Miền Trung | 2.390 | 2.540 | 150 | 106,3% | triệu đồng | 35,7% | 02/02/2026 |
+| Miền Nam | 1.540 | 2.100 | 560 | 136,4% | triệu đồng | 37,0% |  |
+| Tây Nguyên | 4.110 | 4.260 | 150 | 103,6% |  | 7,0% | 04/07/2026 |
+| Đồng bằng sông Cửu Long | 3.250 | 3.300 | 50 | 101,5%<br>Đã đối chiếu | lượt | 29,1% | 27/04/2026 |
+| Miền Bắc | 4.180 | 4.770 | 590 | 114,1% | tấn | 12,1% | 12/03/2026 |
+| Miền Bắc | 2.090 | 1.630 | 460 | 78,0% | tấn | 24,4% | 27/09/2026 |
+| [[V]] | 1.200 | 1.820 | 620 | 151,7% | lượt | 4,6% | 05/05/2026 |
+| **Tây Nguyên** | **2.990** | **3.110** | **120** | **104,0%** | **hồ sơ** | **9,4%** | **20/04/2026** |

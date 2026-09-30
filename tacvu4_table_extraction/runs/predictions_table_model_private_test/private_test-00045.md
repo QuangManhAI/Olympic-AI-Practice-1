@@ -1,17 +1,17 @@
-| **Construction** | **Consides** | **KẾT QUẢ** | **AN TRÁC CHÁ** | **LƯỢNG MÔI TRƯỜNG** | **BẢNG 1** | **Consides** | **Construction** |
+|  |  | **KẾT QUÁ A** | **JAN TRÁC CHÁT** | **LƯỢNG MÔI TRƯỜNG** | **BẢNG 1** |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chung<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Điểm quan trắc | PH | COD | BOD5 | Mức đánh giá | Ngày cập nhật | Lũy kế | Mã tham chiếu |
-| hàng | 82 | 31 | 24 | Mốt | 10/2026 | 45 | 0757 |
-| [[V]] | 032<br>Đã đối chiếu | 4 | 0 | Trần theo dõi | 04/2026 | 966 | 036214 |
-| Xuân Hương | 24 | 32 | 4 | Phấp nhận | 03/2026 | 268 | 036542 |
-| Long Thành | 75 | 0 | Contraction | Mốt | 08/2026 | 97 | Contraction |
-| Tra biển Đà Nắng | 036000000099<br>031000000001 | 39 | 5 | Tươt ngưỡna<br>03010000000201 | 01/2026 | 425 | 036060 |
-| ÔÔng Hồng | 34 | Contraction | 28 | Tươt ngưỡna<br>03010000000201 | 11/2026 | 725 | 0808 |
-| ÔÔng Hương | 93 | 14 | 34 | Contractions | 01/2026 | 108 | 036512 |
-| Xuân Hương | 92 | 0 | 6 | Mốt | 02/2026 | 080 | 1706 |
-| Long Thành | 77 | 5 | 8 | Trần theo dõi | 03/2026 | 035 | 035995 |
-| Tra biển Đà Nắng | 96 | 1 | 1 | Phấp nhận | 09/2026 | 168 | 035372 |
-| ÔÔng Hồng | 11 | 07 | 31 | Tươt ngưỡna<br>03010000000201 | 07/2026 | 09 | 039000000990 |
-| ÔÔng Hương | 59 | 3 | 6 | Mốt | 08/2026 | 394 | 0338888 |
-| Xã Xuân Hương | 10 | 27 | BARRIES | Ốt | 07/2026 | 311 | 1532 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Điểm quan trác** | **pH** | **COD** | **BODS** | **Mức đánh giá** | **Ngày cập nhật** | **Lũy kế** | **Mã tham chiếu** |
+| Đà Nắng | 7,82 | 31 | 24 | Tốt | 25/10/2026 | 645 | HSO757 |
+| [[V]] | 8,32<br>Đã đối chiếu | 94 | 19 | Cần theo dõi | 20/04/2026 | 4.966 | HS6214 |
+| Hồ Xuân Hương | 6,24 | 32 | 14 | Chấp nhận | 04/03/2026 | 9.268 | HS6542 |
+| KCN Long Thành | 7,75 | 80 | 4 | Tốt | 11/08/2026 | 597 |  |
+| Cửa biển Đà Nắng | 7,55 | 39 | 15 | Vượt ngưõng | 26/01/2026 | 2.425 | HS6060 |
+| Sông Hồng | 7,34 | 8 | 28 | Vượt ngưõng | 19/11/2026 | 9.725 | HSO808 |
+| Sông Hương | 7,93 | 44 | 34 |  | 20/01/2026 | 3.108 | HS6512 |
+| Hồ Xuân Hương | 6,92 | 70 | 16 | Tốt | 09/02/2026 | 1.080 | HS1706 |
+| KCN Long Thành | 6,77 | 85 | 38 | Cần theo dõi | 16/03/2026 | 985 | HS5995 |
+| Cửa biển Đà Nắng | 7,96 | 11 | 21 | Chấp nhận | 14/09/2026 | 7.168 | HS5372 |
+| Sông Hồng | 7,11 | 87 | 31 | Vượt ngưõng | 23/07/2026 | 709 | HSO690 |
+| Sông Hương | 6,59 | 63 | 16 | Tốt | 15/08/2026 | 6.394 | HS3888 |
+| **Hồ Xuân Hương** | **6,10** | **27** | **8** | **Tốt** | **17/07/2026** | **4.311** | **HS1532** |

@@ -1,27 +1,27 @@
-| **Construction** | **Contraction** | **TÌNH HÌN** | **SẢN XUẤT NÔNG NGHIỆP ? BẢNG 1** | [[H]] | **Construction** | **Contraction** |
+| **TÌNH HÌNH SẢN XUẤT NÔNG NGHIỆP — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Địa bàn | Cây trồng | Diện tích (ha) | Sản lượng (tấn) | Ghi chú | Ghi chú bồ sung | Kỳ trước |
-| Đồng | 0300000099 | 49 | 792 | theo dõi sâu bệnh | Liều chỉnh kỳ sau | 681 |
-| [[V]] | Cà phê | 37 | 311 | NĂNG NHẹ | nưa đủ chứng từ | 602 |
-| Năng | hanh long | 74 | 792 | Contractions | 0311001000000980<br>va doi chieu | 180 |
-| Phánh Hòa | Hồ tiêu | 48 | 932 | bạt kế hoạch | Contractional | 570 |
-| Bồng Nai | Xoài | 06 | 636 | bạt kế hoạch | Liều chỉnh kỳ sau | 103 |
-| Contransitionalists<br>Trần Thơ | Rau màu | 373 | 111 | NĂNG NHẹ | Liều chỉnh kỳ sau | 005 |
-| Đồng | Cúa | 93 | 965 | ĐỊNH | nhưa đủ chứng từ<br>đối chiếu | 988 |
-| Nội | Cà phê | 46 | 076 | ĐỊNH | nưa dủ chứng từ | 425 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Địa bàn** | **Cây trồng** | **Diện tích (ha)** | **Sản lượng (tấn)** | **Ghi chú** | **Ghi chú bổ sung** | **Kỳ trước** |
+| Lâm Đồng | Lúa | 349 | 2.792 | Theo dõi sâu bệnh | Điều chỉnh kỳ sau | 5.681 |
+| [[V]] | Cà phê | 437 | 1.311 | Tăng nhẹ | Chưa đủ chứng từ | 8.602 |
+| Đà Nắng | Thanh long | 474 | 3.792 |  | Đã đối chiếu | 2.180 |
+| Khánh Hòa | Hồ tiêu | 548 | 4.932 | Đạt kế hoạch |  | 8.570 |
+| Đồng Nai | Xoài | 606 | 3.636 | Đạt kế hoạch | Điều chỉnh kỳ sau | 7.103 |
+| Cần Thơ | Rau màu | 873 | 6.111 | Tăng nhẹ | Điều chỉnh kỳ sau | 3.005 |
+| Lâm Đồng | Lúa | 593 | 2.965 | Ổn định | Chưa đủ chứng từ<br>Đã đối chiếu | 7.988 |
+| **Hà Nội** | **Cà phê** | **346** | **2.076** | **Ốn định** | **Chưa dủ chứng từ** | **4.425** |
 
-| **Construction** | **Contraction** | **BÁO CÁO** | **KHAI THÁC TUYẾN** | **BẢNG 2** | **Construction** | **Construction** |
+| **BÁO CÁO KHAI THÁC TUYẾN — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Contractionalized<br>0360000000098 | Số chuyến | Hành khách | Đúng giờ | Doanh thu | Ghi chú | Kỳ trước |
-| Và Nội ? Hải Phòng | 8 | 444 | 1,7% | 68.948 | Bình thường | 056 |
-| Phòng | 6 | 88 | 0,8% | 5.216 | Bình thường | 695 |
-| [[V]] | 35 | 65 | 08,0% | 01.080 | Bình thường | 292 |
-| Tha Trang ? Đà Lạt | 6 | 94 | 9,1% | 05.222 | liều chỉnh giờ | 843 |
-| Và Nội ? Hải Phòng | 35 | 365 | 3,3% | Contractionalized<br>Contractions | Bình thường | 458 |
-| Năng ? Huế | 30 | 170 | 1,2% | 26.980 | Bình thường | 374 |
-| HCM ? Cần Thơ | 32 | 152 | 3,4% | 17.728 | CĂNG CHUYẾN | 316 |
-| Tha Trang ? Đà Lạt | 32 | 64 | 3,7% | 18.128 | liều chỉnh giờ | 416 |
-| Và Nội ? Hải Phòng | 35 | 190 | Contractionalized<br>Contractions | 78.500 | Bình thường | 423 |
-| Nẫng ? Huế | 0 | 050 | 1,5% | 71.150 | Bình thường | 949<br>Đã đối chiếu |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Tuyến** | **Số chuyến** | **Hành khách** | **Đúng giờ** | **Doanh thu** | **Ghi chú** | **Kỳ trước** |
+| Hà Nội ? Hải Phòng | 38 | 1.444 | 91,7% | 168.948 | Bình thường | 9.056 |
+| Hải Phòng | 16 | 288 | 90,8% | 45.216 | Bình thường | 1.695 |
+| [[V]] | 35 | 665 | 98,0% | 101.080 | Bình thường | 8.292 |
+| Nha Trang ? Đà Lạt | 26 | 494 | 89,1% | 105.222 | Điều chỉnh giờ | 3.843 |
+| Hà Nội ? Hải Phòng | 35 | 1.365 | 93,3% |  | Bình thường | 9.458 |
+| Đà Nắng ? Huế | 30 | 1.170 | 91,2% | 226.980 | Bình thường | 8.374 |
+| TP.HCM ? Cần Thơ | 32 | 1.152 | 93,4% | 217.728 | Tăng chuyến | 4.316 |
+| Nha Trang ? Đà Lạt | 32 | 864 | 93,7% | 88.128 | Điều chỉnh giờ | 9.416 |
+| Hà Nội ? Hải Phòng | 35 | 1.190 |  | 178.500 | Bình thường | 3.423 |
+| **Đà Nắng ? Huế** | **30** | **1.050** | **91,5%** | **171.150** | **Bình thường** | **3.949<br>Đã đối chiếu** |

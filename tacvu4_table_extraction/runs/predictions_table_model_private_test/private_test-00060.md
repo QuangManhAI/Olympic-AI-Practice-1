@@ -1,36 +1,36 @@
-| **Construction** | **Contraction** | **TÌNH HÌNH KHAI** | **BÒI THƯỜNG BÁNG 1** | [[H]] | **Contraction** | **Contraction** |
+| **TÌNH HÌNH KHAI THÁC VÀ BỒI THƯỜNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Trong Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Nghiệp vụ | Hợp đồng | Phi bảo hiểm | Bồi thường | Tỷ lệ | Xếp loại | Kỳ trước |
-| ỨC KHỎE | 61 | 1.415 | 273 | 7,4% | trần rà soát | 746 |
-| cơ giới | CONTRACTIONALISTS<br>05 | 080 | 311 | 6,6% | Contraction | 061 |
-| THỊ SẢN | 27 | 697 | 183 | 17,8% | Contraction | 168 |
-| hàng hóa | 66 | 996 | 70 | 4,3% | trần rà soát | 926 |
-| tại nạn con người | 69 | 035 | 858 | 08,4% | trần rà soát | 406 |
-| ỨC KHỎE | 63 | 26 | 12 | 4,5% | trần rà soát | 841 |
-| cơ giới | 1 | 02 | 1 | 09,6% | Contraction | 621 |
-| THỊ SẢN | 73 | 957 | 218 | 17,5% | Contraction | 131 |
-| hàng hóa | 12 | 008 | 064 | 0,7% | Contraction | 935 |
-| tại nạn con người | 27 | Anticulations<br>035 | 61 | 6,9% | Contraction | 095 |
-| ỨC KHỎE | FACTIONALIZED<br>02 | 564 | 346 | 1,4% | Contraction | 425 |
-| cơ giới | 19 | 942 | 61 | 2% | Contraction | 758 |
-| THỊ SẢN | 04 | 016 | 87 | 09,2% | trần rà soát | 303 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Nghiệp vụ** | **Hợp đồng** | **Phí bảo hiểm** | **Bồi thường** | **Tỷ lệ** | **Xếp loại** | **Kỳ trước** |
+| Sức khỏe | 761 | 11.415 | 4.273 | 37,4% | Cần rà soát | 3.746 |
+| Xe cơ giới | 255 | 4.080 | 2.311 | 56,6% | B | 7.061 |
+| Tài sản | 427 | 4.697 | 3.183 | 67,8% | A | 6.168 |
+| Hàng hóa | 666 | 3.996 | 970 | 24,3% | Cần rà soát | 8.926 |
+| Tai nạn con người | 669 | 10.035 | 3.858 | 38,4% | Cần rà soát | 8.406 |
+| Sức khỏe | 463 | 926 | 412 | 44,5% | Cần rà soát | 8.841 |
+| Xe cơ giới | 51 | 102 | 71 | 69,6% | B | 6.621 |
+| Tài sản | 773 | 6.957 | 1.218 | 17,5% | c | 5.131 |
+| Hàng hóa | 572 | 8.008 | 4.064 | 50,7% | c | 5.935 |
+| Tai nạn con người | 127 | 635 | 361 | 56,9% | B | 1.095 |
+| Sức khỏe | 652 | 4.564 | 2.346 | 51,4% | A | 3.425 |
+| Xe cơ giới | 219 | 3.942 | 361 | 9,2% | c | 9.758 |
+| **Tài sản** | **504** | **2.016** | **387** | **19,2%** | **Cần rà soát** | **3.303** |
 
-| **Contractions** | **Contraction** | **TÌNH HÌNH KHAI THU** | **VÀ BỒI THƯỜNG BÁNG 1** | [[H]] | **Contraction** | **Contraction** |
+| **TÌNH HÌNH KHAI THÁC VÀ BỒI THƯỜNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Nghiệp vụ | Hợp đồng | Phi báo hiếm | Bồi thường | Tỷ lệ | Xếp loại | Kỳ trước |
-| hàng hóa | 81 | 091 | 415 | 5,8% | Contraction | 873 |
-| nạn con người | 10 | 0.650 | 069 | 0,0% | Contraction | 719 |
-| CÚC KHỎE | 41 | Contransitionalists<br>23 | 87 | 4.2% | Contraction | 721 |
-| cơ giới | 001000000001<br>22 | 330 | 51 | 09,5% | Station | 300 |
-| BÀI SẢN | Procressionalists<br>033 | 189 | 290 | 5,8% | Contraction | 625 |
-| Contransitional | 26 | 582 | 80 | 7,7% | Cần rà soát | 477 |
-| nạn con người | 15 | 870 | 62 | 2,3% | Contraction | 967 |
-| CÚC KHỎE | Contraction | 03.906 | 938 | 1.1% | Cần rà soát | 268 |
-| cơ giới | 80 | 440 | 28 | 6,7% | Station | 166 |
-| BÀI SẢN | contractionalized<br>02 | 058 | 274 | 4.7% | Contraction | 961 |
-| hàng hóa | 0 | 60 | 92 | 1% | Contraction | 823 |
-| nạn con người | 1 | 81 | 83 | 6,2% | Contraction | 319 |
-| ỨỨc khỏe<br>đối chiếu | 28 | 248 | 906 | 17,0% | trần rà soát | 061 |
-| cơ giới | 48 | 828 | 843 | 18,1% | Contraction | 692 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Nghiệp vụ** | **Hợp đồng** | **Phí bảo hiểm** | **Bồi thường** | **Tỷ lệ** | **Xếp loại** | **Kỳ trước** |
+| Hàng hóa | 281 | 3.091 | 1.415 | 45,8% | c | 9.873 |
+| Tai nạn con người | 710 | 10.650 | 1.069 | 10,0% | c | 6.719 |
+| Sức khỏe | 141 | 423 | 187 | 44,2% | c | 8.721 |
+| Xe cơ giới | 222 | 3.330 | 651 | 19,5% | B | 7.300 |
+| Tài sản | 553 | 7.189 | 3.290 | 45,8% | A | 9.625 |
+|  | 226 | 1.582 | 280 | 17,7% | Cần rà soát | 5.477 |
+| Tai nạn con người | 215 | 3.870 | 862 | 22,3% | c | 4.967 |
+| Sức khỏe |  | 13.906 | 2.938 | 21,1% | Cần rà soát | 2.268 |
+| Xe cơ giới | 480 | 1.440 | 528 | 36,7% | B | 4.166 |
+| Tài sản | 562 | 5.058 | 3.274 | 64,7% | A | 6.961 |
+| Hàng hóa | 80 | 560 | 292 | 52,1% | c | 9.823 |
+| Tai nạn con người | 71 | 781 | 283 | 36,2% | A | 9.319 |
+| Sức khỏe<br>Đã đối chiếu | 828 | 13.248 | 4.906 | 37,0% | Cần rà soát | 7.061 |
+| **Xe cơ giới** | **348** | **3.828** | **1.843** | **48,1%** | **A** | **3.692** |

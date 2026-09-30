@@ -1,22 +1,22 @@
-| **Construction** | **KẾT QUẢ QUAN TRÁ** | [[H]] | **HÁT LƯỢNG MỘ** | **TRƯỜNG ? BẢNG 1** | **Construction** | **Construction** |
+|  | **KẾT QUẢ QUAN TRÁC** | [[H]] | **CHÁT LƯỢNG MÔ** | **TRƯỜNG ? BẢNG 1** |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành Số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Điểm quan trắc | PH | COD | BOD5 | Mức đánh giá | Kỳ này | Kế hoạch năm |
-| ÔÔng Hồng Hồng<br>Contractionalized | 45 | 8 | 2 | Phấp nhận | 032 | Contraction |
-| Ông Hương<br>CONTRACTIONALISTS | 94 | 5 | STATES | Ốt | 402 | 431 |
-| Xuân Hương | 87 | 0 | STATES | 001001000009<br>CONTRANSITIONALISTS | 568 | 820 |
-| Long Thành | 05<br>0310000000020 | 4 | 4 | 001001000009<br>CONTRANSITIONALISTS | 420 | 510 |
-| Trừa biển Đà Năng | 88 | 0 | 31 | Ốt | 596 | 305 |
-| ÔÔng Hồng Hồng<br>Contractionalized | 31 | 5 | 31 | Ốt | 809 | 465 |
-| Ông Hương<br>CONTRACTIONALISTS | 87 | 8 | 039 | Trần theo dõi | 28 | 848 |
-| Xuân Hương | 91 | 1 | 039 | Trần theo dõi | 680 | 350 |
-| Long Thành | Contractionalized<br>32 | 0 | 4 | 001001000009<br>CONTRANSITIONALISTS | 727 | 581 |
-| Trừa biển Đà Năng | 17 | 5 | 8 | Trần theo dõi | 969 | Contraction |
-| ÔÔng Hồng Hồng<br>Contractionalized | 87 | 2 | 2 | Phấp nhận | 273 | 120 |
-| Ông Hương<br>CONTRACTIONALISTS | Propolitionalism<br>036 | 3 | 1 | 001001000009<br>CONTRANSITIONALISTS | 185 | 123 |
-| Xuân Hương | 42 | 3 | Contraction | Trần theo dõi | 687 | 827 |
-| Long Thành | 92 | 37 | 2 | Phấp nhận | 735 | 981 |
-| Trừa biển Đà Năng | 88 | 4 | 2 | Trần theo dõi | 811 | 903 |
-| ÔÔng Hồng<br>Contractionalized | 1 đối chiếu | 0019900199 | 4 | 0010100199<br>Contractionalized | 391 | 992 |
-| Thơ | 39 | 4 | Contraction | trần theo dõi | 84 | 077 |
-| [[V]] | 97 | 3 | Station | Ốt | 294 | 444 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Điểm quan trắc** | **pH** | **COD** | **BODS** | **Mức đánh giá** | **Kỳ này** | **Kế hoạch năm** |
+| Sông Hồng | 6,45 | 38 | 12 | Chấp nhận | 3.032 |  |
+| Sông Hương | 7,94 | 65 | 6 | Tốt | 3.402 | 8.431 |
+| Hồ Xuân Hương | 7,87 | 40 | 6 | Vượt ngưỡng | 1.568 | 5.820 |
+| KCN Long Thành | 7,95 | 64 | 14 | Vượt ngưỡng | 6.420 | 6.510 |
+| Cửa biển Đà Nắng | 7,88 | 80 | 31 | Tốt | 5.596 | 2.305 |
+| Sông Hồng | 7,31 | 45 | 31 | Tốt | 2.809 | 5.465 |
+| Sông Hương | 6,87 | 88 | 39 | Cần theo dõi | 428 | 4.848 |
+| Hồ Xuân Hương | 6,91 | 61 | 39 | Cần theo dõi | 4.680 | 5.350 |
+| KCN Long Thành | 7,32 | 10 | 14 | Vượt ngưỡng | 5.727 | 9.581 |
+| Cửa biển Đà Nắng | 7,17 | 85 | 18 | Cần theo dõi | 8.969 |  |
+| Sông Hồng | 6,87 | 42 | 32 | Chấp nhận | 1.273 | 4.120 |
+| Sông Hương | 6,56 | 43 | 41 | Vượt ngưỡng | 9.185 | 3.123 |
+| Hồ Xuân Hương | 6,42 | 13 | 9 | Cần theo dõi | 2.687 | 4.827 |
+| KCN Long Thành | 5,92 | 37 | 12 | Chấp nhận | 4.735 | 3.981 |
+| Cửa biển Đà Nắng | 7,88 | 74 | 32 | Cần theo dõi | 4.811 | 8.903 |
+| Sông Hồng | 7,14<br>Đã đối chiếu | 24 | 14 | Vượt ngưỡng | 8.391 | 2.992 |
+| Cần Thơ | 7,39 | 74 | 7 | Cần theo dõi | 584 | 4.077 |
+| [[V]] | **5,97** | **83** | **8** | **Tốt** | **4.294** | **8.444** |

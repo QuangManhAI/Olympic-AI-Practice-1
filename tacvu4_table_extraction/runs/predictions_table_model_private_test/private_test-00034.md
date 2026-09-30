@@ -1,29 +1,29 @@
-| **Contraction** | **Stark** | **Stark** | **TỔNG HỢP NH** | **TRẦN SỰ THEO ĐƠN** | **BẢNG 1** | **Contraction** | **Contraction** |
+| **TỔNG HỢP NHÂN SỰ THEO ĐƠN VỊ — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chuna<br>Contractionalized | [[H]] | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Phòng ban | Định biên | Hiện có | Tuyển mới | Thiếu/thừa | Ghi chú bồ sung | Ngày cập nhật | Kỳ trước |
-| Bình doanh | 28 | 23 | States | 5 | MISANTIMITATION<br>va doi chieu | 06/2026 | 178 |
-| toán | Contract | 0 | Contraction | 3 | phòng phát sinh | 15/11/2026 | 878 |
-| Phòng | 13 | 6 | Contraction | 1780000009 | phòng phát sinh | 02/2026 | 378 |
-| [[V]] | 5 | 7 | ôn đối chiếu | 2 | nưa đủ chứng từ | 05/2026 | 490 |
-| BÀNH CHÍNH | 09 | 27 | Contraction | 2 | nưa đủ chứng từ | 04/2026 | 839 |
-| năm sóc khách hàng | 30 | 6 | Contraction | 4 | nưa đủ chứng từ | 03/2026 | 025 |
-| Bình doanh | 24 | 1 | States | 3 | nưa đủ chứng từ | 05/2026 | 99 |
-| toán | 1 | 1 | Contract | 0 | ông phát sinh | 07/2026 | 111 |
-| trần hành | 28 | 24 | Contraction | 4 | đối chiếu | 12/2026 | 155 |
+| **Thông tin chung** | [[H]] | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyển mới** | **Thiếu/thừa** | **Ghi chú bổ sung** | **Ngày cập nhật** | **Kỳ trước** |
+| Kinh doanh | 28 | 23 | 5 | 5 | Đã đối chiếu | 14/06/2026 | 2.178 |
+| Kế toán |  | 20 | 0 | %3 | Không phát sinh | 25/11/2026 | 6.878 |
+| Hải Phòng | 43 | 36 | 7 | 7 | Không phát sinh | 06/02/2026 | 7.378 |
+| [[V]] | 35 | 37 | Đã đối chiếu | 42 | Chưa đủ chứng từ | 20/05/2026 | 2.490 |
+| Hành chính | 29 | 27 | 2 | 2 | Chưa đủ chứng từ | 08/04/2026 | 7.839 |
+| Chăm sóc khách hàng | 30 | 26 | 4 | -4 | Chưa đủ chứng từ | 02/03/2026 | 3.025 |
+| Kinh doanh | 24 | 21 | 3 | -3 | Chưa đủ chứng từ | 27/05/2026 | 999 |
+| Kế toán | 21 | 21 |  | 40 | Không phát sinh | 03/07/2026 | 7.111 |
+| **Vận hành** | **28** | **24** | **4** | **-4** | **Đã đối chiếu** | **21/12/2026** | **7.155** |
 
-| **Contractions** | **KẾT QUẢ QUAN TRÂN** | [[H]] | **MẤT LƯỢNG MÔI TRƯỜNG BẢNG 2** | [[H]] | **Contraction** | **Contraction** |
+| **KẾT QUẢ QUAN TRẮC CHẤT LƯỢNG MÔI TRƯỜNG — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thành Thông tin chuna<br>Contractionalized | [[H]] | [[H]] | Thành thị thuận thị thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Điểm quan trắc | PH | COD | BODS | Mức đánh giá | Kỳ trước | Mã tham chiếu |
-| NG HỒNG | 27 | 03 | 5 | Ốt | 511 | 033278 |
-| ÔÔng Hương | 23 | 5 | 4 | trần theo dõi | 636 | 035760 |
-| Xuân Hương | 48 | 0 | 8 | hấp nhận | 438 | 039203 |
-| Long Thành | 80 | 8 | 3 | hấp nhận | 449 | 036425 |
-| Ba biển Đà Năng | 13 | 09 | 5 | hấp nhận | 033 | 035414 |
-| Nhình Hồng Hồng Thị Thuật Thị Thuận Thuận<br>đối chiếu | 22 | 0 | States | pháp nhận | 587 | 0832 |
-| Nội | 17 | 6 | 3 | Ốt | 617 | 035049 |
-| [[V]] | 89 | 2 | 6 | Trần theo dõi | 627 | 038880 |
-| Long Thành | 96 | 09 | Contraction | 03010010000<br>CONTRACTIONALISTS | 705 | 0300000000 |
-| Ba biển Đà Năng | 28 | 02 | 1 | hấp nhận | 645 | S7771 |
-| Nhồng Hồng<br>Contractionalized | 078 | 3 | 1 | 03600000099 | 625 | 05432 |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Điểm quan trắc** | **pH** | **COD** | **BOD5** | **Mức đánh giá** | **Kỳ trước** | **Mã tham chiếu** |
+| Sông Hồng | 8,27 | 63 | 45 | Tốt | 2.511 | HS3278 |
+| Sông Hương | 6,23 | 15 | 24 | Cần theo dõi | 4.636 | HS5760 |
+| Hồ Xuân Hương | 6,48 | 40 | 48 | Chấp nhận | 6.438 | HS9203 |
+| KCN Long Thành | 7,80 | 48 | 43 | Chấp nhận | 5.449 | HS6425 |
+| Cửa biển Đà Nắng | 6,13 | 89 | 15 | Chấp nhận | 8.033 | HS5414 |
+| Sông Hồng<br>Đã đối chiếu | 7,22 | 40 |  | Chấp nhận | 2.587 | HSO832 |
+| HÀ NỘI | 7,17 | 66 | 13 | Tốt | 6.617 | HS5049 |
+| [[V]] | 7,89 | 22 | 46 | Cần theo dõi | 3.627 | HS3880 |
+| KCN Long Thành | 7,96 | 69 |  | Vượt ngưõng | 3.705 | HS7107 |
+| Cửa biển Đà Nắng | 6,28 | 92 | 31 | Chấp nhận | 4.645 | HS7771 |
+| **Sông Hồng** | **7,78** | **63** | **11** | **Tốt** | **8.625** | **HS5432** |

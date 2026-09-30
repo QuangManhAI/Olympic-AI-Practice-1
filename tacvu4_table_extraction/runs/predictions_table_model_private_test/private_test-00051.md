@@ -1,20 +1,20 @@
-| **Constructions** | **Construction** | **BÁO CÁO HOẠ** | **ĐỘNG BÁN LÊ ? BẢN** | **Construction** | **Construction** | **Consides** |
+|  |  | **BÁO CÁO HOẠT** | **ĐỘNG BÁN LÊ ? BẢNG** | **1** |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành số liệu báo cáo | [[H]] | [[H]] | [[H]] |
-| Điểm bán | Lượt khách | Số đơn | Giá trị bán | Hoàn trả | Kỳ này | Xếp loại |
-| Tra hàng 01 | 935 | 976 | 60.408 | 9% | 421 | Contraction |
-| Tra hàng 02 | 431 | 060 | 774.800 | 5% | 890 | Contraction |
-| Liêu thị trung tâm | 11 | 0 | 470 | 7% | 559 | Contraction |
-| Tiểm bán phía bác<br>đối chiếu | 758 | 745 | 73.965 | 0% | 672 | Cần rà soát |
-| Năng | 01 | 69 | 03.655 | 2% | 031 | Contraction |
-| [[V]] | 95 | 05 | 27.920 | 4% | 226 | Cần rà soát |
-| 02 | 42 | contractionalists<br>33 | 8.735 | 0% | 386 | Contractions |
-| Liêu thị trung tâm | 381 | 179 | 55.628 | 9% | 98 | STATES |
-| Tiểm bán phía Bắc | 014 | 17 | 36.219 | 8% | 438 | Contractions |
-| Nếm bán phía Nam | 076 | 47 | 119 | 8% | 203 | STATES |
-| tra hàng 01 | 154 | 020 | 498.840 | 4% | 762 | Cần rà soát |
-| 02 | 800 | 208 | 039.448 | 1% | 323 | Contractions |
-| Liêu thị trung tâm | 245 | 840 | 219.920 | 1% | 543 | Contraction |
-| Tiểm bán phía Bắc | 460 | 88 | 23.432 | 9% | 807 | Cần rà soát |
-| Nếm bán phía Nam | 541 | 738 | 510.322 | 0% | 45 | Contraction |
-| Tra hàng 01 | 013 | 90 | 12.190 | ,5% | 833 | Contraction |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Điểm bán** | **Lượt khách** | **Số đơn** | **Giá trị bán** | **Hoàn trả** | **Kỳ này** | **Xếp loại** |
+| Cửa hàng 01 | 3935 | 1976 | 460.408 | 0,9% | 9.421 | A |
+| Cửa hàng 02 | 4431 | 3060 | 1.774.800 | 2,5% | 7.890 | A |
+| Siêu thị trung tâm | 311 | 70 | 8.470 | 1,7% | 8.559 | A |
+| Điểm bán phía Bắc<br>Đã đối chiếu | 2758 | 1745 | 273.965 | 4,0% | 5.672 | Cần rà soát |
+| Đà Nắng | 301 | 169 | 83.655 | 7,2% | 2.031 |  |
+| [[V]] | 495 | 205 | 127.920 | 2,4% | 2.226 | Cần rà soát |
+| Cửa hàng 02 | 642 | 233 | 68.735 | 3,0% | 7.386 | c |
+| Siêu thị trung tâm | 4381 | 1179 | 155.628 | 2,9% | 598 | B |
+| Điểm bán phía Bắc | 1014 | 617 | 436.219 | 2,8% | 4.438 | c |
+| Điểm bán phía Nam | 2076 | 447 | 79.119 | 1,8% | 8.203 | B |
+| Cửa hàng 01 | 3154 | 2020 | 1.498.840 | 0,4% | 4.762 | Cần rà soát |
+| Cửa hàng 02 | 1800 | 1208 | 339.448 | 0,1% | 4.323 | c |
+| Siêu thị trung tâm | 3245 | 1840 | 1.219.920 | 7,1% | 3.543 | A |
+| Điểm bán phía Bắc | 1460 | 888 | 123.432 | 2,9% | 8.807 | Cần rà soát |
+| Điểm bán phía Nam | 2541 | 1738 | 1.510.322 | 0,0% | 745 |  |
+| **Cửa hàng 01** | **1013** | **390** | **242.190** | **3,5%** | **1.833** | **A** |

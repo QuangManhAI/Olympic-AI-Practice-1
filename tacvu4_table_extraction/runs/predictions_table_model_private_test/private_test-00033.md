@@ -1,20 +1,20 @@
-| **Construction** | **CHẤT LƯỢNG MẠNG** | [[H]] | **DỊCH VỤ VIỄN THỔ** | **BẢNG 1** | **Contraction** | **Contraction** |
+| **CHẤT LƯỢNG MẠNG VÀ DỊCH VỤ VIỄN THÔNG — BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thông tin chung | [[H]] | [[H]] | Thành thị thuận thuận báo cáo | [[H]] | [[H]] | [[H]] |
-| Khu vực | Thuê bao | Lưu lượng | Tỷ lệ rớt cuộc | Phản ánh | Ngày cập nhật | Xếp loại |
-| UM BTS-01 | 6.386 | 3.991 | 7% | 1 | 10/2026 | Contraction |
-| UM BTS-02 | 6.410 | 250 | 0% | 59 | 03/2026 | Contraction |
-| chu vực ven biển | 737 | Contractions | 2% | 4 | 09/2026 | trần rà soát |
-| Bắc | 1.046 | 815 | 1% | 23 | 10/2026 | trần rà soát |
-| [[V]] | 1.499 | 09.047 | 3% | 19 | 05/2026 | trần rà soát |
-| UM BTS-01 | 3.233 | 4.287 | 8% | 34 | 06/2026 | trần rà soát |
-| UM BTS-02 | 6.945 | 6.648 | 3% | 17 | 07/2026 | Contraction |
-| chu vực ven biển | 491 | 6.709 | 2% | Contraction | 211/2026 | Contraction |
-| chu vực đô thị | 5.649 | 07.623 | 1% | 5 | 02/2026 | Contraction |
-| chu vực miền núi | 073 | 1.953 | 5% | 07 | 08/2026 | Contraction |
-| UM BTS-01 | 09.615 | 6.695 | 5% | 22 | 08/2026 | trần rà soát |
-| UM BTS-02 | 04.069 | 699 | 2% | 37 | 04/2026 | Contraction |
-| chu vực ven biển | 1.173 | 07.879<br>Đã đối chiếu | 2% | 6 | 01/2026 | trần rà soát |
-| chu vực đô thị | 0.886 | 09.965 | 1% | Contraction | 04/2026 | trần rà soát |
-| chu vực miền núi | 217 | 2.605 | 2% | STATES | 3/11/2026 | Contraction |
-| UM BTS-01 | 612 | 792 | 2% | 6 | 08/2026 | Contractionalized<br>Contractions |
+| **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
+| **Khu vực** | **Thuê bao** | **Lưu lượng** | **Tỷ lệ rớt cuộc** | **Phản ánh** | **Ngày cập nhật** | **Xếp loại** |
+| Cụm BTS-01 | 26.386 | 93.991 | 0,7% | 71 | 26/10/2026 | B |
+| Cụm BTS-02 | 26.410 | 52.250 | 3,0% | 69 | 25/03/2026 | c |
+| Khu vực ven biển | 9.737 |  | 2,2% | 94 | 02/09/2026 | Cần rà soát |
+| Miền Bắc | 51.046 | 1.815 | 0,1% | 23 | 11/10/2026 | Cần rà soát |
+| [[V]] | 11.499 | 39.047 | 0,3% | 49 | 19/05/2026 | Cần rà soát |
+| Cụm BTS-01 | 53.233 | 64.287 | 1,8% | 84 | 21/06/2026 | Cần rà soát |
+| Cụm BTS-02 | 36.945 | 26.648 | 2,3% | 17 | 12/07/2026 | A |
+| Khu vực ven biển | 9.491 | 76.709 | 1,2% | 2 | 22/11/2026 | c |
+| Khu vực đô thị | 35.649 | 67.623 | 3,1% | 25 | 06/02/2026 | c |
+| Khu vực miền núi | 54.073 | 91.953 | 1,5% | 27 | 17/08/2026 | B |
+| Cụm BTS-01 | 49.615 | 56.695 | 2,5% | 22 | 28/08/2026 | Cần rà soát |
+| Cụm BTS-02 | 14.069 | 5.699 | 0,2% | 87 | 24/04/2026 | A |
+| Khu vực ven biển | 11.173 | 87.879<br>Đã đối chiếu | 3,2% | 26 | 15/01/2026 | Cần rà soát |
+| Khu vực đô thị | 10.886 | 19.965 | 1,1% | 4 | 02/04/2026 | Cần rà soát |
+| Khu vực miền núi | 8.217 | 92.605 | 3,2% | 6 | 23/11/2026 | c |
+| **Cụm BTS-01** | **3.612** | **4.792** | **1,2%** | **36** | **15/08/2026** |  |

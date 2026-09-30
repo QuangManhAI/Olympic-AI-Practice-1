@@ -1,10 +1,10 @@
 | **Địa bàn** | **Cây trồng** | **Diện tích (ha)** | **Sản lượng (tấn)** | **Ghi chú** |
 | --- | --- | --- | --- | --- |
-| Nội | 03000000099 | 08 | 424 | bạt kế hoạch |
-| Phòng | LÀ PHÊ | 1 | 036 | 00100000099 |
-| Năng | Thanh long | 46 | 922 | 00100000099 |
-| Thánh Hòa | TỒ TIÊU | 36 | 288 | bạt kế hoạch |
-| Bồng Nai | 0010100199 | 0910000000 | 32 | định |
-| Thơ | SAU MÀU | 40 | 060 | bạt kế hoạch |
-| Đồng | 03000000099 | 16 | 03000000009 | BEO Dõi sâu bệnh |
-| Nội | phê | 66 | 128 | NHẹ |
+| HÀ NỘI | Lúa | 808 | 2.424 | Đạt kế hoạch |
+| Hải Phòng | Cà phê | 31 | 186 | Tăng nhẹ |
+| Đà Nắng | Thanh long | 846 | 5.922 | Tăng nhẹ |
+| Khánh Hòa | Hồ tiêu | 536 | 4.288 | Đạt kế hoạch |
+| Đồng Nai | Xoài | 79 | 632 | Ổn định |
+| Cần Thơ | Rau màu | 340 | 3.060 | Đạt kế hoạch |
+| Lâm Đồng | Lúa | 316 | 948 | Theo dõi sâu bệnh |
+| **Hà Nội** | **Cà phê** | **766** | **6.128** | **Tăng nhẹ** |
