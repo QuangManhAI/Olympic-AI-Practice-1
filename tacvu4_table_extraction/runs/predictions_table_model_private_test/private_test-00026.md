@@ -1,4 +1,4 @@
-| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyến mới** | **Thiếu/thừa** |
+| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyển mới** | **Thiếu/thừa** |
 | --- | --- | --- | --- | --- |
 | Kinh doanh | 13 | 8 | 5 | 5 |
 | Kế toán | 17 | 17 | 0 | %0 |

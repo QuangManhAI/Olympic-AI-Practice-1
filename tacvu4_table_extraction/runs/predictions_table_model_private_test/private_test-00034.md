@@ -15,15 +15,15 @@
 | **KẾT QUẢ QUAN TRẮC CHẤT LƯỢNG MÔI TRƯỜNG — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
-| **Điểm quan trắc** | **pH** | **COD** | **BOD5** | **Mức đánh giá** | **Kỳ trước** | **Mã tham chiếu** |
+| **Điểm quan trắc** | **pH** | **COD** | **B0D5** | **Mức đánh giá** | **Kỳ trước** | **Mã tham chiếu** |
 | Sông Hồng | 8,27 | 63 | 45 | Tốt | 2.511 | HS3278 |
 | Sông Hương | 6,23 | 15 | 24 | Cần theo dõi | 4.636 | HS5760 |
 | Hồ Xuân Hương | 6,48 | 40 | 48 | Chấp nhận | 6.438 | HS9203 |
 | KCN Long Thành | 7,80 | 48 | 43 | Chấp nhận | 5.449 | HS6425 |
-| Cửa biển Đà Nắng | 6,13 | 89 | 15 | Chấp nhận | 8.033 | HS5414 |
-| Sông Hồng<br>Đã đối chiếu | 7,22 | 40 |  | Chấp nhận | 2.587 | HSO832 |
-| HÀ NỘI | 7,17 | 66 | 13 | Tốt | 6.617 | HS5049 |
+| Cửa biển Đà Nẵng | 6,13 | 89 | 15 | Chấp nhận | 8.033 | HS5414 |
+| Sông Hồng<br>Đã đối chiếu | 7,22 | 40 |  | Chấp nhận | 2.587 | HS0832 |
+| Hà Nội | 7,17 | 66 | 13 | Tốt | 6.617 | HS5049 |
 | [[V]] | 7,89 | 22 | 46 | Cần theo dõi | 3.627 | HS3880 |
-| KCN Long Thành | 7,96 | 69 |  | Vượt ngưõng | 3.705 | HS7107 |
-| Cửa biển Đà Nắng | 6,28 | 92 | 31 | Chấp nhận | 4.645 | HS7771 |
+| KCN Long Thành | 7,96 | 69 |  | Vượt ngưỡng | 3.705 | HS7107 |
+| Cửa biển Đà Nẵng | 6,28 | 92 | 31 | Chấp nhận | 4.645 | HS7771 |
 | **Sông Hồng** | **7,78** | **63** | **11** | **Tốt** | **8.625** | **HS5432** |

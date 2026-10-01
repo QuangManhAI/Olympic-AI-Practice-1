@@ -20,6 +20,6 @@
 | GT73 | Hợp tác xã Thành Công | 1.230 | 1.040 | Đã duyệt | 847 | 01/03/2026 |
 | GT47 | Công ty Việt Phát | 930 | 830 | Đã duyệt | 1.989 | 12/03/2026 |
 | GT26 | Công ty Nam Việt | 1.380 | 1.160 | Đang thực hiện | 2.691 | 04/12/2026 |
-| HÀ NỘI | Công ty Minh An | 260 | 100 | Đang thực hiện | 4.512 | 25/06/2026 |
+| Hà Nội | Công ty Minh An | 260 | 100 | Đang thực hiện | 4.512 | 25/06/2026 |
 | [[V]] | Công ty Đông Á | 1.800 | 1.710 | Đang thực hiện | 7.439 |  |
 | **GT02** | **Hợp tác xã Thành Công** | **2.270** | **2.120** | **Chờ nghiệm thu** | **4.102** | **01/10/2026** |

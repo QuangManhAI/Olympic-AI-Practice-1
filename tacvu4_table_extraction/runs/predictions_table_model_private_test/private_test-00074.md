@@ -1,7 +1,7 @@
 | **TỔNG HỢP NHÂN SỰ THEO ĐƠN VỊ BẢNG 1** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Thông tin chung** | [[H]] | [[H]] | **Số liệu báo cáo** | [[H]] | [[H]] | [[H]] |
-| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyến mới** | **Thiếu/thừa** | **Ghi chú bố sung** | **Lũy kế** |
+| **Phòng ban** | **Định biên** | **Hiện có** | **Tuyển mới** | **Thiếu/thừa** | **Ghi chú bổ sung** | **Lũy kế** |
 | Kinh doanh | 35 | 38 | 0 | %3 | Điều chỉnh kỳ sau | 3.522 |
 | Đồng Nai | 19 | 15 | 4 | 4 | Điều chỉnh kỳ sau | 2.035 |
 | [[V]] |  | 11 | 0 | %3 | Điều chỉnh kỳ sau | 5.177 |
@@ -12,7 +12,7 @@
 | Kế toán | 23 | 22 | 1 | -1 | Chưa đủ chứng từ | 750 |
 | Vận hành | 16 | 18 | 0 | 42 | Đã đối chiếu | 7.793 |
 | Công nghệ | 42 | 35 | 7 | -7 | Đã đối chiếu | 6.003 |
-| **Hành chính** | **34** | **31** | **3** | **3** | **Chưa dủ chứng từ** | **7.647** |
+| **Hành chính** | **34** | **31** | **3** | **3** | **Chưa đủ chứng từ** | **7.647** |
 
 | **GIẢI QUYẾT CHẾ ĐỘ BẢO HIỂM XÃ HỘI — BẢNG 2** | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] | [[H]] |
 | --- | --- | --- | --- | --- | --- | --- |
