@@ -31,3 +31,4 @@ tacvu4_table_extraction/runs/model_a/grid_crnn.pt
 *.safetensors
 *.jsonl
 tacvu4_zocr/TACVU2/runs/question_router_layoutlmv3.pt
+*.xlsx
