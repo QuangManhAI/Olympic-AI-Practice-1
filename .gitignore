@@ -34,3 +34,8 @@ tacvu4_zocr/TACVU2/runs/question_router_layoutlmv3.pt
 *.xlsx
 *.mp4
 *.npz
+*.zh 
+*.vi
+*.txt
+*.vocab
+*.model
