@@ -10,3 +10,6 @@ pandas
 numpy
 tqdm
 Pillow
+matplotlib
+opencv-python
+ipykernel
