@@ -39,3 +39,4 @@ tacvu4_zocr/TACVU2/runs/question_router_layoutlmv3.pt
 *.txt
 *.vocab
 *.model
+*.tsv
