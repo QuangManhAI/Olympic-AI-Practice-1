@@ -11,8 +11,17 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 **Dữ liệu luyện tập**
 
-- Dùng data TrashNet (tác vụ 2 CK): `train/images/` + `train.csv`, 6 lớp. Data nằm ở `đề code tay/data/data-2/TACVU2/`.
-- Khi chỉ cần test shape/code nhanh: `torchvision.datasets.FakeData(size=200, image_size=(3, 224, 224), num_classes=6, transform=...)`.
+- Dùng data **ảnh vệ tinh bão** ở `đề code tay/data/data-2/dataset/`:
+  - `train/images/` (8385 ảnh `.jpg`, ~960×960 RGB) + `train/annotations.csv`.
+  - `public_test/images/` (1200 ảnh) và `private_test/images/` (2398 ảnh), không có nhãn.
+- `annotations.csv` có 3 cột: `file_name, is_negative, category_id`.
+  - `is_negative = TRUE` → ảnh **không có bão**, `category_id` để trống (NaN). 2548 ảnh.
+  - `is_negative = FALSE` → ảnh có bão, `category_id` ∈ **{1, 2, 3, 4}** = cấp cường độ (1 yếu nhất → 4 mạnh nhất).
+  - Tên file `YYYYMMDDHHMM_<mã bão>_<hash>.jpg`, vd. `201508010000_1513_8f8e20b8.jpg` = bão số 13 năm 2015, lúc 00:00 ngày 01/08/2015. Mỗi cơn bão có nhiều ảnh cách nhau 3 giờ (110 cơn bão trong train), và cùng một thời điểm thường có 1 ảnh dương + 1 ảnh âm.
+  - Train là bão năm 2015–2019; test chủ yếu là bão 2019–2020 → test là **bão mới, chưa thấy khi train**.
+- Bài toán quy về **phân loại 5 lớp**: `label = 0` nếu không có bão, `label = category_id` (1–4) nếu có bão.
+- File nộp (giả định cùng định dạng `annotations.csv`): `file_name,is_negative,category_id`; dòng âm thì `is_negative=TRUE` và `category_id` để trống. Nếu đề/baseline BTC ghi khác thì theo BTC.
+- Khi chỉ cần test shape/code nhanh: `torchvision.datasets.FakeData(size=200, image_size=(3, 224, 224), num_classes=5, transform=...)`.
 
 ---
 
@@ -31,24 +40,36 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 ## Phần 1 — Dataset và chia tập
 
-- [X] **1.1 Đọc nhãn.** Đọc `train.csv` bằng pandas (2 cột: `file_name`, `category_id` với giá trị **1–6**). In số ảnh, số ảnh mỗi lớp.
+- [X] **1.1 Đọc nhãn.** Đọc `train/annotations.csv` bằng pandas. In số ảnh, số ảnh âm/dương, số ảnh mỗi `category_id`.
 
-  - Tạo `CLASSES = ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']` (thứ tự theo baseline: 1 = cardboard … 6 = trash), rồi `idx2class` và `class2idx` theo **chỉ số PyTorch 0–5**.
-  - Thêm cột `label = category_id - 1` để train; khi ghi file nộp thì **cộng 1 lại**.
-  - **Kiểm tra:** `len(class2idx) == 6`; `idx2class[class2idx['glass']] == 'glass'`; `df.label.min() == 0 and df.label.max() == 5`; số ảnh = 10612, lớp `trash` ít nhất (574).
-- [ ] **1.2 Chia train/val có phân tầng (stratify).** Chia 85/15, giữ tỉ lệ các lớp.
-
-  - **Kiểm tra:** tỉ lệ từng lớp ở train và val chênh nhau < 1%. Không có ảnh nào nằm ở cả hai tập: `len(set(tr.file_name) & set(va.file_name)) == 0`.
+  - Để ý `is_negative` được đọc thành `bool`, còn `category_id` thành `float64` vì có NaN.
+  - Tạo `CLASSES = ['no_storm', 'cat1', 'cat2', 'cat3', 'cat4']`, rồi `idx2class` (`int → tên`) và `class2idx` (`tên → int`) theo **chỉ số PyTorch 0–4** — chỉ số là **số nguyên** `0, 1, 2, 3, 4`, đúng loại giá trị mà `CrossEntropyLoss` nhận làm nhãn, không phải chuỗi `'0'`.
+  - Thêm cột `label = category_id.fillna(0).astype(int)` (âm → 0, bão giữ nguyên 1–4). Khi ghi file nộp thì đổi ngược: `label 0` → `is_negative=True`, `category_id` trống; `label k > 0` → `is_negative=False`, `category_id = k`.
+  - Thêm cột `storm_id` = phần thứ 2 của tên file (`'1513'`) và `year` = 2 số đầu của `storm_id`.
+  - **Kiểm tra:** `len(class2idx) == 5`; `idx2class[class2idx['cat3']] == 'cat3'`; `class2idx['cat3'] == 3`; `idx2class[0] == 'no_storm'`; `df.label.min() == 0 and df.label.max() == 4`; `(df.label == 0).sum() == df.is_negative.sum() == 2548`; số ảnh = 8385, lớp `cat3` ít nhất (770); `df.storm_id.nunique() == 110`.
 
 <details><summary>Gợi ý cú pháp</summary>
 
-`sklearn.model_selection.train_test_split(df, test_size=0.15, stratify=df[col], random_state=42)`, `value_counts(normalize=True)`
+`df.category_id.isna()`, `fillna(0).astype(int)`, `df.file_name.str.split('_').str[1]`, `pd.crosstab(df.is_negative, df.label)`
 
 </details>
 
-- [ ] **1.3 Viết class `ImageDataset(Dataset)`.** Nhận `df`, `img_dir`, `transform`, `has_label=True`. `__getitem__` trả `(tensor, label)` khi có nhãn, `(tensor, file_name)` khi là tập test.
-  - Ảnh phải `.convert('RGB')` (ảnh PNG có kênh alpha, ảnh xám sẽ làm lỗi).
-  - **Kiểm tra:** `x, y = ds[0]` → `x.shape == (3, 224, 224)`, `x.dtype == torch.float32`, `type(y) == int`.
+- [X] **1.2 Chia train/val theo cơn bão (group) + phân tầng.** Chia ~80/20, giữ tỉ lệ lớp, **mọi ảnh của cùng một cơn bão phải nằm cùng một tập**.
+
+  - Vì sao: ảnh cùng cơn bão cách nhau 3 giờ gần như giống hệt nhau. Chia ngẫu nhiên theo ảnh → val bị "lộ" (leak) → F1 val rất cao nhưng test (bão mới) thấp.
+  - Thử so sánh: chia ngẫu nhiên `train_test_split(..., stratify=...)` vs chia theo group, train cùng model → F1 val của cách ngẫu nhiên cao hơn hẳn, nhưng nó đang nói dối.
+  - **Kiểm tra:** `len(set(tr.storm_id) & set(va.storm_id)) == 0`; `len(set(tr.file_name) & set(va.file_name)) == 0`; tỉ lệ từng lớp ở train và val chênh nhau < 6% (chia theo group không cân đều được như chia theo ảnh).
+
+<details><summary>Gợi ý cú pháp</summary>
+
+`from sklearn.model_selection import StratifiedGroupKFold`; `sgkf = StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42)`; `tr_idx, va_idx = next(sgkf.split(df, df.label, groups=df.storm_id))`; `value_counts(normalize=True)`. Cách khác giống test hơn: lấy các cơn bão mới nhất (vd. năm 2019 và cuối 2018) làm val.
+
+</details>
+
+- [X] **1.3 Viết class `ImageDataset(Dataset)`.** Nhận `df`, `img_dir`, `transform`, `has_label=True`. `__getitem__` trả `(tensor, label)` khi có nhãn, `(tensor, file_name)` khi là tập test.
+  - Ảnh vẫn nên `.convert('RGB')` (data này toàn JPG RGB, nhưng ngày thi gặp PNG có kênh alpha hoặc ảnh xám sẽ lỗi).
+  - Ảnh gốc ~960×960 → đọc chậm. Nếu train nhiều epoch, viết thêm 1 script resize trước toàn bộ ảnh về 256×256, lưu sang thư mục khác.
+  - **Kiểm tra:** `x, y = ds[0]` → `x.shape == (3, 224, 224)`, `x.dtype == torch.float32`, `type(y) == int`, `0 <= y <= 4`.
 
 <details><summary>Gợi ý cú pháp</summary>
 
@@ -56,15 +77,16 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 </details>
 
-- [ ] **1.4 Dataset cho tập test không có csv.** Liệt kê ảnh bằng `sorted(os.listdir(...))`, chỉ giữ đuôi `.jpg/.jpeg/.png` (cả chữ hoa).
+- [X] **1.4 Dataset cho tập test không có csv.** Viết hàm `make_test_df(img_dir)` liệt kê ảnh bằng `sorted(os.listdir(...))`, chỉ giữ đuôi `.jpg/.jpeg/.png` (cả chữ hoa). Dùng cho cả `public_test` và `private_test`.
 
-  - **Kiểm tra:** số ảnh đúng bằng số file ảnh trong thư mục; thứ tự giữ nguyên giữa 2 lần chạy.
+  - **Kiểm tra:** `len(make_test_df(public_dir)) == 1200`, `len(make_test_df(private_dir)) == 2398`; thứ tự giữ nguyên giữa 2 lần chạy.
 - [ ] **1.5 DataLoader.** Tạo `dl_tr` (shuffle=True, drop_last=True), `dl_va` và `dl_te` (shuffle=False). `num_workers=2`, `pin_memory=True`.
 
   - **Kiểm tra:** `xb, yb = next(iter(dl_tr))` → `xb.shape == (BS, 3, 224, 224)`, `yb.shape == (BS,)`.
 - [ ] **1.6 Xử lý mất cân bằng lớp — 2 cách.**
 
-  - (a) Tính `class_weights` = `N / (num_classes * count_c)` để đưa vào loss.
+  - Phân bố 5 lớp: `no_storm` 2548, `cat1` 1931, `cat2` 1583, `cat3` 770, `cat4` 1553.
+  - (a) Tính `class_weights` = `N / (num_classes * count_c)` để đưa vào loss. **Kiểm tra (a):** trọng số lớn nhất là của `cat3` (≈ 2.18 trên toàn bộ train).
   - (b) Dùng `WeightedRandomSampler` (mỗi ảnh có trọng số `1 / count` của lớp nó).
   - **Kiểm tra (b):** lấy 20 batch, đếm nhãn → các lớp xấp xỉ đều nhau.
 
@@ -74,21 +96,25 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 </details>
 
-- [ ] **1.7 K-Fold.** Dùng `StratifiedKFold(n_splits=5)` gán cột `fold` vào df.
-  - **Kiểm tra:** mỗi ảnh có đúng 1 fold; mỗi fold có ~20% dữ liệu.
+- [ ] **1.7 K-Fold theo cơn bão.** Dùng `StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42)` với `groups=df.storm_id` gán cột `fold` vào df.
+  - **Kiểm tra:** mỗi ảnh có đúng 1 fold; mỗi `storm_id` chỉ thuộc 1 fold (`df.groupby('storm_id').fold.nunique().max() == 1`); mỗi fold có khoảng 18–25% dữ liệu (không đều tuyệt đối vì các cơn bão dài ngắn khác nhau).
 
 ---
 
 ## Phần 2 — Augmentation
 
 - [ ] **2.1 Transform bằng torchvision.**
-  - `train_tf`: RandomResizedCrop(224, scale=(0.7, 1)), HorizontalFlip, Rotation(15), ColorJitter nhẹ, ToTensor, Normalize ImageNet.
+  - `train_tf`: Resize(256) → RandomResizedCrop(224, scale=(0.8, 1)), Rotation(180), ColorJitter nhẹ, ToTensor, Normalize ImageNet.
+  - Suy nghĩ trước khi chọn augment cho ảnh vệ tinh:
+    - Xoay góc bất kỳ: **hợp lý** (ảnh nhìn từ trên xuống, không có "phía trên").
+    - Lật ngang/dọc: bão Bắc bán cầu luôn xoáy **ngược chiều kim đồng hồ** — lật ảnh làm xoáy đổi chiều, ra ảnh không có thật. Thử train có và không có flip rồi so F1 val.
+    - Crop quá nhỏ (scale 0.3) có thể cắt mất mắt bão → nhãn sai.
   - `val_tf`: Resize(256) → CenterCrop(224) → ToTensor → Normalize.
   - **Kiểm tra:** cùng 1 ảnh qua `train_tf` 2 lần ra 2 tensor khác nhau; qua `val_tf` 2 lần ra giống hệt.
 
 <details><summary>Gợi ý cú pháp</summary>
 
-`torchvision.transforms as T`, `T.Compose`, `T.RandomResizedCrop`, `T.RandomHorizontalFlip`, `T.RandomRotation`, `T.ColorJitter(0.2, 0.2, 0.2)`, `T.ToTensor()`, `T.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])`
+`torchvision.transforms as T`, `T.Compose`, `T.Resize`, `T.RandomResizedCrop`, `T.RandomRotation(180)`, `T.RandomHorizontalFlip`, `T.ColorJitter(0.2, 0.2, 0.2)`, `T.ToTensor()`, `T.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])`
 
 </details>
 
@@ -97,7 +123,7 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 <details><summary>Gợi ý cú pháp</summary>
 
-`import albumentations as A`, `from albumentations.pytorch import ToTensorV2`, `np.array(PIL_img)`, `A.Resize`, `A.HorizontalFlip(p=0.5)`, `A.ShiftScaleRotate`, `A.Normalize()`, `ToTensorV2()`
+`import albumentations as A`, `from albumentations.pytorch import ToTensorV2`, `np.array(PIL_img)`, `A.Resize`, `A.RandomResizedCrop`, `A.Rotate(limit=180)`, `A.RandomRotate90`, `A.ColorJitter`, `A.Normalize()`, `ToTensorV2()`
 
 </details>
 
@@ -112,13 +138,21 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 - [ ] **2.4 Tự code augment trên tensor (không dùng thư viện).**
 
-  - `random_hflip(x, p)`: lật ngang với xác suất p.
+  - `random_rot90(x)`: xoay ngẫu nhiên 0/90/180/270 độ.
+  - `random_hflip(x, p)`: lật ngang với xác suất p (để so sánh, xem 2.1).
   - `random_crop(x, size)`: cắt ngẫu nhiên vùng `size×size`.
   - `cutout(x, size)`: tô 0 một ô vuông ngẫu nhiên.
-  - **Kiểm tra:** `random_hflip(x, p=1)` lật 2 lần ra lại `x` (`torch.equal`); `random_crop` ra đúng shape.
+  - **Kiểm tra:** xoay 90° bốn lần ra lại `x` (`torch.equal`); `random_hflip(x, p=1)` lật 2 lần ra lại `x`; `random_crop` ra đúng shape.
+
+<details><summary>Gợi ý cú pháp</summary>
+
+`torch.rot90(x, k, dims=(1, 2))` (với `x` shape `(C,H,W)`), `torch.flip(x, dims=[2])`, `torch.randint(0, 4, (1,)).item()`
+
+</details>
 - [ ] **2.5 Mixup.** Viết hàm nhận batch `(x, y)`, trộn với batch đã hoán vị theo `lam ~ Beta(0.4, 0.4)`. Loss = `lam * CE(out, y) + (1 - lam) * CE(out, y_perm)`.
 
-  - **Kiểm tra:** với `lam = 1` kết quả bằng loss bình thường.
+- **Kiểm tra:** với `lam = 1` kết quả bằng loss bình thường.
+
 - [ ] **2.6 (Nâng cao) CutMix.** Dán một vùng chữ nhật từ ảnh khác; `lam` = 1 − diện tích vùng dán / diện tích ảnh.
 
 ---
@@ -136,7 +170,7 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 </details>
 
 - [ ] **3.2 Thay head cho từng họ model.** Viết `build_model(name, num_classes, weight_path=None)` hỗ trợ: `resnet18/34`, `densenet121`, `efficientnet_b0/b1/b2`, `mobilenet_v3_large`, `regnet_y_800mf`, `vit_b_16`.
-  - **Kiểm tra:** với mọi tên, `build_model(name, 6)(torch.randn(2, 3, 224, 224)).shape == (2, 6)`.
+  - **Kiểm tra:** với mọi tên, `build_model(name, 5)(torch.randn(2, 3, 224, 224)).shape == (2, 5)`.
 
 <details><summary>Gợi ý cú pháp</summary>
 
@@ -181,7 +215,7 @@ Hàm đếm: `sum(p.numel() for p in m.parameters())`.
 
 - [ ] **4.1 CNN đơn giản.** Khối `ConvBNReLU(in, out)` = Conv3×3 (bias=False) → BatchNorm → ReLU. Xếp 4 tầng (32-64-128-256), mỗi tầng có MaxPool, cuối là AdaptiveAvgPool → Flatten → Linear.
 
-  - **Kiểm tra:** shape đúng; train 3 epoch trên TrashNet loss giảm.
+  - **Kiểm tra:** shape đúng; train 3 epoch trên data bão loss giảm.
 - [ ] **4.2 ResNet-18.**
 
   - `BasicBlock`: conv3×3 → BN → ReLU → conv3×3 → BN, cộng shortcut, ReLU. Khi `stride != 1` hoặc đổi số kênh thì shortcut là `downsample = Sequential(conv1×1, BN)`.
@@ -253,7 +287,7 @@ Hàm đếm: `sum(p.numel() for p in m.parameters())`.
 
   - Train: `model.train()`, đưa lên device, `zero_grad` → forward → loss → backward → step. Trả loss trung bình.
   - Evaluate: `model.eval()` + `torch.no_grad()`, trả `loss, acc, macro_f1`, cùng mảng xác suất.
-  - **Kiểm tra:** model chưa train có acc ≈ 1/6; sau 3 epoch acc tăng rõ.
+  - **Kiểm tra:** model chưa train có macro F1 thấp (cỡ ≤ 0.2, luôn đoán 1–2 lớp); sau 3 epoch F1 tăng rõ. Mốc tham chiếu: đoán toàn `no_storm` được acc ≈ 0.30 — model phải vượt xa con số này.
 - [ ] **6.2 Mixed precision + gradient clipping.** Thêm `torch.autocast('cuda', dtype=torch.float16)` và `GradScaler`; clip norm = 1.0.
 
   - **Kiểm tra:** thời gian 1 epoch giảm so với 6.1; loss không ra `nan`.
@@ -270,13 +304,20 @@ Hàm đếm: `sum(p.numel() for p in m.parameters())`.
   - **Kiểm tra:** sau resume, epoch tiếp theo in ra đúng số thứ tự, LR tiếp tục đúng chỗ.
 - [ ] **6.5 Predict + TTA + file nộp.**
 
-  - `predict(model, dl_te, tta=True)`: softmax của ảnh gốc + ảnh lật ngang, lấy trung bình.
-  - Ghi `submission.csv` (`file_name,category_id`), kiểm tra bằng hàm `check_submission`, rồi zip kèm notebook.
-  - `check_submission`: đúng tên cột, đủ số dòng, không trùng, tập tên file khớp thư mục test, nhãn hợp lệ, in phân bố nhãn.
-  - **Kiểm tra:** cố tình xoá 1 dòng / sửa 1 nhãn thành 9 → hàm báo lỗi.
+  - `predict(model, dl_te, tta=True)`: softmax của ảnh gốc + 3 bản xoay 90/180/270°, lấy trung bình (không dùng lật, xem 2.1).
+  - Viết `to_submission(names, preds)`: `pred 0` → `is_negative=True`, `category_id` trống; `pred k > 0` → `is_negative=False`, `category_id=k`. Ghi `submission.csv` (`file_name,is_negative,category_id`) cho **cả public_test và private_test** (gộp hoặc tách file theo yêu cầu BTC), kiểm tra bằng `check_submission`, rồi zip kèm notebook.
+  - `check_submission`: đúng tên cột, đủ số dòng, không trùng, tập tên file khớp thư mục test, `category_id` ∈ {1,2,3,4}, `category_id` trống **khi và chỉ khi** `is_negative` là True, in phân bố nhãn.
+  - **Kiểm tra:** cố tình xoá 1 dòng / sửa 1 `category_id` thành 9 / gán `category_id=2` cho 1 dòng âm → hàm đều báo lỗi.
+
+<details><summary>Gợi ý cú pháp</summary>
+
+`torch.rot90(x, k, dims=(2, 3))` (batch `(B,C,H,W)`), `np.where(preds == 0, np.nan, preds)`, `df['category_id'] = df['category_id'].astype('Int64')` để ghi số nguyên mà vẫn để trống được (không ra `2.0`), `df.to_csv(..., index=False)`
+
+</details>
 - [ ] **6.6 Ensemble.** Train 2 model khác nhau (vd. efficientnet_b0 + resnet34), lấy trung bình xác suất.
 
-  - **Kiểm tra:** F1 ensemble trên val ≥ model tốt hơn trong 2 model (thường là vậy).
+- **Kiểm tra:** F1 ensemble trên val ≥ model tốt hơn trong 2 model (thường là vậy).
+
 - [ ] **6.7 (Nâng cao) EMA của trọng số.** Sau mỗi step: `ema_p = 0.999·ema_p + 0.001·p`. Đánh giá bằng model EMA.
 
 ---
@@ -286,6 +327,7 @@ Hàm đếm: `sum(p.numel() for p in m.parameters())`.
 - [ ] **7.1 Đường cong train.** Vẽ `tr_loss`/`va_loss` và `va_f1` theo epoch trên 2 subplot. Tự nhận biết overfit (val loss tăng khi train loss giảm).
 - [ ] **7.2 Phân bố lớp.** Bar chart số ảnh mỗi lớp ở train; và phân bố nhãn dự đoán trên test.
 - [ ] **7.3 Confusion matrix** trên val, có tên lớp, dạng heatmap. In `classification_report`.
+  - Cấp bão là nhãn **có thứ tự** (1 < 2 < 3 < 4): xem lỗi có dồn vào các ô sát đường chéo không (nhầm cat2↔cat3 dễ hiểu hơn nhầm cat1↔cat4). Tách riêng: acc nhị phân "có bão / không bão" và macro F1 trên 4 cấp bão.
 
 <details><summary>Gợi ý cú pháp</summary>
 
@@ -337,15 +379,16 @@ crit = nn.CrossEntropyLoss()
 dl_te = DataLoader(test_ds, batch_size=64, shuffle=True)
 names = sorted(os.listdir(test_dir))
 preds = predict(model, dl_te)
-pd.DataFrame({'file_name': names, 'category_id': preds}).to_csv('submission.csv')
+pd.DataFrame({'file_name': names, 'is_negative': preds == 0,
+              'category_id': preds}).to_csv('submission.csv')
 ```
 
 **8.5**
 
 ```python
 val_tf = T.Compose([T.Resize((224, 224)), T.ToTensor()])          # train_tf có Normalize
-img = Image.open(path)                                             # một số ảnh là PNG RGBA
-label = class2idx[row['label']] + 1
+img = Image.open(path)                                             # ngày thi có thể gặp PNG RGBA
+label = int(row['category_id']) - 1
 ```
 
 **8.6**
@@ -360,7 +403,7 @@ for ep in range(EPOCHS):
 
 ```python
 m = torchvision.models.efficientnet_b0()
-m.fc = nn.Linear(1280, 6)
+m.fc = nn.Linear(1280, 5)
 m.load_state_dict(torch.load('effb0.pth'))
 ```
 
@@ -371,8 +414,8 @@ m.load_state_dict(torch.load('effb0.pth'))
 - **8.1** Thiếu `opt.zero_grad()` → gradient cộng dồn qua các batch.
 - **8.2** Phải `model.eval()` (BN/Dropout đang ở chế độ train); `preds` chưa khởi tạo.
 - **8.3** `CrossEntropyLoss` đã có softmax bên trong → trả **logits**, không softmax.
-- **8.4** Test loader `shuffle=True` → dự đoán lệch thứ tự với `names`; thứ tự trong dataset phải cùng cách `sorted` với `names`; thiếu `index=False`.
-- **8.5** Val thiếu `Normalize` giống train; thiếu `.convert('RGB')`; `+ 1` làm lệch nhãn (trừ khi đề yêu cầu nhãn bắt đầu từ 1 — đọc kỹ đề/baseline).
+- **8.4** Test loader `shuffle=True` → dự đoán lệch thứ tự với `names`; thứ tự trong dataset phải cùng cách `sorted` với `names`; thiếu `index=False`; dòng âm vẫn ghi `category_id = 0` thay vì để trống, và dòng dương ghi ra `2.0` nếu cột bị ép float (dùng `astype('Int64')`).
+- **8.5** Val thiếu `Normalize` giống train; thiếu `.convert('RGB')`; `int(NaN)` báo lỗi với ảnh âm (`category_id` trống); `- 1` làm lệch nhãn — ở bộ này `label = category_id.fillna(0)`, lớp 0 là `no_storm`, không trừ 1 (đọc kỹ đề/baseline xem nhãn bắt đầu từ đâu).
 - **8.6** OneCycleLR tính theo **step** → phải gọi `sched.step()` sau mỗi batch, gọi theo epoch thì cả quá trình train chỉ đi được vài step đầu của chu kỳ, LR gần như đứng yên ở mức khởi đầu rất nhỏ.
 - **8.7** EfficientNet không có `fc` — head là `m.classifier[-1]`; và phải **nạp weights trước, thay head sau** (weights gốc có 1000 lớp).
 - **8.8** Giảm batch size → dùng autocast fp16/bf16 → giảm kích thước ảnh → model nhỏ hơn / gradient accumulation. Sau khi lỗi nhớ `del` biến và `torch.cuda.empty_cache()` (hoặc restart kernel).
@@ -383,15 +426,15 @@ m.load_state_dict(torch.load('effb0.pth'))
 
 ## Phần 9 — Bài thi thử tổng hợp (bấm giờ 90 phút, không nhìn notebook cũ)
 
-Notebook trắng, dữ liệu TrashNet. Phải xong theo đúng thứ tự:
+Notebook trắng, dữ liệu ảnh vệ tinh bão (`data-2/dataset`). Phải xong theo đúng thứ tự:
 
-1. (10') Đọc csv, chia stratified 85/15, Dataset + DataLoader, vẽ 8 ảnh kèm nhãn.
-2. (10') `build_model('efficientnet_b0', 6)` nạp weights từ file local.
-3. (40') Train AdamW + warmup cosine + AMP, lưu best theo macro F1, vẽ đường cong.
-4. (15') Confusion matrix, predict test với TTA, ghi `submission.csv`, chạy `check_submission`, zip.
+1. (10') Đọc `annotations.csv`, tạo `label` 0–4 và `storm_id`, chia `StratifiedGroupKFold` theo cơn bão (~80/20), Dataset + DataLoader, vẽ 8 ảnh kèm nhãn.
+2. (10') `build_model('efficientnet_b0', 5)` nạp weights từ file local.
+3. (40') Train AdamW + warmup cosine + AMP, augment xoay (không lật), lưu best theo macro F1, vẽ đường cong.
+4. (15') Confusion matrix, predict `public_test` + `private_test` với TTA xoay, ghi `submission.csv` đúng định dạng `file_name,is_negative,category_id`, chạy `check_submission`, zip.
 5. (15') Đổi sang `resnet34`, train lại, ensemble 2 model, so F1 val.
 
-**Đạt:** xong cả 5 bước trong 90 phút và F1 val vượt baseline BTC. Làm lại đến khi đạt 2 lần liên tiếp.
+**Đạt:** xong cả 5 bước trong 90 phút và macro F1 val vượt `SimpleCNN` (bài 4.1) rõ rệt. Làm lại đến khi đạt 2 lần liên tiếp.
 
 ---
 
