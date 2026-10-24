@@ -80,7 +80,7 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 - [X] **1.4 Dataset cho tập test không có csv.** Viết hàm `make_test_df(img_dir)` liệt kê ảnh bằng `sorted(os.listdir(...))`, chỉ giữ đuôi `.jpg/.jpeg/.png` (cả chữ hoa). Dùng cho cả `public_test` và `private_test`.
 
   - **Kiểm tra:** `len(make_test_df(public_dir)) == 1200`, `len(make_test_df(private_dir)) == 2398`; thứ tự giữ nguyên giữa 2 lần chạy.
-- [ ] **1.5 DataLoader.** Tạo `dl_tr` (shuffle=True, drop_last=True), `dl_va` và `dl_te` (shuffle=False). `num_workers=2`, `pin_memory=True`.
+- [X] **1.5 DataLoader.** Tạo `dl_tr` (shuffle=True, drop_last=True), `dl_va` và `dl_te` (shuffle=False). `num_workers=2`, `pin_memory=True`.
 
   - **Kiểm tra:** `xb, yb = next(iter(dl_tr))` → `xb.shape == (BS, 3, 224, 224)`, `yb.shape == (BS,)`.
 - [ ] **1.6 Xử lý mất cân bằng lớp — 2 cách.**
