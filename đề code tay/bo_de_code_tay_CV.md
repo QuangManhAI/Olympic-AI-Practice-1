@@ -83,7 +83,7 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 - [X] **1.5 DataLoader.** Tạo `dl_tr` (shuffle=True, drop_last=True), `dl_va` và `dl_te` (shuffle=False). `num_workers=2`, `pin_memory=True`.
 
   - **Kiểm tra:** `xb, yb = next(iter(dl_tr))` → `xb.shape == (BS, 3, 224, 224)`, `yb.shape == (BS,)`.
-- [ ] **1.6 Xử lý mất cân bằng lớp — 2 cách.**
+- [X] **1.6 Xử lý mất cân bằng lớp — 2 cách.**
 
   - Phân bố 5 lớp: `no_storm` 2548, `cat1` 1931, `cat2` 1583, `cat3` 770, `cat4` 1553.
   - (a) Tính `class_weights` = `N / (num_classes * count_c)` để đưa vào loss. **Kiểm tra (a):** trọng số lớn nhất là của `cat3` (≈ 2.18 trên toàn bộ train).
@@ -96,14 +96,14 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 </details>
 
-- [ ] **1.7 K-Fold theo cơn bão.** Dùng `StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42)` với `groups=df.storm_id` gán cột `fold` vào df.
+- [X] **1.7 K-Fold theo cơn bão.** Dùng `StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42)` với `groups=df.storm_id` gán cột `fold` vào df.
   - **Kiểm tra:** mỗi ảnh có đúng 1 fold; mỗi `storm_id` chỉ thuộc 1 fold (`df.groupby('storm_id').fold.nunique().max() == 1`); mỗi fold có khoảng 18–25% dữ liệu (không đều tuyệt đối vì các cơn bão dài ngắn khác nhau).
 
 ---
 
 ## Phần 2 — Augmentation
 
-- [ ] **2.1 Transform bằng torchvision.**
+- [X] **2.1 Transform bằng torchvision.**
   - `train_tf`: Resize(256) → RandomResizedCrop(224, scale=(0.8, 1)), Rotation(180), ColorJitter nhẹ, ToTensor, Normalize ImageNet.
   - Suy nghĩ trước khi chọn augment cho ảnh vệ tinh:
     - Xoay góc bất kỳ: **hợp lý** (ảnh nhìn từ trên xuống, không có "phía trên").
@@ -118,7 +118,7 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 </details>
 
-- [ ] **2.2 Cùng transform đó viết bằng albumentations.** Chú ý albumentations nhận **numpy array**, gọi theo kiểu `tf(image=img)['image']`.
+- [X] **2.2 Cùng transform đó viết bằng albumentations.** Chú ý albumentations nhận **numpy array**, gọi theo kiểu `tf(image=img)['image']`.
   - **Kiểm tra:** output là tensor `(3, 224, 224)`.
 
 <details><summary>Gợi ý cú pháp</summary>
@@ -127,7 +127,7 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 </details>
 
-- [ ] **2.3 Visualize augmentation.** Lấy 1 ảnh, áp `train_tf` 8 lần, vẽ lưới 2×4. Phải **denormalize** trước khi vẽ (nhân std, cộng mean, clip về [0, 1], đổi `(C,H,W)` → `(H,W,C)`).
+- [X] **2.3 Visualize augmentation.** Lấy 1 ảnh, áp `train_tf` 8 lần, vẽ lưới 2×4. Phải **denormalize** trước khi vẽ (nhân std, cộng mean, clip về [0, 1], đổi `(C,H,W)` → `(H,W,C)`).
   - **Kiểm tra:** ảnh hiện màu tự nhiên, không bị tối/nhiễu màu.
 
 <details><summary>Gợi ý cú pháp</summary>
@@ -136,7 +136,7 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 </details>
 
-- [ ] **2.4 Tự code augment trên tensor (không dùng thư viện).**
+- [X] **2.4 Tự code augment trên tensor (không dùng thư viện).**
 
   - `random_rot90(x)`: xoay ngẫu nhiên 0/90/180/270 độ.
   - `random_hflip(x, p)`: lật ngang với xác suất p (để so sánh, xem 2.1).
@@ -153,13 +153,13 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 - **Kiểm tra:** với `lam = 1` kết quả bằng loss bình thường.
 
-- [ ] **2.6 (Nâng cao) CutMix.** Dán một vùng chữ nhật từ ảnh khác; `lam` = 1 − diện tích vùng dán / diện tích ảnh.
+- [X] **2.6 (Nâng cao) CutMix.** Dán một vùng chữ nhật từ ảnh khác; `lam` = 1 − diện tích vùng dán / diện tích ảnh.
 
 ---
 
 ## Phần 3 — Model pretrained có sẵn (quan trọng nhất ngày thi)
 
-- [ ] **3.1 Nạp weights không cần mạng.** Lưu trước weights: `torch.save(torchvision.models.resnet18(weights='DEFAULT').state_dict(), 'r18.pth')`. Sau đó **giả lập ngày thi**: tạo model `weights=None`, nạp từ file.
+- [X] **3.1 Nạp weights không cần mạng.** Lưu trước weights: `torch.save(torchvision.models.resnet18(weights='DEFAULT').state_dict(), 'r18.pth')`. Sau đó **giả lập ngày thi**: tạo model `weights=None`, nạp từ file.
   - Viết code tự nhận biết file là `state_dict` (dict) hay cả model.
   - **Kiểm tra:** `load_state_dict` báo `<All keys matched successfully>`.
 
@@ -169,7 +169,7 @@ Mục tiêu: tự gõ lại được toàn bộ pipeline phân loại ảnh **kh
 
 </details>
 
-- [ ] **3.2 Thay head cho từng họ model.** Viết `build_model(name, num_classes, weight_path=None)` hỗ trợ: `resnet18/34`, `densenet121`, `efficientnet_b0/b1/b2`, `mobilenet_v3_large`, `regnet_y_800mf`, `vit_b_16`.
+- [X] **3.2 Thay head cho từng họ model.** Viết `build_model(name, num_classes, weight_path=None)` hỗ trợ: `resnet18/34`, `densenet121`, `efficientnet_b0/b1/b2`, `mobilenet_v3_large`, `regnet_y_800mf`, `vit_b_16`.
   - **Kiểm tra:** với mọi tên, `build_model(name, 5)(torch.randn(2, 3, 224, 224)).shape == (2, 5)`.
 
 <details><summary>Gợi ý cú pháp</summary>
@@ -185,7 +185,7 @@ Dùng `.in_features` để lấy số chiều vào.
 
 </details>
 
-- [ ] **3.3 Freeze → unfreeze.** Giai đoạn 1: đóng băng backbone, chỉ train head (2 epoch). Giai đoạn 2: mở hết, LR nhỏ hơn.
+- [X] **3.3 Freeze → unfreeze.** Giai đoạn 1: đóng băng backbone, chỉ train head (2 epoch). Giai đoạn 2: mở hết, LR nhỏ hơn.
   - **Kiểm tra:** in số tham số có `requires_grad=True` ở 2 giai đoạn (giai đoạn 1 chỉ vài nghìn).
 
 <details><summary>Gợi ý cú pháp</summary>
@@ -194,10 +194,10 @@ Dùng `.in_features` để lấy số chiều vào.
 
 </details>
 
-- [ ] **3.4 LR khác nhau cho backbone và head.** Optimizer với 2 param group: backbone `lr=1e-4`, head `lr=1e-3`.
+- [X] **3.4 LR khác nhau cho backbone và head.** Optimizer với 2 param group: backbone `lr=1e-4`, head `lr=1e-3`.
 
   - **Kiểm tra:** `[g['lr'] for g in opt.param_groups] == [1e-4, 1e-3]`.
-- [ ] **3.5 (Tuỳ chọn) timm nạp weights offline.**
+- [X] **3.5 (Tuỳ chọn) timm nạp weights offline.**
 
 <details><summary>Gợi ý cú pháp</summary>
 
