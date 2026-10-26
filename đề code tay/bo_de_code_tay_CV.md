@@ -213,10 +213,10 @@ Với mỗi model: (1) đầu vào `(2, 3, 224, 224)` ra `(2, num_classes)`; (2)
 
 Hàm đếm: `sum(p.numel() for p in m.parameters())`.
 
-- [ ] **4.1 CNN đơn giản.** Khối `ConvBNReLU(in, out)` = Conv3×3 (bias=False) → BatchNorm → ReLU. Xếp 4 tầng (32-64-128-256), mỗi tầng có MaxPool, cuối là AdaptiveAvgPool → Flatten → Linear.
+- [X] **4.1 CNN đơn giản.** Khối `ConvBNReLU(in, out)` = Conv3×3 (bias=False) → BatchNorm → ReLU. Xếp 4 tầng (32-64-128-256), mỗi tầng có MaxPool, cuối là AdaptiveAvgPool → Flatten → Linear.
 
   - **Kiểm tra:** shape đúng; train 3 epoch trên data bão loss giảm.
-- [ ] **4.2 ResNet-18.**
+- [X] **4.2 ResNet-18.**
 
   - `BasicBlock`: conv3×3 → BN → ReLU → conv3×3 → BN, cộng shortcut, ReLU. Khi `stride != 1` hoặc đổi số kênh thì shortcut là `downsample = Sequential(conv1×1, BN)`.
   - Thân: conv7×7 stride 2 (64) → BN → ReLU → MaxPool 3×3 stride 2 → 4 stage `[2, 2, 2, 2]` với kênh `64, 128, 256, 512` → AvgPool → fc.
