@@ -223,7 +223,7 @@ Hàm đếm: `sum(p.numel() for p in m.parameters())`.
   - **Kiểm tra 1:** với 1000 lớp, số tham số **= 11,689,512**.
   - **Kiểm tra 2 (khó, rất đáng làm):** đặt tên lớp giống torchvision (`conv1, bn1, layer1..layer4, fc`, trong block là `conv1, bn1, conv2, bn2, downsample`) để `my_model.load_state_dict(torchvision.models.resnet18(weights='DEFAULT').state_dict())` khớp hết key, và cho cùng output với model torchvision (`torch.allclose(..., atol=1e-5)` ở chế độ `eval()`).
   - **Mở rộng:** đổi thành ResNet-34 chỉ bằng cách đổi `[3, 4, 6, 3]` → **21,797,672** tham số.
-- [ ] **4.3 DenseNet-121.**
+- [X] **4.3 DenseNet-121.**
 
   - `DenseLayer`: BN → ReLU → Conv1×1 (4·k kênh) → BN → ReLU → Conv3×3 (k kênh); output **nối (concat)** với input theo chiều kênh. `k = 32` (growth rate).
   - `DenseBlock`: n layer, layer thứ i nhận `in + i·k` kênh.
