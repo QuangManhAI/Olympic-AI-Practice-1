@@ -230,7 +230,7 @@ Hàm đếm: `sum(p.numel() for p in m.parameters())`.
   - `Transition`: BN → ReLU → Conv1×1 (giảm kênh còn một nửa) → AvgPool 2×2.
   - Thân: Conv7×7 (64) → BN → ReLU → MaxPool → block `[6, 12, 24, 16]` xen 3 Transition → BN cuối → ReLU → AvgPool → Linear. Mọi conv `bias=False`.
   - **Kiểm tra:** 1000 lớp → **7,978,856** tham số; số kênh trước classifier là 1024.
-- [ ] **4.4 EfficientNet (khối MBConv).**
+- [X] **4.4 EfficientNet (khối MBConv).**
 
   - `SqueezeExcite(ch, se_ch)`: AvgPool → Conv1×1 (ch→se_ch) → SiLU → Conv1×1 (se_ch→ch) → Sigmoid → nhân lại vào input.
   - `MBConv(in, out, expand, kernel, stride)`: Conv1×1 mở rộng (bỏ qua khi expand=1) → BN → SiLU → **Depthwise** Conv k×k (`groups=hidden`) → BN → SiLU → SE (`se_ch = max(1, in // 4)`) → Conv1×1 thu hẹp → BN (không activation). Có residual khi `stride == 1 and in == out`.
