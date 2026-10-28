@@ -236,7 +236,7 @@ Hàm đếm: `sum(p.numel() for p in m.parameters())`.
   - `MBConv(in, out, expand, kernel, stride)`: Conv1×1 mở rộng (bỏ qua khi expand=1) → BN → SiLU → **Depthwise** Conv k×k (`groups=hidden`) → BN → SiLU → SE (`se_ch = max(1, in // 4)`) → Conv1×1 thu hẹp → BN (không activation). Có residual khi `stride == 1 and in == out`.
   - Cấu hình B0 (expand, kernel, stride, out, số lặp): `(1,3,1,16,1) (6,3,2,24,2) (6,5,2,40,2) (6,3,2,80,3) (6,5,1,112,3) (6,5,2,192,4) (6,3,1,320,1)`. Stem: Conv3×3 stride 2 (32). Head: Conv1×1 → 1280 → AvgPool → Dropout(0.2) → Linear.
   - **Kiểm tra:** shape đúng; số tham số với 1000 lớp ≈ **5.29M** (torchvision: 5,288,548; lệch < 2% là đạt).
-- [ ] **4.5 ViT (tự viết attention).**
+- [X] **4.5 ViT (tự viết attention).**
 
   - `PatchEmbed`: Conv2d(3, D, kernel=P, stride=P) → flatten → `(B, N, D)` với `N = (224/P)²`.
   - Thêm `cls_token` (`nn.Parameter` shape `(1, 1, D)`) ở đầu và `pos_embed` (`(1, N+1, D)`).
